@@ -1,6 +1,4 @@
-# SpaceLab Document Template
-
-This a LaTeX template to use in the SpaceLab projects.
+# Flatsat Platform Documentation
 
 ## Dependencies
 
