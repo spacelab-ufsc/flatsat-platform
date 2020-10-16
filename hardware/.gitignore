@@ -1,0 +1,9 @@
+
+# Altium version control and status files
+*History
+*__Previews
+*.PrjPCBStructure
+Project Outputs*
+*.log
+*.Dat
+Status Report.txt
