@@ -1,0 +1,4049 @@
+#
+#Component attribute names
+#
+@0 .comp_mount_type
+@1 .comp_height
+
+# CMP 0
+CMP 13 7.1083858 4.2577953 0 N CN16 Inner_SSW-126-01-G-D ;0=2,1=0.1220
+PRP Color 'Black'
+PRP ComponentLink1Description 'http://suddendocs.samtec.com/prints/ssw-1xx-xx-xxx-x-xx-xxx-xx-mkt.pdf?src-supplier=Digi-Key'
+PRP ComponentLink1URL 'http://suddendocs.samtec.com/prints/ssw-1xx-xx-xxx-x-xx-xxx-xx-mkt.pdf?src-supplier=Digi-Key'
+PRP Connector_Type 'Receptacle,Socket'
+PRP Contact_Material 'Bronze'
+PRP Contact_Plating 'Gold'
+PRP Contact_Resistance '10mR'
+PRP Depth '4.95mm'
+PRP Gender 'Receptacle'
+PRP Housing_Color 'Black'
+PRP Housing_Material 'Polymer'
+PRP Lead_Free 'Lead Free'
+PRP Length '66.55mm'
+PRP Manufacturer 'Samtec'
+PRP Manufacturer_Part_Number 'SSW-126-01-G-D'
+PRP Mating_Cycles '100'
+PRP Max_Current_Rating '5.5A'
+PRP Max_Operating_Temperature '125°C'
+PRP Max_Voltage_Rating_(AC) '550V'
+PRP Min_Operating_Temperature '-55°C'
+PRP Mount 'Through Hole'
+PRP Number_of_Contacts '52'
+PRP Number_of_Positions '52'
+PRP Number_of_Rows '2'
+PRP Orientation 'Straight'
+PRP Packaging 'Bulk'
+PRP Partnumber 'SSW-126-01-G-D'
+PRP Pitch '2.54mm'
+PRP Pricing_1 '1=6.95, 10=5.8, 100=4.93, 250=4.4, 500=4.05, 1000=3.8 (USD)'
+PRP Pricing_2 '1=6.69, 10=6.415, 25=5.8576, 50=5.5786, 100=5.2996, 250=4.74176, 500=4.46284 (USD)'
+PRP REACH_SVHC 'No SVHC'
+PRP Row_Spacing '0.1inch'
+PRP Stock_1 '86'
+PRP Stock_2 '0'
+PRP Supplier_1 'Mouser'
+PRP Supplier_2 'Digi-Key'
+PRP Supplier_Part_Number_1 '200-SSW12601GD'
+PRP Supplier_Part_Number_2 'SAM1208-26-ND'
+PRP Termination 'Solder'
+PRP Width '4.95mm'
+TOP 0 7.1083858 4.2577953 180 N 138 27 CN16-H1-1
+TOP 1 7.1083858 4.1577953 180 N 67 12 CN16-H1-2
+TOP 2 7.0083858 4.2577953 180 N 139 25 CN16-H1-3
+TOP 3 7.0083858 4.1577953 180 N 66 21 CN16-H1-4
+TOP 4 6.9083858 4.2577953 180 N 65 27 CN16-H1-5
+TOP 5 6.9083858 4.1577953 180 N 64 22 CN16-H1-6
+TOP 6 6.8083858 4.2577953 180 N 124 27 CN16-H1-7
+TOP 7 6.8083858 4.1577953 180 N 123 21 CN16-H1-8
+TOP 8 6.7083858 4.2577953 180 N 122 28 CN16-H1-9
+TOP 9 6.7083858 4.1577953 180 N 129 22 CN16-H1-10
+TOP 10 6.6083858 4.2577953 180 N 121 28 CN16-H1-11
+TOP 11 6.6083858 4.1577953 180 N 130 22 CN16-H1-12
+TOP 12 6.5083858 4.2577953 180 N 63 28 CN16-H1-13
+TOP 13 6.5083858 4.1577953 180 N 62 22 CN16-H1-14
+TOP 14 6.4083858 4.2577953 180 N 61 28 CN16-H1-15
+TOP 15 6.4083858 4.1577953 180 N 60 22 CN16-H1-16
+TOP 16 6.3074018 4.2577953 180 N 110 28 CN16-H1-17
+TOP 17 6.3083858 4.1577953 180 N 119 22 CN16-H1-18
+TOP 18 6.2083858 4.2577953 180 N 109 28 CN16-H1-19
+TOP 19 6.2083858 4.1577953 180 N 118 22 CN16-H1-20
+TOP 20 6.1083858 4.2577953 180 N 137 28 CN16-H1-21
+TOP 21 6.1083858 4.1577953 180 N 59 22 CN16-H1-22
+TOP 22 6.0083858 4.2577953 180 N 136 27 CN16-H1-23
+TOP 23 6.0083858 4.1577953 180 N 58 21 CN16-H1-24
+TOP 24 5.9083858 4.2577953 180 N 57 29 CN16-H1-25
+TOP 25 5.9083858 4.1577953 180 N 56 21 CN16-H1-26
+TOP 26 5.8083858 4.2577953 180 N 55 25 CN16-H1-27
+TOP 27 5.8083858 4.1577953 180 N 54 20 CN16-H1-28
+TOP 28 5.7083858 4.2577953 180 N 131 25 CN16-H1-29
+TOP 29 5.7083858 4.1577953 180 N 53 20 CN16-H1-30
+TOP 30 5.6083858 4.2577953 180 N 52 25 CN16-H1-31
+TOP 31 5.6083858 4.1577953 180 N 51 20 CN16-H1-32
+TOP 32 5.5083858 4.2577953 180 N 50 25 CN16-H1-33
+TOP 33 5.5083858 4.1577953 180 N 49 20 CN16-H1-34
+TOP 34 5.4083858 4.2577953 180 N 114 25 CN16-H1-35
+TOP 35 5.4083858 4.1577953 180 N 48 20 CN16-H1-36
+TOP 36 5.3083858 4.2577953 180 N 113 24 CN16-H1-37
+TOP 37 5.3083858 4.1577953 180 N 47 20 CN16-H1-38
+TOP 38 5.2083858 4.2577953 180 N 46 25 CN16-H1-39
+TOP 39 5.2083858 4.1577953 180 N 120 20 CN16-H1-40
+TOP 40 5.1083858 4.2577953 180 N 127 25 CN16-H1-41
+TOP 41 5.1083858 4.1577953 180 N 45 20 CN16-H1-42
+TOP 42 5.0083858 4.2577953 180 N 128 24 CN16-H1-43
+TOP 43 5.0083858 4.1577953 180 N 44 20 CN16-H1-44
+TOP 44 4.9083858 4.2577953 180 N 43 25 CN16-H1-45
+TOP 45 4.9083858 4.1577953 180 N 147 20 CN16-H1-46
+TOP 46 4.8083858 4.2577953 180 N 42 25 CN16-H1-47
+TOP 47 4.8083858 4.1577953 180 N 41 21 CN16-H1-48
+TOP 48 4.7083858 4.2577953 180 N 40 23 CN16-H1-49
+TOP 49 4.7083858 4.1577953 180 N 145 20 CN16-H1-50
+TOP 50 4.6083858 4.2577953 180 N 144 27 CN16-H1-51
+TOP 51 4.6083858 4.1577953 180 N 39 17 CN16-H1-52
+#
+# CMP 1
+CMP 11 3.366398 4.0572441 0 N CN14 External_TSW-126-07-G-D ;0=2,1=0.1220
+PRP Category 'Headers and Wire Housings'
+PRP Color 'Black'
+PRP ComponentLink1Description 'http://www.farnell.com/datasheets/2060109.pdf?src-supplier=Farnell'
+PRP ComponentLink1URL 'http://www.farnell.com/datasheets/2060109.pdf?src-supplier=Farnell'
+PRP ComponentLink2Description 'http://www.farnell.com/datasheets/2060109.pdf?src-supplier=Newark'
+PRP ComponentLink2URL 'http://www.farnell.com/datasheets/2060109.pdf?src-supplier=Newark'
+PRP ComponentLink3Description 'http://suddendocs.samtec.com/prints/tsw-xxx-xx-x-x-xx-xxx-footprint.pdf?src-supplier=Digi-Key'
+PRP ComponentLink3URL 'http://suddendocs.samtec.com/prints/tsw-xxx-xx-x-x-xx-xxx-footprint.pdf?src-supplier=Digi-Key'
+PRP Connector_Type 'Male Pin'
+PRP Contact_Material 'Bronze'
+PRP Contact_Mating_Length '0.23inch'
+PRP Contact_Plating 'Gold'
+PRP Gender 'Male'
+PRP Height '2.54mm'
+PRP Housing_Color 'Black'
+PRP Housing_Material 'Plastic'
+PRP Lead_Free 'Lead Free'
+PRP Length '66mm'
+PRP Manufacturer 'Samtec'
+PRP Manufacturer_Part_Number 'TSW-126-07-G-D'
+PRP Mount 'Through Hole'
+PRP Number_of_Contacts '52'
+PRP Number_of_Positions '52'
+PRP Number_of_Rows '2'
+PRP Package_Quantity '1'
+PRP Packaging 'Bulk'
+PRP Pitch '0.1inch'
+PRP Pricing_1 '1=5.05000, 10=4.65000, 25=4.27000, 50=4.08000, 100=3.88000, 250=3.40000, 500=3.30000 (USD)'
+PRP REACH_SVHC 'No SVHC'
+PRP RoHS 'Yes'
+PRP Row_Spacing '0.1inch'
+PRP Stock_1 '100'
+PRP Supplier_1 'Newark'
+PRP Supplier_Part_Number_1 '12P2847'
+PRP Termination 'Solder'
+PRP Width '5.08mm'
+TOP 0 3.6637602 7.3302756 270 N 103 93 CN14-0
+TOP 1 0.5131697 7.3302756 270 N 103 94 CN14-0
+TOP 2 0.6643901 3.9577953 270 N 103 95 CN14-0
+TOP 3 3.565335 3.9572441 270 N 103 96 CN14-0
+TOP 4 3.366398 4.0572441 180 N 126 16 CN14-H2-1
+TOP 5 3.366398 3.9572441 180 N 8 28 CN14-H2-2
+TOP 6 3.266398 4.0572441 180 N 125 21 CN14-H2-3
+TOP 7 3.266398 3.9572441 180 N 9 29 CN14-H2-4
+TOP 8 3.166398 4.0572441 180 N 11 20 CN14-H2-5
+TOP 9 3.166398 3.9572441 180 N 10 30 CN14-H2-6
+TOP 10 3.066398 4.0572441 180 N 132 19 CN14-H2-7
+TOP 11 3.066398 3.9572441 180 N 12 30 CN14-H2-8
+TOP 12 2.966398 4.0572441 180 N 14 18 CN14-H2-9
+TOP 13 2.966398 3.9572441 180 N 13 23 CN14-H2-10
+TOP 14 2.866398 4.0572441 180 N 133 23 CN14-H2-11
+TOP 15 2.866398 3.9572441 180 N 140 27 CN14-H2-12
+TOP 16 2.766398 4.0572441 180 N 134 23 CN14-H2-13
+TOP 17 2.766398 3.9572441 180 N 135 30 CN14-H2-14
+TOP 18 2.666398 4.0572441 180 N 16 19 CN14-H2-15
+TOP 19 2.666398 3.9572441 180 N 15 30 CN14-H2-16
+TOP 20 2.565414 4.0572441 180 N 17 18 CN14-H2-17
+TOP 21 2.566398 3.9572441 180 N 149 30 CN14-H2-18
+TOP 22 2.466398 4.0572441 180 N 19 21 CN14-H2-19
+TOP 23 2.466398 3.9572441 180 N 18 29 CN14-H2-20
+TOP 24 2.366398 4.0572441 180 N 21 23 CN14-H2-21
+TOP 25 2.366398 3.9572441 180 N 20 28 CN14-H2-22
+TOP 26 2.266398 4.0572441 180 N 23 20 CN14-H2-23
+TOP 27 2.266398 3.9572441 180 N 22 29 CN14-H2-24
+TOP 28 2.166398 4.0572441 180 N 148 23 CN14-H2-25
+TOP 29 2.166398 3.9572441 180 N 24 30 CN14-H2-26
+TOP 30 2.066398 4.0572441 180 N 25 23 CN14-H2-27
+TOP 31 2.066398 3.9572441 180 N 146 29 CN14-H2-28
+TOP 32 1.966398 4.0572441 180 N 27 24 CN14-H2-29
+TOP 33 1.966398 3.9572441 180 N 26 35 CN14-H2-30
+TOP 34 1.866398 4.0572441 180 N 28 23 CN14-H2-31
+TOP 35 1.866398 3.9572441 180 N 141 30 CN14-H2-32
+TOP 36 1.766398 4.0572441 180 N 29 26 CN14-H2-33
+TOP 37 1.766398 3.9572441 180 N 142 30 CN14-H2-34
+TOP 38 1.666398 4.0572441 180 N 30 26 CN14-H2-35
+TOP 39 1.666398 3.9572441 180 N 143 30 CN14-H2-36
+TOP 40 1.566398 4.0572441 180 N 32 28 CN14-H2-37
+TOP 41 1.566398 3.9572441 180 N 31 29 CN14-H2-38
+TOP 42 1.466398 4.0572441 180 N 2 26 CN14-H2-39
+TOP 43 1.466398 3.9572441 180 N 33 29 CN14-H2-40
+TOP 44 1.366398 4.0572441 180 N 112 15 CN14-H2-41
+TOP 45 1.366398 3.9572441 180 N 111 29 CN14-H2-42
+TOP 46 1.266398 4.0572441 180 N 35 24 CN14-H2-43
+TOP 47 1.266398 3.9572441 180 N 34 28 CN14-H2-44
+TOP 48 1.166398 4.0572441 180 N 108 26 CN14-H2-45
+TOP 49 1.166398 3.9572441 180 N 115 37 CN14-H2-46
+TOP 50 1.066398 4.0572441 180 N 107 26 CN14-H2-47
+TOP 51 1.066398 3.9572441 180 N 36 31 CN14-H2-48
+TOP 52 0.966398 4.0572441 180 N 117 26 CN14-H2-49
+TOP 53 0.966398 3.9572441 180 N 116 30 CN14-H2-50
+TOP 54 0.866398 4.0572441 180 N 38 21 CN14-H2-51
+TOP 55 0.866398 3.9572441 180 N 37 23 CN14-H2-52
+#
+# CMP 2
+CMP 15 3.3664173 4.2572441 0 N CN13 Inner_TSW-126-07-G-D ;0=2,1=0.1220
+PRP Category 'Headers and Wire Housings'
+PRP Color 'Black'
+PRP ComponentLink1Description 'http://www.farnell.com/datasheets/2060109.pdf?src-supplier=Farnell'
+PRP ComponentLink1URL 'http://www.farnell.com/datasheets/2060109.pdf?src-supplier=Farnell'
+PRP ComponentLink2Description 'http://www.farnell.com/datasheets/2060109.pdf?src-supplier=Newark'
+PRP ComponentLink2URL 'http://www.farnell.com/datasheets/2060109.pdf?src-supplier=Newark'
+PRP ComponentLink3Description 'http://suddendocs.samtec.com/prints/tsw-xxx-xx-x-x-xx-xxx-footprint.pdf?src-supplier=Digi-Key'
+PRP ComponentLink3URL 'http://suddendocs.samtec.com/prints/tsw-xxx-xx-x-x-xx-xxx-footprint.pdf?src-supplier=Digi-Key'
+PRP Connector_Type 'Male Pin'
+PRP Contact_Material 'Bronze'
+PRP Contact_Mating_Length '0.23inch'
+PRP Contact_Plating 'Gold'
+PRP Gender 'Male'
+PRP Height '2.54mm'
+PRP Housing_Color 'Black'
+PRP Housing_Material 'Plastic'
+PRP Lead_Free 'Lead Free'
+PRP Length '66mm'
+PRP Manufacturer 'Samtec'
+PRP Manufacturer_Part_Number 'TSW-126-07-G-D'
+PRP Mount 'Through Hole'
+PRP Number_of_Contacts '52'
+PRP Number_of_Positions '52'
+PRP Number_of_Rows '2'
+PRP Package_Quantity '1'
+PRP Packaging 'Bulk'
+PRP Pitch '0.1inch'
+PRP Pricing_1 '1=5.05000, 10=4.65000, 25=4.27000, 50=4.08000, 100=3.88000, 250=3.40000, 500=3.30000 (USD)'
+PRP REACH_SVHC 'No SVHC'
+PRP RoHS 'Yes'
+PRP Row_Spacing '0.1inch'
+PRP Stock_1 '100'
+PRP Supplier_1 'Newark'
+PRP Supplier_Part_Number_1 '12P2847'
+PRP Termination 'Solder'
+PRP Width '5.08mm'
+TOP 0 3.3664173 4.2572441 180 N 144 25 CN13-H1-1
+TOP 1 3.3664173 4.1572441 180 N 39 15 CN13-H1-2
+TOP 2 3.2664173 4.2572441 180 N 40 21 CN13-H1-3
+TOP 3 3.2664173 4.1572441 180 N 145 18 CN13-H1-4
+TOP 4 3.1664173 4.2572441 180 N 42 23 CN13-H1-5
+TOP 5 3.1664173 4.1572441 180 N 41 19 CN13-H1-6
+TOP 6 3.0664173 4.2572441 180 N 43 23 CN13-H1-7
+TOP 7 3.0664173 4.1572441 180 N 147 18 CN13-H1-8
+TOP 8 2.9664173 4.2572441 180 N 128 22 CN13-H1-9
+TOP 9 2.9664173 4.1572441 180 N 44 18 CN13-H1-10
+TOP 10 2.8664173 4.2572441 180 N 127 23 CN13-H1-11
+TOP 11 2.8664173 4.1572441 180 N 45 18 CN13-H1-12
+TOP 12 2.7664173 4.2572441 180 N 46 23 CN13-H1-13
+TOP 13 2.7664173 4.1572441 180 N 120 18 CN13-H1-14
+TOP 14 2.6664173 4.2572441 180 N 113 22 CN13-H1-15
+TOP 15 2.6664173 4.1572441 180 N 47 18 CN13-H1-16
+TOP 16 2.5654333 4.2572441 180 N 114 23 CN13-H1-17
+TOP 17 2.5664173 4.1572441 180 N 48 18 CN13-H1-18
+TOP 18 2.4664173 4.2572441 180 N 50 23 CN13-H1-19
+TOP 19 2.4664173 4.1572441 180 N 49 18 CN13-H1-20
+TOP 20 2.3664173 4.2572441 180 N 52 23 CN13-H1-21
+TOP 21 2.3664173 4.1572441 180 N 51 18 CN13-H1-22
+TOP 22 2.2664173 4.2572441 180 N 131 23 CN13-H1-23
+TOP 23 2.2664173 4.1572441 180 N 53 18 CN13-H1-24
+TOP 24 2.1664173 4.2572441 180 N 55 23 CN13-H1-25
+TOP 25 2.1664173 4.1572441 180 N 54 18 CN13-H1-26
+TOP 26 2.0664173 4.2572441 180 N 57 27 CN13-H1-27
+TOP 27 2.0664173 4.1572441 180 N 56 19 CN13-H1-28
+TOP 28 1.9664173 4.2572441 180 N 136 25 CN13-H1-29
+TOP 29 1.9664173 4.1572441 180 N 58 19 CN13-H1-30
+TOP 30 1.8664173 4.2572441 180 N 137 26 CN13-H1-31
+TOP 31 1.8664173 4.1572441 180 N 59 20 CN13-H1-32
+TOP 32 1.7664173 4.2572441 180 N 109 26 CN13-H1-33
+TOP 33 1.7664173 4.1572441 180 N 118 20 CN13-H1-34
+TOP 34 1.6664173 4.2572441 180 N 110 26 CN13-H1-35
+TOP 35 1.6664173 4.1572441 180 N 119 20 CN13-H1-36
+TOP 36 1.5664173 4.2572441 180 N 61 26 CN13-H1-37
+TOP 37 1.5664173 4.1572441 180 N 60 20 CN13-H1-38
+TOP 38 1.4664173 4.2572441 180 N 63 26 CN13-H1-39
+TOP 39 1.4664173 4.1572441 180 N 62 20 CN13-H1-40
+TOP 40 1.3664173 4.2572441 180 N 121 26 CN13-H1-41
+TOP 41 1.3664173 4.1572441 180 N 130 20 CN13-H1-42
+TOP 42 1.2664173 4.2572441 180 N 122 26 CN13-H1-43
+TOP 43 1.2664173 4.1572441 180 N 129 20 CN13-H1-44
+TOP 44 1.1664173 4.2572441 180 N 124 25 CN13-H1-45
+TOP 45 1.1664173 4.1572441 180 N 123 19 CN13-H1-46
+TOP 46 1.0664173 4.2572441 180 N 65 25 CN13-H1-47
+TOP 47 1.0664173 4.1572441 180 N 64 20 CN13-H1-48
+TOP 48 0.9664173 4.2572441 180 N 139 23 CN13-H1-49
+TOP 49 0.9664173 4.1572441 180 N 66 19 CN13-H1-50
+TOP 50 0.8664173 4.2572441 180 N 138 25 CN13-H1-51
+TOP 51 0.8664173 4.1572441 180 N 67 10 CN13-H1-52
+#
+# CMP 3
+CMP 4 8.5897589 8.0029831 180 N CN30 BCS-106-L-D-TE ;0=2,1=0.0000
+PRP Category 'Connectors'
+PRP Color 'Black'
+PRP ComponentLink1Description 'https://datasheet.ciiva.com/16706/bcs-16706444.pdf?src-supplier=Avnet+Europe'
+PRP ComponentLink1URL 'https://datasheet.ciiva.com/16706/bcs-16706444.pdf?src-supplier=Avnet+Europe'
+PRP ComponentLink2Description 'https://datasheet.ciiva.com/413/bcs-1xx-xxx-x-xx-xxx-mkt-413758.pdf?src-supplier=Digi-Key'
+PRP ComponentLink2URL 'https://datasheet.ciiva.com/413/bcs-1xx-xxx-x-xx-xxx-mkt-413758.pdf?src-supplier=Digi-Key'
+PRP Connector_Type 'Receptacle'
+PRP Contact_Material 'Bronze'
+PRP Contact_Plating 'Gold'
+PRP Contact_Resistance '10mR'
+PRP Depth '5.08mm'
+PRP Gender 'Receptacle'
+PRP Housing_Color 'Black'
+PRP Housing_Material 'Polymer'
+PRP Lead_Free 'Lead Free'
+PRP Length '15.24mm'
+PRP Manufacturer 'Samtec'
+PRP Manufacturer_Part_Number 'BCS-106-L-D-TE'
+PRP Max_Current_Rating '5.9A'
+PRP Max_Operating_Temperature '125°C'
+PRP Max_Voltage_Rating_(AC) '475V'
+PRP Min_Operating_Temperature '-55°C'
+PRP Mount 'Through Hole'
+PRP Number_of_Contacts '12'
+PRP Number_of_Positions '12'
+PRP Number_of_Rows '2'
+PRP Orientation 'Vertical'
+PRP Packaging 'Rail/Tube'
+PRP Pitch '2.54mm'
+PRP Pricing_1 '1=1.77000, 10=1.60200, 25=1.50360, 50=1.43820, 100=1.37290, 250=1.24216, 500=1.14408 (USD)'
+PRP Radiation_Hardening 'No'
+PRP REACH_SVHC 'No SVHC'
+PRP RoHS 'Yes'
+PRP Row_Spacing '0.1inch'
+PRP Stock_1 '7411'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_Part_Number_1 'SAM1008-06-ND'
+PRP Termination 'Solder'
+PRP Width '5.08mm'
+TOP 0 8.5897589 8.0029831 180 N 87 9 CN30-1
+TOP 1 8.4897589 8.0029831 180 N 91 10 CN30-2
+TOP 2 8.3897589 8.0029831 180 N 86 10 CN30-3
+TOP 3 8.2897589 8.0029831 180 N 90 9 CN30-4
+TOP 4 8.1897589 8.0029831 180 N 85 11 CN30-5
+TOP 5 8.0897589 8.0029831 180 N 89 10 CN30-6
+TOP 6 8.5897589 8.1029831 180 N 0 94 CN30-7
+TOP 7 8.4897589 8.1029831 180 N 103 92 CN30-8
+TOP 8 8.3897589 8.1029831 180 N 103 91 CN30-9
+TOP 9 8.2897589 8.1029831 180 N 103 90 CN30-10
+TOP 10 8.1897589 8.1029831 180 N 88 10 CN30-11
+TOP 11 8.0897589 8.1029831 180 N 84 8 CN30-12
+#
+# CMP 4
+CMP 22 9.6427165 8.4753937 180 N CN26 10118194-0001LF ;0=1,1=0.0000
+PRP Manufacturer 'FCI'
+PRP Mount_Type 'PTH'
+PRP N_of_Positions '5'
+PRP Pitch '0.65mm'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_2 'Farnell'
+PRP Supplier_3 'Mouser'
+PRP Supplier_4 'Newark'
+PRP Supplier_Part_Number_1 '609-4618-1-ND'
+PRP Supplier_Part_Number_2 '1645325'
+PRP Supplier_Part_Number_3 '649-10118194-0001LF'
+PRP Supplier_Part_Number_4 '67T2260'
+PRP Value '10118194-0001LF'
+TOP 0 9.682086 8.528544 0 N 82 15 CN26-0
+TOP 1 9.603346 8.528544 0 N 82 16 CN26-0
+TOP 2 9.504922 8.528544 0 N 82 17 CN26-0
+TOP 3 9.780512 8.528544 0 N 82 18 CN26-0
+TOP 4 9.741142 8.422244 0 N 82 19 CN26-0
+TOP 5 9.544292 8.422244 0 N 82 20 CN26-0
+TOP 6 9.693898 8.422244 0 N 102 5 CN26-1
+TOP 7 9.668308 8.422244 0 N 81 3 CN26-2
+TOP 8 9.642716 8.422244 0 N 80 3 CN26-3
+TOP 9 9.617126 8.422244 0 N 0 34 CN26-4
+TOP 10 9.591536 8.422244 0 N 103 68 CN26-5
+#
+# CMP 5
+CMP 6 9.1282791 8.5706574 0 N C10 4.7_uF,_0802_(2012_metric) ;0=1,1=0.0433
+PRP Capacitance '4.7uF'
+PRP Case_Code_(Imperial) '0805'
+PRP Case_Code_(Metric) '2012'
+PRP Case/Package '0805'
+PRP ComponentLink1Description 'http://www.mouser.com/ds/2/400/lcc_commercial_general_en-837201.pdf?src-supplier=Mouser'
+PRP ComponentLink1URL 'http://www.mouser.com/ds/2/400/lcc_commercial_general_en-837201.pdf?src-supplier=Mouser'
+PRP ComponentLink2Description 'https://product.tdk.com/info/en/catalog/spec/mlccspec_commercial_general_midvoltage_en.pdf?src-supplier=Digi-Key'
+PRP ComponentLink2URL 'https://product.tdk.com/info/en/catalog/spec/mlccspec_commercial_general_midvoltage_en.pdf?src-supplier=Digi-Key'
+PRP ComponentLink3Description 'http://www.farnell.com/datasheets/1796654.pdf?src-supplier=Newark'
+PRP ComponentLink3URL 'http://www.farnell.com/datasheets/1796654.pdf?src-supplier=Newark'
+PRP ComponentLink4Description 'http://www.tdk.co.jp/tefe02/e412_c.pdf?src-supplier=Avnet+Europe'
+PRP ComponentLink4URL 'http://www.tdk.co.jp/tefe02/e412_c.pdf?src-supplier=Avnet+Europe'
+PRP Composition 'Ceramic'
+PRP Depth '1.25mm'
+PRP Dielectric 'X7R'
+PRP Dielectric_Material 'Ceramic'
+PRP Height '1.25mm'
+PRP Lead_Free 'Lead Free'
+PRP Length '2mm'
+PRP Manufacturer 'TDK'
+PRP Manufacturer_Part_Number 'C2012X7R1E475K125AB'
+PRP Max_Operating_Temperature '125°C'
+PRP Min_Operating_Temperature '-55°C'
+PRP Mount 'Surface Mount'
+PRP Package_Quantity '2000'
+PRP Packaging 'Tape and Reel'
+PRP Pricing_1 '1=0.48, 10=0.339, 100=0.223, 500=0.16518, 1000=0.1404 (USD)'
+PRP Pricing_2 '1=0.54, 10=0.382, 100=0.251, 500=0.186, 1000=0.158, 2000=0.121 (USD)'
+PRP Radiation_Hardening 'No'
+PRP REACH_SVHC 'No SVHC'
+PRP Stock_1 '196988'
+PRP Stock_2 '141636'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_2 'Mouser'
+PRP Supplier_Part_Number_1 '445-5972-1-ND'
+PRP Supplier_Part_Number_2 '810-C2012X7R1E475K'
+PRP Termination 'SMD/SMT'
+PRP Thickness '0.057inch'
+PRP Tolerance '10%'
+PRP Voltage '25V'
+PRP Voltage_Rating '25V'
+PRP Voltage_Rating_(DC) '25V'
+PRP Weight '0.000194oz'
+PRP Width '0.049inch'
+TOP 0 9.08328 8.570658 270 N 104 16 C10-1
+TOP 1 9.17328 8.570658 270 N 103 69 C10-2
+#
+# CMP 6
+CMP 5 9.9597961 7.8379611 0 N C3 0.1_uF,_0603_(1608_metric) ;0=1,1=0.0335
+PRP Capacitance '100nF'
+PRP Case/Package '0603'
+PRP Case_Code_(Imperial) '0603'
+PRP Case_Code_(Metric) '1608'
+PRP ComponentLink1Description 'https://product.tdk.com/info/en/catalog/spec/mlccspec_commercial_general_midvoltage_en.pdf?src-supplier=Digi-Key'
+PRP ComponentLink1URL 'https://product.tdk.com/info/en/catalog/spec/mlccspec_commercial_general_midvoltage_en.pdf?src-supplier=Digi-Key'
+PRP ComponentLink2Description 'http://uk.rs-online.com/webdocs/13d1/0900766b813d1103.pdf?src-supplier=RSComponents'
+PRP ComponentLink2URL 'http://uk.rs-online.com/webdocs/13d1/0900766b813d1103.pdf?src-supplier=RSComponents'
+PRP ComponentLink3Description 'http://www.tdk.co.jp/tefe02/e412_c.pdf?src-supplier=Avnet+Europe'
+PRP ComponentLink3URL 'http://www.tdk.co.jp/tefe02/e412_c.pdf?src-supplier=Avnet+Europe'
+PRP ComponentLink4Description 'http://www.farnell.com/datasheets/2792994.pdf?src-supplier=Farnell'
+PRP ComponentLink4URL 'http://www.farnell.com/datasheets/2792994.pdf?src-supplier=Farnell'
+PRP ComponentLink5Description 'http://www.farnell.com/datasheets/1744655.pdf?src-supplier=Element14'
+PRP ComponentLink5URL 'http://www.farnell.com/datasheets/1744655.pdf?src-supplier=Element14'
+PRP Composition 'Ceramic'
+PRP Depth '0.8mm'
+PRP Dielectric 'X7R'
+PRP Dielectric_Material 'Ceramic'
+PRP Height '0.8mm'
+PRP Lead_Free 'Lead Free'
+PRP Length '1.6mm'
+PRP Manufacturer 'TDK'
+PRP Manufacturer_Part_Number 'C1608X7R1H104K080AA'
+PRP Max_Operating_Temperature '125°C'
+PRP Min_Operating_Temperature '-55°C'
+PRP Mount 'Surface Mount'
+PRP Number_of_Pins '2'
+PRP Package_Quantity '1'
+PRP Packaging 'Tape and Reel'
+PRP Pricing_1 '1=0.12, 10=0.088, 100=0.0413, 500=0.02896, 1000=0.02397 (USD)'
+PRP Pricing_2 '1=0.12, 10=0.088, 100=0.041, 500=0.029, 1000=0.024, 4000=0.017, 8000=0.016, 24000=0.013, 48000=0.011 (USD)'
+PRP Radiation_Hardening 'No'
+PRP REACH_SVHC 'No SVHC'
+PRP Stock_1 '513759'
+PRP Stock_2 '34512'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_2 'Mouser'
+PRP Supplier_Part_Number_1 '445-1314-1-ND'
+PRP Supplier_Part_Number_2 '810-C1608X7R1H104K'
+PRP Termination 'SMD/SMT'
+PRP Thickness '0.037inch'
+PRP Tolerance '10%'
+PRP Voltage '50V'
+PRP Voltage_Rating '50V'
+PRP Voltage_Rating_(DC) '50V'
+PRP Weight '7.1E-05oz'
+PRP Width '0.8mm'
+TOP 0 9.924796 7.837962 270 N 105 48 C3-1
+TOP 1 9.994796 7.837962 270 N 103 51 C3-2
+#
+# CMP 7
+CMP 6 9.9293903 7.6883548 0 N C6 4.7_uF,_0802_(2012_metric) ;0=1,1=0.0433
+PRP Capacitance '4.7uF'
+PRP Case/Package '0805'
+PRP Case_Code_(Imperial) '0805'
+PRP Case_Code_(Metric) '2012'
+PRP ComponentLink1Description 'http://www.mouser.com/ds/2/400/lcc_commercial_general_en-837201.pdf?src-supplier=Mouser'
+PRP ComponentLink1URL 'http://www.mouser.com/ds/2/400/lcc_commercial_general_en-837201.pdf?src-supplier=Mouser'
+PRP ComponentLink2Description 'https://product.tdk.com/info/en/catalog/spec/mlccspec_commercial_general_midvoltage_en.pdf?src-supplier=Digi-Key'
+PRP ComponentLink2URL 'https://product.tdk.com/info/en/catalog/spec/mlccspec_commercial_general_midvoltage_en.pdf?src-supplier=Digi-Key'
+PRP ComponentLink3Description 'http://www.farnell.com/datasheets/1796654.pdf?src-supplier=Newark'
+PRP ComponentLink3URL 'http://www.farnell.com/datasheets/1796654.pdf?src-supplier=Newark'
+PRP ComponentLink4Description 'http://www.tdk.co.jp/tefe02/e412_c.pdf?src-supplier=Avnet+Europe'
+PRP ComponentLink4URL 'http://www.tdk.co.jp/tefe02/e412_c.pdf?src-supplier=Avnet+Europe'
+PRP Composition 'Ceramic'
+PRP Depth '1.25mm'
+PRP Dielectric 'X7R'
+PRP Dielectric_Material 'Ceramic'
+PRP Height '1.25mm'
+PRP Lead_Free 'Lead Free'
+PRP Length '2mm'
+PRP Manufacturer 'TDK'
+PRP Manufacturer_Part_Number 'C2012X7R1E475K125AB'
+PRP Max_Operating_Temperature '125°C'
+PRP Min_Operating_Temperature '-55°C'
+PRP Mount 'Surface Mount'
+PRP Package_Quantity '2000'
+PRP Packaging 'Tape and Reel'
+PRP Pricing_1 '1=0.48, 10=0.339, 100=0.223, 500=0.16518, 1000=0.1404 (USD)'
+PRP Pricing_2 '1=0.54, 10=0.382, 100=0.251, 500=0.186, 1000=0.158, 2000=0.121 (USD)'
+PRP Radiation_Hardening 'No'
+PRP REACH_SVHC 'No SVHC'
+PRP Stock_1 '196988'
+PRP Stock_2 '141636'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_2 'Mouser'
+PRP Supplier_Part_Number_1 '445-5972-1-ND'
+PRP Supplier_Part_Number_2 '810-C2012X7R1E475K'
+PRP Termination 'SMD/SMT'
+PRP Thickness '0.057inch'
+PRP Tolerance '10%'
+PRP Voltage '25V'
+PRP Voltage_Rating '25V'
+PRP Voltage_Rating_(DC) '25V'
+PRP Weight '0.000194oz'
+PRP Width '0.049inch'
+TOP 0 9.88439 7.688354 270 N 106 17 C6-1
+TOP 1 9.97439 7.688354 270 N 103 40 C6-2
+#
+# CMP 8
+CMP 5 9.9097052 7.7602052 0 N C7 0.1_uF,_0603_(1608_metric) ;0=1,1=0.0335
+PRP Capacitance '100nF'
+PRP Case/Package '0603'
+PRP Case_Code_(Imperial) '0603'
+PRP Case_Code_(Metric) '1608'
+PRP ComponentLink1Description 'https://product.tdk.com/info/en/catalog/spec/mlccspec_commercial_general_midvoltage_en.pdf?src-supplier=Digi-Key'
+PRP ComponentLink1URL 'https://product.tdk.com/info/en/catalog/spec/mlccspec_commercial_general_midvoltage_en.pdf?src-supplier=Digi-Key'
+PRP ComponentLink2Description 'http://uk.rs-online.com/webdocs/13d1/0900766b813d1103.pdf?src-supplier=RSComponents'
+PRP ComponentLink2URL 'http://uk.rs-online.com/webdocs/13d1/0900766b813d1103.pdf?src-supplier=RSComponents'
+PRP ComponentLink3Description 'http://www.tdk.co.jp/tefe02/e412_c.pdf?src-supplier=Avnet+Europe'
+PRP ComponentLink3URL 'http://www.tdk.co.jp/tefe02/e412_c.pdf?src-supplier=Avnet+Europe'
+PRP ComponentLink4Description 'http://www.farnell.com/datasheets/2792994.pdf?src-supplier=Farnell'
+PRP ComponentLink4URL 'http://www.farnell.com/datasheets/2792994.pdf?src-supplier=Farnell'
+PRP ComponentLink5Description 'http://www.farnell.com/datasheets/1744655.pdf?src-supplier=Element14'
+PRP ComponentLink5URL 'http://www.farnell.com/datasheets/1744655.pdf?src-supplier=Element14'
+PRP Composition 'Ceramic'
+PRP Depth '0.8mm'
+PRP Dielectric 'X7R'
+PRP Dielectric_Material 'Ceramic'
+PRP Height '0.8mm'
+PRP Lead_Free 'Lead Free'
+PRP Length '1.6mm'
+PRP Manufacturer 'TDK'
+PRP Manufacturer_Part_Number 'C1608X7R1H104K080AA'
+PRP Max_Operating_Temperature '125°C'
+PRP Min_Operating_Temperature '-55°C'
+PRP Mount 'Surface Mount'
+PRP Number_of_Pins '2'
+PRP Package_Quantity '1'
+PRP Packaging 'Tape and Reel'
+PRP Pricing_1 '1=0.12, 10=0.088, 100=0.0413, 500=0.02896, 1000=0.02397 (USD)'
+PRP Pricing_2 '1=0.12, 10=0.088, 100=0.041, 500=0.029, 1000=0.024, 4000=0.017, 8000=0.016, 24000=0.013, 48000=0.011 (USD)'
+PRP Radiation_Hardening 'No'
+PRP REACH_SVHC 'No SVHC'
+PRP Stock_1 '513759'
+PRP Stock_2 '34512'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_2 'Mouser'
+PRP Supplier_Part_Number_1 '445-1314-1-ND'
+PRP Supplier_Part_Number_2 '810-C1608X7R1H104K'
+PRP Termination 'SMD/SMT'
+PRP Thickness '0.037inch'
+PRP Tolerance '10%'
+PRP Voltage '50V'
+PRP Voltage_Rating '50V'
+PRP Voltage_Rating_(DC) '50V'
+PRP Weight '7.1E-05oz'
+PRP Width '0.8mm'
+TOP 0 9.874706 7.760206 270 N 106 19 C7-1
+TOP 1 9.944706 7.760206 270 N 103 45 C7-2
+#
+# CMP 9
+CMP 6 9.0861616 8.2478229 90 N C8 10000_pF,_0805_(2012_metric) ;0=1,1=0.0433
+PRP Capacitance '10nF'
+PRP Case/Package '0805'
+PRP Case_Code_(Imperial) '0805'
+PRP Case_Code_(Metric) '2012'
+PRP ComponentLink1Description 'http://www.mouser.com/ds/2/40/X7RDielectric-777024.pdf?src-supplier=Mouser'
+PRP ComponentLink1URL 'http://www.mouser.com/ds/2/40/X7RDielectric-777024.pdf?src-supplier=Mouser'
+PRP ComponentLink2Description 'http://www.avx.com/docs/Catalogs/cx7r.pdf?src-supplier=Future+Electronics'
+PRP ComponentLink2URL 'http://www.avx.com/docs/Catalogs/cx7r.pdf?src-supplier=Future+Electronics'
+PRP Depth '1.25mm'
+PRP Dielectric 'X7R'
+PRP Height '0.94mm'
+PRP Lead_Free 'Lead Free'
+PRP Length '2.01mm'
+PRP Manufacturer 'Kyocera AVX'
+PRP Manufacturer_Part_Number '08055C103KAT4A'
+PRP Max_Operating_Temperature '125°C'
+PRP Min_Operating_Temperature '-55°C'
+PRP Mount 'Surface Mount'
+PRP Number_of_Pins '2'
+PRP Packaging 'Tape and Reel'
+PRP Pricing_1 '1=0.13, 10=0.094, 100=0.044, 500=0.03086, 1000=0.02555, 2500=0.02378, 5000=0.02176 (USD)'
+PRP Pricing_2 '1=0.12, 10=0.085, 100=0.04, 500=0.028, 1000=0.023, 2500=0.018 (USD)'
+PRP Radiation_Hardening 'No'
+PRP Stock_1 '515489'
+PRP Stock_2 '88428'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_2 'Mouser'
+PRP Supplier_Part_Number_1 '478-10687-1-ND'
+PRP Supplier_Part_Number_2 '581-08055C103KAT4A'
+PRP Termination 'SMD/SMT'
+PRP Tolerance '10%'
+PRP Voltage '50V'
+PRP Voltage_Rating '50V'
+PRP Voltage_Rating_(DC) '50V'
+PRP Weight '0.000194oz'
+PRP Width '1.25mm'
+TOP 0 9.086162 8.292822 0 N 102 3 C8-1
+TOP 1 9.086162 8.202822 0 N 103 53 C8-2
+#
+# CMP 10
+CMP 5 9.0517128 8.4968386 180 N C9 0.1_uF,_0603_(1608_metric) ;0=1,1=0.0335
+PRP Capacitance '100nF'
+PRP Case/Package '0603'
+PRP Case_Code_(Imperial) '0603'
+PRP Case_Code_(Metric) '1608'
+PRP ComponentLink1Description 'https://product.tdk.com/info/en/catalog/spec/mlccspec_commercial_general_midvoltage_en.pdf?src-supplier=Digi-Key'
+PRP ComponentLink1URL 'https://product.tdk.com/info/en/catalog/spec/mlccspec_commercial_general_midvoltage_en.pdf?src-supplier=Digi-Key'
+PRP ComponentLink2Description 'http://uk.rs-online.com/webdocs/13d1/0900766b813d1103.pdf?src-supplier=RSComponents'
+PRP ComponentLink2URL 'http://uk.rs-online.com/webdocs/13d1/0900766b813d1103.pdf?src-supplier=RSComponents'
+PRP ComponentLink3Description 'http://www.tdk.co.jp/tefe02/e412_c.pdf?src-supplier=Avnet+Europe'
+PRP ComponentLink3URL 'http://www.tdk.co.jp/tefe02/e412_c.pdf?src-supplier=Avnet+Europe'
+PRP ComponentLink4Description 'http://www.farnell.com/datasheets/2792994.pdf?src-supplier=Farnell'
+PRP ComponentLink4URL 'http://www.farnell.com/datasheets/2792994.pdf?src-supplier=Farnell'
+PRP ComponentLink5Description 'http://www.farnell.com/datasheets/1744655.pdf?src-supplier=Element14'
+PRP ComponentLink5URL 'http://www.farnell.com/datasheets/1744655.pdf?src-supplier=Element14'
+PRP Composition 'Ceramic'
+PRP Depth '0.8mm'
+PRP Dielectric 'X7R'
+PRP Dielectric_Material 'Ceramic'
+PRP Height '0.8mm'
+PRP Lead_Free 'Lead Free'
+PRP Length '1.6mm'
+PRP Manufacturer 'TDK'
+PRP Manufacturer_Part_Number 'C1608X7R1H104K080AA'
+PRP Max_Operating_Temperature '125°C'
+PRP Min_Operating_Temperature '-55°C'
+PRP Mount 'Surface Mount'
+PRP Number_of_Pins '2'
+PRP Package_Quantity '1'
+PRP Packaging 'Tape and Reel'
+PRP Pricing_1 '1=0.12, 10=0.088, 100=0.0413, 500=0.02896, 1000=0.02397 (USD)'
+PRP Pricing_2 '1=0.12, 10=0.088, 100=0.041, 500=0.029, 1000=0.024, 4000=0.017, 8000=0.016, 24000=0.013, 48000=0.011 (USD)'
+PRP Radiation_Hardening 'No'
+PRP REACH_SVHC 'No SVHC'
+PRP Stock_1 '513759'
+PRP Stock_2 '34512'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_2 'Mouser'
+PRP Supplier_Part_Number_1 '445-1314-1-ND'
+PRP Supplier_Part_Number_2 '810-C1608X7R1H104K'
+PRP Termination 'SMD/SMT'
+PRP Thickness '0.037inch'
+PRP Tolerance '10%'
+PRP Voltage '50V'
+PRP Voltage_Rating '50V'
+PRP Voltage_Rating_(DC) '50V'
+PRP Weight '7.1E-05oz'
+PRP Width '0.8mm'
+TOP 0 9.086712 8.496838 90 N 104 11 C9-1
+TOP 1 9.016712 8.496838 90 N 103 54 C9-2
+#
+# CMP 11
+CMP 5 9.4384028 8.2807961 180 N C11 0.1_uF,_0603_(1608_metric) ;0=1,1=0.0335
+PRP Capacitance '100nF'
+PRP Case/Package '0603'
+PRP Case_Code_(Imperial) '0603'
+PRP Case_Code_(Metric) '1608'
+PRP ComponentLink1Description 'https://product.tdk.com/info/en/catalog/spec/mlccspec_commercial_general_midvoltage_en.pdf?src-supplier=Digi-Key'
+PRP ComponentLink1URL 'https://product.tdk.com/info/en/catalog/spec/mlccspec_commercial_general_midvoltage_en.pdf?src-supplier=Digi-Key'
+PRP ComponentLink2Description 'http://uk.rs-online.com/webdocs/13d1/0900766b813d1103.pdf?src-supplier=RSComponents'
+PRP ComponentLink2URL 'http://uk.rs-online.com/webdocs/13d1/0900766b813d1103.pdf?src-supplier=RSComponents'
+PRP ComponentLink3Description 'http://www.tdk.co.jp/tefe02/e412_c.pdf?src-supplier=Avnet+Europe'
+PRP ComponentLink3URL 'http://www.tdk.co.jp/tefe02/e412_c.pdf?src-supplier=Avnet+Europe'
+PRP ComponentLink4Description 'http://www.farnell.com/datasheets/2792994.pdf?src-supplier=Farnell'
+PRP ComponentLink4URL 'http://www.farnell.com/datasheets/2792994.pdf?src-supplier=Farnell'
+PRP ComponentLink5Description 'http://www.farnell.com/datasheets/1744655.pdf?src-supplier=Element14'
+PRP ComponentLink5URL 'http://www.farnell.com/datasheets/1744655.pdf?src-supplier=Element14'
+PRP Composition 'Ceramic'
+PRP Depth '0.8mm'
+PRP Dielectric 'X7R'
+PRP Dielectric_Material 'Ceramic'
+PRP Height '0.8mm'
+PRP Lead_Free 'Lead Free'
+PRP Length '1.6mm'
+PRP Manufacturer 'TDK'
+PRP Manufacturer_Part_Number 'C1608X7R1H104K080AA'
+PRP Max_Operating_Temperature '125°C'
+PRP Min_Operating_Temperature '-55°C'
+PRP Mount 'Surface Mount'
+PRP Number_of_Pins '2'
+PRP Package_Quantity '1'
+PRP Packaging 'Tape and Reel'
+PRP Pricing_1 '1=0.12, 10=0.088, 100=0.0413, 500=0.02896, 1000=0.02397 (USD)'
+PRP Pricing_2 '1=0.12, 10=0.088, 100=0.041, 500=0.029, 1000=0.024, 4000=0.017, 8000=0.016, 24000=0.013, 48000=0.011 (USD)'
+PRP Radiation_Hardening 'No'
+PRP REACH_SVHC 'No SVHC'
+PRP Stock_1 '513759'
+PRP Stock_2 '34512'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_2 'Mouser'
+PRP Supplier_Part_Number_1 '445-1314-1-ND'
+PRP Supplier_Part_Number_2 '810-C1608X7R1H104K'
+PRP Termination 'SMD/SMT'
+PRP Thickness '0.037inch'
+PRP Tolerance '10%'
+PRP Voltage '50V'
+PRP Voltage_Rating '50V'
+PRP Voltage_Rating_(DC) '50V'
+PRP Weight '7.1E-05oz'
+PRP Width '0.8mm'
+TOP 0 9.4734019 8.2807962 90 N 101 6 C11-1
+TOP 1 9.4034019 8.2807962 90 N 103 42 C11-2
+#
+# CMP 12
+CMP 6 8.9640895 8.3206575 0 N C12 4.7_uF,_0802_(2012_metric) ;0=1,1=0.0433
+PRP Capacitance '4.7uF'
+PRP Case/Package '0805'
+PRP Case_Code_(Imperial) '0805'
+PRP Case_Code_(Metric) '2012'
+PRP ComponentLink1Description 'http://www.mouser.com/ds/2/400/lcc_commercial_general_en-837201.pdf?src-supplier=Mouser'
+PRP ComponentLink1URL 'http://www.mouser.com/ds/2/400/lcc_commercial_general_en-837201.pdf?src-supplier=Mouser'
+PRP ComponentLink2Description 'https://product.tdk.com/info/en/catalog/spec/mlccspec_commercial_general_midvoltage_en.pdf?src-supplier=Digi-Key'
+PRP ComponentLink2URL 'https://product.tdk.com/info/en/catalog/spec/mlccspec_commercial_general_midvoltage_en.pdf?src-supplier=Digi-Key'
+PRP ComponentLink3Description 'http://www.farnell.com/datasheets/1796654.pdf?src-supplier=Newark'
+PRP ComponentLink3URL 'http://www.farnell.com/datasheets/1796654.pdf?src-supplier=Newark'
+PRP ComponentLink4Description 'http://www.tdk.co.jp/tefe02/e412_c.pdf?src-supplier=Avnet+Europe'
+PRP ComponentLink4URL 'http://www.tdk.co.jp/tefe02/e412_c.pdf?src-supplier=Avnet+Europe'
+PRP Composition 'Ceramic'
+PRP Depth '1.25mm'
+PRP Dielectric 'X7R'
+PRP Dielectric_Material 'Ceramic'
+PRP Height '1.25mm'
+PRP Lead_Free 'Lead Free'
+PRP Length '2mm'
+PRP Manufacturer 'TDK'
+PRP Manufacturer_Part_Number 'C2012X7R1E475K125AB'
+PRP Max_Operating_Temperature '125°C'
+PRP Min_Operating_Temperature '-55°C'
+PRP Mount 'Surface Mount'
+PRP Package_Quantity '2000'
+PRP Packaging 'Tape and Reel'
+PRP Pricing_1 '1=0.48, 10=0.339, 100=0.223, 500=0.16518, 1000=0.1404 (USD)'
+PRP Pricing_2 '1=0.54, 10=0.382, 100=0.251, 500=0.186, 1000=0.158, 2000=0.121 (USD)'
+PRP Radiation_Hardening 'No'
+PRP REACH_SVHC 'No SVHC'
+PRP Stock_1 '196988'
+PRP Stock_2 '141636'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_2 'Mouser'
+PRP Supplier_Part_Number_1 '445-5972-1-ND'
+PRP Supplier_Part_Number_2 '810-C2012X7R1E475K'
+PRP Termination 'SMD/SMT'
+PRP Thickness '0.057inch'
+PRP Tolerance '10%'
+PRP Voltage '25V'
+PRP Voltage_Rating '25V'
+PRP Voltage_Rating_(DC) '25V'
+PRP Weight '0.000194oz'
+PRP Width '0.049inch'
+TOP 0 8.91909 8.320658 270 N 105 49 C12-1
+TOP 1 9.00909 8.320658 270 N 103 55 C12-2
+#
+# CMP 13
+CMP 5 8.9067521 8.5677047 180 N C13 0.1_uF,_0603_(1608_metric) ;0=1,1=0.0335
+PRP Capacitance '100nF'
+PRP Case/Package '0603'
+PRP Case_Code_(Imperial) '0603'
+PRP Case_Code_(Metric) '1608'
+PRP ComponentLink1Description 'https://product.tdk.com/info/en/catalog/spec/mlccspec_commercial_general_midvoltage_en.pdf?src-supplier=Digi-Key'
+PRP ComponentLink1URL 'https://product.tdk.com/info/en/catalog/spec/mlccspec_commercial_general_midvoltage_en.pdf?src-supplier=Digi-Key'
+PRP ComponentLink2Description 'http://uk.rs-online.com/webdocs/13d1/0900766b813d1103.pdf?src-supplier=RSComponents'
+PRP ComponentLink2URL 'http://uk.rs-online.com/webdocs/13d1/0900766b813d1103.pdf?src-supplier=RSComponents'
+PRP ComponentLink3Description 'http://www.tdk.co.jp/tefe02/e412_c.pdf?src-supplier=Avnet+Europe'
+PRP ComponentLink3URL 'http://www.tdk.co.jp/tefe02/e412_c.pdf?src-supplier=Avnet+Europe'
+PRP ComponentLink4Description 'http://www.farnell.com/datasheets/2792994.pdf?src-supplier=Farnell'
+PRP ComponentLink4URL 'http://www.farnell.com/datasheets/2792994.pdf?src-supplier=Farnell'
+PRP ComponentLink5Description 'http://www.farnell.com/datasheets/1744655.pdf?src-supplier=Element14'
+PRP ComponentLink5URL 'http://www.farnell.com/datasheets/1744655.pdf?src-supplier=Element14'
+PRP Composition 'Ceramic'
+PRP Depth '0.8mm'
+PRP Dielectric 'X7R'
+PRP Dielectric_Material 'Ceramic'
+PRP Height '0.8mm'
+PRP Lead_Free 'Lead Free'
+PRP Length '1.6mm'
+PRP Manufacturer 'TDK'
+PRP Manufacturer_Part_Number 'C1608X7R1H104K080AA'
+PRP Max_Operating_Temperature '125°C'
+PRP Min_Operating_Temperature '-55°C'
+PRP Mount 'Surface Mount'
+PRP Number_of_Pins '2'
+PRP Package_Quantity '1'
+PRP Packaging 'Tape and Reel'
+PRP Pricing_1 '1=0.12, 10=0.088, 100=0.0413, 500=0.02896, 1000=0.02397 (USD)'
+PRP Pricing_2 '1=0.12, 10=0.088, 100=0.041, 500=0.029, 1000=0.024, 4000=0.017, 8000=0.016, 24000=0.013, 48000=0.011 (USD)'
+PRP Radiation_Hardening 'No'
+PRP REACH_SVHC 'No SVHC'
+PRP Stock_1 '513759'
+PRP Stock_2 '34512'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_2 'Mouser'
+PRP Supplier_Part_Number_1 '445-1314-1-ND'
+PRP Supplier_Part_Number_2 '810-C1608X7R1H104K'
+PRP Termination 'SMD/SMT'
+PRP Thickness '0.037inch'
+PRP Tolerance '10%'
+PRP Voltage '50V'
+PRP Voltage_Rating '50V'
+PRP Voltage_Rating_(DC) '50V'
+PRP Weight '7.1E-05oz'
+PRP Width '0.8mm'
+TOP 0 8.941752 8.567704 90 N 104 12 C13-1
+TOP 1 8.871752 8.567704 90 N 103 56 C13-2
+#
+# CMP 14
+CMP 6 8.8186024 8.2773504 90 N C14 10000_pF,_0805_(2012_metric) ;0=1,1=0.0433
+PRP Capacitance '10nF'
+PRP Case/Package '0805'
+PRP Case_Code_(Imperial) '0805'
+PRP Case_Code_(Metric) '2012'
+PRP ComponentLink1Description 'http://www.mouser.com/ds/2/40/X7RDielectric-777024.pdf?src-supplier=Mouser'
+PRP ComponentLink1URL 'http://www.mouser.com/ds/2/40/X7RDielectric-777024.pdf?src-supplier=Mouser'
+PRP ComponentLink2Description 'http://www.avx.com/docs/Catalogs/cx7r.pdf?src-supplier=Future+Electronics'
+PRP ComponentLink2URL 'http://www.avx.com/docs/Catalogs/cx7r.pdf?src-supplier=Future+Electronics'
+PRP Depth '1.25mm'
+PRP Dielectric 'X7R'
+PRP Height '0.94mm'
+PRP Lead_Free 'Lead Free'
+PRP Length '2.01mm'
+PRP Manufacturer 'Kyocera AVX'
+PRP Manufacturer_Part_Number '08055C103KAT4A'
+PRP Max_Operating_Temperature '125°C'
+PRP Min_Operating_Temperature '-55°C'
+PRP Mount 'Surface Mount'
+PRP Number_of_Pins '2'
+PRP Packaging 'Tape and Reel'
+PRP Pricing_1 '1=0.13, 10=0.094, 100=0.044, 500=0.03086, 1000=0.02555, 2500=0.02378, 5000=0.02176 (USD)'
+PRP Pricing_2 '1=0.12, 10=0.085, 100=0.04, 500=0.028, 1000=0.023, 2500=0.018 (USD)'
+PRP Radiation_Hardening 'No'
+PRP Stock_1 '515489'
+PRP Stock_2 '88428'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_2 'Mouser'
+PRP Supplier_Part_Number_1 '478-10687-1-ND'
+PRP Supplier_Part_Number_2 '581-08055C103KAT4A'
+PRP Termination 'SMD/SMT'
+PRP Tolerance '10%'
+PRP Voltage '50V'
+PRP Voltage_Rating '50V'
+PRP Voltage_Rating_(DC) '50V'
+PRP Weight '0.000194oz'
+PRP Width '1.25mm'
+TOP 0 8.818602 8.32235 0 N 100 2 C14-1
+TOP 1 8.818602 8.23235 0 N 103 52 C14-2
+#
+# CMP 15
+CMP 5 10.2834646 8.3366142 0 N C15 12_pF,_0603_(1608_metric) ;0=1,1=0.0335
+PRP Capacitance '12pF'
+PRP Case/Package '0603'
+PRP Case_Code_(Imperial) '0603'
+PRP Case_Code_(Metric) '1608'
+PRP ComponentLink1Description 'https://media.digikey.com/pdf/Data%20Sheets/Samsung%20PDFs/CL_Series_MLCC_ds.pdf?src-supplier=Digi-Key'
+PRP ComponentLink1URL 'https://media.digikey.com/pdf/Data%20Sheets/Samsung%20PDFs/CL_Series_MLCC_ds.pdf?src-supplier=Digi-Key'
+PRP ComponentLink2Description 'https://www.verical.com/server-webapp/html/getDatasheet?partID=640658&src-supplier=Verical'
+PRP ComponentLink2URL 'https://www.verical.com/server-webapp/html/getDatasheet?partID=640658&src-supplier=Verical'
+PRP ComponentLink3Description 'https://produktinfo.conrad.com/datenblaetter/450000-474999/457317-da-01-en-VS_KONDENSATOR_0603.pdf?src-supplier=Conrad'
+PRP ComponentLink3URL 'https://produktinfo.conrad.com/datenblaetter/450000-474999/457317-da-01-en-VS_KONDENSATOR_0603.pdf?src-supplier=Conrad'
+PRP Contact_Plating 'Tin'
+PRP Depth '0.8mm'
+PRP Dielectric 'C0G'
+PRP Height '0.8mm'
+PRP Lead_Free 'Lead Free'
+PRP Length '1.6mm'
+PRP Manufacturer 'Samsung'
+PRP Manufacturer_Part_Number 'CL10C120JB8NNNC'
+PRP Material 'Ceramic'
+PRP Max_Operating_Temperature '125°C'
+PRP Min_Operating_Temperature '-55°C'
+PRP Mount 'Surface Mount'
+PRP Package_Quantity '1'
+PRP Packaging 'Tape and Reel'
+PRP Pricing_1 '1=0.1, 10=0.045, 100=0.0201, 500=0.01436, 1000=0.01128 (USD)'
+PRP Radiation_Hardening 'No'
+PRP Stock_1 '64675'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_Part_Number_1 '1276-1254-1-ND'
+PRP Temperature_Coefficient '300ppm/°C'
+PRP Thickness '0.035inch'
+PRP Tolerance '5%'
+PRP Voltage '50V'
+PRP Voltage_Rating '50V'
+PRP Voltage_Rating_(DC) '50V'
+PRP Width '0.031inch'
+TOP 0 10.248464 8.336614 270 N 99 3 C15-1
+TOP 1 10.318464 8.336614 270 N 103 38 C15-2
+#
+# CMP 16
+CMP 5 10.238083 8.4392008 270 N C16 12_pF,_0603_(1608_metric) ;0=1,1=0.0335
+PRP Capacitance '12pF'
+PRP Case/Package '0603'
+PRP Case_Code_(Imperial) '0603'
+PRP Case_Code_(Metric) '1608'
+PRP ComponentLink1Description 'https://media.digikey.com/pdf/Data%20Sheets/Samsung%20PDFs/CL_Series_MLCC_ds.pdf?src-supplier=Digi-Key'
+PRP ComponentLink1URL 'https://media.digikey.com/pdf/Data%20Sheets/Samsung%20PDFs/CL_Series_MLCC_ds.pdf?src-supplier=Digi-Key'
+PRP ComponentLink2Description 'https://www.verical.com/server-webapp/html/getDatasheet?partID=640658&src-supplier=Verical'
+PRP ComponentLink2URL 'https://www.verical.com/server-webapp/html/getDatasheet?partID=640658&src-supplier=Verical'
+PRP ComponentLink3Description 'https://produktinfo.conrad.com/datenblaetter/450000-474999/457317-da-01-en-VS_KONDENSATOR_0603.pdf?src-supplier=Conrad'
+PRP ComponentLink3URL 'https://produktinfo.conrad.com/datenblaetter/450000-474999/457317-da-01-en-VS_KONDENSATOR_0603.pdf?src-supplier=Conrad'
+PRP Contact_Plating 'Tin'
+PRP Depth '0.8mm'
+PRP Dielectric 'C0G'
+PRP Height '0.8mm'
+PRP Lead_Free 'Lead Free'
+PRP Length '1.6mm'
+PRP Manufacturer 'Samsung'
+PRP Manufacturer_Part_Number 'CL10C120JB8NNNC'
+PRP Material 'Ceramic'
+PRP Max_Operating_Temperature '125°C'
+PRP Min_Operating_Temperature '-55°C'
+PRP Mount 'Surface Mount'
+PRP Package_Quantity '1'
+PRP Packaging 'Tape and Reel'
+PRP Pricing_1 '1=0.1, 10=0.045, 100=0.0201, 500=0.01436, 1000=0.01128 (USD)'
+PRP Radiation_Hardening 'No'
+PRP Stock_1 '64675'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_Part_Number_1 '1276-1254-1-ND'
+PRP Temperature_Coefficient '300ppm/°C'
+PRP Thickness '0.035inch'
+PRP Tolerance '5%'
+PRP Voltage '50V'
+PRP Voltage_Rating '50V'
+PRP Voltage_Rating_(DC) '50V'
+PRP Width '0.031inch'
+TOP 0 10.238084 8.4042 180 N 98 5 C16-1
+TOP 1 10.238084 8.4742 180 N 103 44 C16-2
+#
+# CMP 17
+CMP 5 9.9597961 7.9373705 0 N C17 0.1_uF,_0603_(1608_metric) ;0=1,1=0.0335
+PRP Capacitance '100nF'
+PRP Case/Package '0603'
+PRP Case_Code_(Imperial) '0603'
+PRP Case_Code_(Metric) '1608'
+PRP ComponentLink1Description 'https://product.tdk.com/info/en/catalog/spec/mlccspec_commercial_general_midvoltage_en.pdf?src-supplier=Digi-Key'
+PRP ComponentLink1URL 'https://product.tdk.com/info/en/catalog/spec/mlccspec_commercial_general_midvoltage_en.pdf?src-supplier=Digi-Key'
+PRP ComponentLink2Description 'http://uk.rs-online.com/webdocs/13d1/0900766b813d1103.pdf?src-supplier=RSComponents'
+PRP ComponentLink2URL 'http://uk.rs-online.com/webdocs/13d1/0900766b813d1103.pdf?src-supplier=RSComponents'
+PRP ComponentLink3Description 'http://www.tdk.co.jp/tefe02/e412_c.pdf?src-supplier=Avnet+Europe'
+PRP ComponentLink3URL 'http://www.tdk.co.jp/tefe02/e412_c.pdf?src-supplier=Avnet+Europe'
+PRP ComponentLink4Description 'http://www.farnell.com/datasheets/2792994.pdf?src-supplier=Farnell'
+PRP ComponentLink4URL 'http://www.farnell.com/datasheets/2792994.pdf?src-supplier=Farnell'
+PRP ComponentLink5Description 'http://www.farnell.com/datasheets/1744655.pdf?src-supplier=Element14'
+PRP ComponentLink5URL 'http://www.farnell.com/datasheets/1744655.pdf?src-supplier=Element14'
+PRP Composition 'Ceramic'
+PRP Depth '0.8mm'
+PRP Dielectric 'X7R'
+PRP Dielectric_Material 'Ceramic'
+PRP Height '0.8mm'
+PRP Lead_Free 'Lead Free'
+PRP Length '1.6mm'
+PRP Manufacturer 'TDK'
+PRP Manufacturer_Part_Number 'C1608X7R1H104K080AA'
+PRP Max_Operating_Temperature '125°C'
+PRP Min_Operating_Temperature '-55°C'
+PRP Mount 'Surface Mount'
+PRP Number_of_Pins '2'
+PRP Package_Quantity '1'
+PRP Packaging 'Tape and Reel'
+PRP Pricing_1 '1=0.12, 10=0.088, 100=0.0413, 500=0.02896, 1000=0.02397 (USD)'
+PRP Pricing_2 '1=0.12, 10=0.088, 100=0.041, 500=0.029, 1000=0.024, 4000=0.017, 8000=0.016, 24000=0.013, 48000=0.011 (USD)'
+PRP Radiation_Hardening 'No'
+PRP REACH_SVHC 'No SVHC'
+PRP Stock_1 '513759'
+PRP Stock_2 '34512'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_2 'Mouser'
+PRP Supplier_Part_Number_1 '445-1314-1-ND'
+PRP Supplier_Part_Number_2 '810-C1608X7R1H104K'
+PRP Termination 'SMD/SMT'
+PRP Thickness '0.037inch'
+PRP Tolerance '10%'
+PRP Voltage '50V'
+PRP Voltage_Rating '50V'
+PRP Voltage_Rating_(DC) '50V'
+PRP Weight '7.1E-05oz'
+PRP Width '0.8mm'
+TOP 0 9.924796 7.93737 270 N 105 47 C17-1
+TOP 1 9.994796 7.93737 270 N 103 49 C17-2
+#
+# CMP 18
+CMP 5 9.3054744 8.0544966 180 N C18 0.1_uF,_0603_(1608_metric) ;0=1,1=0.0335
+PRP Capacitance '100nF'
+PRP Case/Package '0603'
+PRP Case_Code_(Imperial) '0603'
+PRP Case_Code_(Metric) '1608'
+PRP ComponentLink1Description 'https://product.tdk.com/info/en/catalog/spec/mlccspec_commercial_general_midvoltage_en.pdf?src-supplier=Digi-Key'
+PRP ComponentLink1URL 'https://product.tdk.com/info/en/catalog/spec/mlccspec_commercial_general_midvoltage_en.pdf?src-supplier=Digi-Key'
+PRP ComponentLink2Description 'http://uk.rs-online.com/webdocs/13d1/0900766b813d1103.pdf?src-supplier=RSComponents'
+PRP ComponentLink2URL 'http://uk.rs-online.com/webdocs/13d1/0900766b813d1103.pdf?src-supplier=RSComponents'
+PRP ComponentLink3Description 'http://www.tdk.co.jp/tefe02/e412_c.pdf?src-supplier=Avnet+Europe'
+PRP ComponentLink3URL 'http://www.tdk.co.jp/tefe02/e412_c.pdf?src-supplier=Avnet+Europe'
+PRP ComponentLink4Description 'http://www.farnell.com/datasheets/2792994.pdf?src-supplier=Farnell'
+PRP ComponentLink4URL 'http://www.farnell.com/datasheets/2792994.pdf?src-supplier=Farnell'
+PRP ComponentLink5Description 'http://www.farnell.com/datasheets/1744655.pdf?src-supplier=Element14'
+PRP ComponentLink5URL 'http://www.farnell.com/datasheets/1744655.pdf?src-supplier=Element14'
+PRP Composition 'Ceramic'
+PRP Depth '0.8mm'
+PRP Dielectric 'X7R'
+PRP Dielectric_Material 'Ceramic'
+PRP Height '0.8mm'
+PRP Lead_Free 'Lead Free'
+PRP Length '1.6mm'
+PRP Manufacturer 'TDK'
+PRP Manufacturer_Part_Number 'C1608X7R1H104K080AA'
+PRP Max_Operating_Temperature '125°C'
+PRP Min_Operating_Temperature '-55°C'
+PRP Mount 'Surface Mount'
+PRP Number_of_Pins '2'
+PRP Package_Quantity '1'
+PRP Packaging 'Tape and Reel'
+PRP Pricing_1 '1=0.12, 10=0.088, 100=0.0413, 500=0.02896, 1000=0.02397 (USD)'
+PRP Pricing_2 '1=0.12, 10=0.088, 100=0.041, 500=0.029, 1000=0.024, 4000=0.017, 8000=0.016, 24000=0.013, 48000=0.011 (USD)'
+PRP Radiation_Hardening 'No'
+PRP REACH_SVHC 'No SVHC'
+PRP Stock_1 '513759'
+PRP Stock_2 '34512'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_2 'Mouser'
+PRP Supplier_Part_Number_1 '445-1314-1-ND'
+PRP Supplier_Part_Number_2 '810-C1608X7R1H104K'
+PRP Termination 'SMD/SMT'
+PRP Thickness '0.037inch'
+PRP Tolerance '10%'
+PRP Voltage '50V'
+PRP Voltage_Rating '50V'
+PRP Voltage_Rating_(DC) '50V'
+PRP Weight '7.1E-05oz'
+PRP Width '0.8mm'
+TOP 0 9.340474 8.054496 90 N 105 44 C18-1
+TOP 1 9.270474 8.054496 90 N 103 43 C18-2
+#
+# CMP 19
+CMP 5 9.3053188 7.833591 180 N C19 0.1_uF,_0603_(1608_metric) ;0=1,1=0.0335
+PRP Capacitance '100nF'
+PRP Case/Package '0603'
+PRP Case_Code_(Imperial) '0603'
+PRP Case_Code_(Metric) '1608'
+PRP ComponentLink1Description 'https://product.tdk.com/info/en/catalog/spec/mlccspec_commercial_general_midvoltage_en.pdf?src-supplier=Digi-Key'
+PRP ComponentLink1URL 'https://product.tdk.com/info/en/catalog/spec/mlccspec_commercial_general_midvoltage_en.pdf?src-supplier=Digi-Key'
+PRP ComponentLink2Description 'http://uk.rs-online.com/webdocs/13d1/0900766b813d1103.pdf?src-supplier=RSComponents'
+PRP ComponentLink2URL 'http://uk.rs-online.com/webdocs/13d1/0900766b813d1103.pdf?src-supplier=RSComponents'
+PRP ComponentLink3Description 'http://www.tdk.co.jp/tefe02/e412_c.pdf?src-supplier=Avnet+Europe'
+PRP ComponentLink3URL 'http://www.tdk.co.jp/tefe02/e412_c.pdf?src-supplier=Avnet+Europe'
+PRP ComponentLink4Description 'http://www.farnell.com/datasheets/2792994.pdf?src-supplier=Farnell'
+PRP ComponentLink4URL 'http://www.farnell.com/datasheets/2792994.pdf?src-supplier=Farnell'
+PRP ComponentLink5Description 'http://www.farnell.com/datasheets/1744655.pdf?src-supplier=Element14'
+PRP ComponentLink5URL 'http://www.farnell.com/datasheets/1744655.pdf?src-supplier=Element14'
+PRP Composition 'Ceramic'
+PRP Depth '0.8mm'
+PRP Dielectric 'X7R'
+PRP Dielectric_Material 'Ceramic'
+PRP Height '0.8mm'
+PRP Lead_Free 'Lead Free'
+PRP Length '1.6mm'
+PRP Manufacturer 'TDK'
+PRP Manufacturer_Part_Number 'C1608X7R1H104K080AA'
+PRP Max_Operating_Temperature '125°C'
+PRP Min_Operating_Temperature '-55°C'
+PRP Mount 'Surface Mount'
+PRP Number_of_Pins '2'
+PRP Package_Quantity '1'
+PRP Packaging 'Tape and Reel'
+PRP Pricing_1 '1=0.12, 10=0.088, 100=0.0413, 500=0.02896, 1000=0.02397 (USD)'
+PRP Pricing_2 '1=0.12, 10=0.088, 100=0.041, 500=0.029, 1000=0.024, 4000=0.017, 8000=0.016, 24000=0.013, 48000=0.011 (USD)'
+PRP Radiation_Hardening 'No'
+PRP REACH_SVHC 'No SVHC'
+PRP Stock_1 '513759'
+PRP Stock_2 '34512'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_2 'Mouser'
+PRP Supplier_Part_Number_1 '445-1314-1-ND'
+PRP Supplier_Part_Number_2 '810-C1608X7R1H104K'
+PRP Termination 'SMD/SMT'
+PRP Thickness '0.037inch'
+PRP Tolerance '10%'
+PRP Voltage '50V'
+PRP Voltage_Rating '50V'
+PRP Voltage_Rating_(DC) '50V'
+PRP Weight '7.1E-05oz'
+PRP Width '0.8mm'
+TOP 0 9.340318 7.833592 90 N 105 46 C19-1
+TOP 1 9.270318 7.833592 90 N 103 48 C19-2
+#
+# CMP 20
+CMP 5 9.6723944 7.6395359 90 N C20 0.1_uF,_0603_(1608_metric) ;0=1,1=0.0335
+PRP Capacitance '100nF'
+PRP Case/Package '0603'
+PRP Case_Code_(Imperial) '0603'
+PRP Case_Code_(Metric) '1608'
+PRP ComponentLink1Description 'https://product.tdk.com/info/en/catalog/spec/mlccspec_commercial_general_midvoltage_en.pdf?src-supplier=Digi-Key'
+PRP ComponentLink1URL 'https://product.tdk.com/info/en/catalog/spec/mlccspec_commercial_general_midvoltage_en.pdf?src-supplier=Digi-Key'
+PRP ComponentLink2Description 'http://uk.rs-online.com/webdocs/13d1/0900766b813d1103.pdf?src-supplier=RSComponents'
+PRP ComponentLink2URL 'http://uk.rs-online.com/webdocs/13d1/0900766b813d1103.pdf?src-supplier=RSComponents'
+PRP ComponentLink3Description 'http://www.tdk.co.jp/tefe02/e412_c.pdf?src-supplier=Avnet+Europe'
+PRP ComponentLink3URL 'http://www.tdk.co.jp/tefe02/e412_c.pdf?src-supplier=Avnet+Europe'
+PRP ComponentLink4Description 'http://www.farnell.com/datasheets/2792994.pdf?src-supplier=Farnell'
+PRP ComponentLink4URL 'http://www.farnell.com/datasheets/2792994.pdf?src-supplier=Farnell'
+PRP ComponentLink5Description 'http://www.farnell.com/datasheets/1744655.pdf?src-supplier=Element14'
+PRP ComponentLink5URL 'http://www.farnell.com/datasheets/1744655.pdf?src-supplier=Element14'
+PRP Composition 'Ceramic'
+PRP Depth '0.8mm'
+PRP Dielectric 'X7R'
+PRP Dielectric_Material 'Ceramic'
+PRP Height '0.8mm'
+PRP Lead_Free 'Lead Free'
+PRP Length '1.6mm'
+PRP Manufacturer 'TDK'
+PRP Manufacturer_Part_Number 'C1608X7R1H104K080AA'
+PRP Max_Operating_Temperature '125°C'
+PRP Min_Operating_Temperature '-55°C'
+PRP Mount 'Surface Mount'
+PRP Number_of_Pins '2'
+PRP Package_Quantity '1'
+PRP Packaging 'Tape and Reel'
+PRP Pricing_1 '1=0.12, 10=0.088, 100=0.0413, 500=0.02896, 1000=0.02397 (USD)'
+PRP Pricing_2 '1=0.12, 10=0.088, 100=0.041, 500=0.029, 1000=0.024, 4000=0.017, 8000=0.016, 24000=0.013, 48000=0.011 (USD)'
+PRP Radiation_Hardening 'No'
+PRP REACH_SVHC 'No SVHC'
+PRP Stock_1 '513759'
+PRP Stock_2 '34512'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_2 'Mouser'
+PRP Supplier_Part_Number_1 '445-1314-1-ND'
+PRP Supplier_Part_Number_2 '810-C1608X7R1H104K'
+PRP Termination 'SMD/SMT'
+PRP Thickness '0.037inch'
+PRP Tolerance '10%'
+PRP Voltage '50V'
+PRP Voltage_Rating '50V'
+PRP Voltage_Rating_(DC) '50V'
+PRP Weight '7.1E-05oz'
+PRP Width '0.8mm'
+TOP 0 9.672394 7.674536 0 N 105 45 C20-1
+TOP 1 9.672394 7.604536 0 N 103 47 C20-2
+#
+# CMP 21
+CMP 5 9.5600397 8.2926856 270 N C21 0.1_uF,_0603_(1608_metric) ;0=1,1=0.0335
+PRP Capacitance '100nF'
+PRP Case/Package '0603'
+PRP Case_Code_(Imperial) '0603'
+PRP Case_Code_(Metric) '1608'
+PRP ComponentLink1Description 'https://product.tdk.com/info/en/catalog/spec/mlccspec_commercial_general_midvoltage_en.pdf?src-supplier=Digi-Key'
+PRP ComponentLink1URL 'https://product.tdk.com/info/en/catalog/spec/mlccspec_commercial_general_midvoltage_en.pdf?src-supplier=Digi-Key'
+PRP ComponentLink2Description 'http://uk.rs-online.com/webdocs/13d1/0900766b813d1103.pdf?src-supplier=RSComponents'
+PRP ComponentLink2URL 'http://uk.rs-online.com/webdocs/13d1/0900766b813d1103.pdf?src-supplier=RSComponents'
+PRP ComponentLink3Description 'http://www.tdk.co.jp/tefe02/e412_c.pdf?src-supplier=Avnet+Europe'
+PRP ComponentLink3URL 'http://www.tdk.co.jp/tefe02/e412_c.pdf?src-supplier=Avnet+Europe'
+PRP ComponentLink4Description 'http://www.farnell.com/datasheets/2792994.pdf?src-supplier=Farnell'
+PRP ComponentLink4URL 'http://www.farnell.com/datasheets/2792994.pdf?src-supplier=Farnell'
+PRP ComponentLink5Description 'http://www.farnell.com/datasheets/1744655.pdf?src-supplier=Element14'
+PRP ComponentLink5URL 'http://www.farnell.com/datasheets/1744655.pdf?src-supplier=Element14'
+PRP Composition 'Ceramic'
+PRP Depth '0.8mm'
+PRP Dielectric 'X7R'
+PRP Dielectric_Material 'Ceramic'
+PRP Height '0.8mm'
+PRP Lead_Free 'Lead Free'
+PRP Length '1.6mm'
+PRP Manufacturer 'TDK'
+PRP Manufacturer_Part_Number 'C1608X7R1H104K080AA'
+PRP Max_Operating_Temperature '125°C'
+PRP Min_Operating_Temperature '-55°C'
+PRP Mount 'Surface Mount'
+PRP Number_of_Pins '2'
+PRP Package_Quantity '1'
+PRP Packaging 'Tape and Reel'
+PRP Pricing_1 '1=0.12, 10=0.088, 100=0.0413, 500=0.02896, 1000=0.02397 (USD)'
+PRP Pricing_2 '1=0.12, 10=0.088, 100=0.041, 500=0.029, 1000=0.024, 4000=0.017, 8000=0.016, 24000=0.013, 48000=0.011 (USD)'
+PRP Radiation_Hardening 'No'
+PRP REACH_SVHC 'No SVHC'
+PRP Stock_1 '513759'
+PRP Stock_2 '34512'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_2 'Mouser'
+PRP Supplier_Part_Number_1 '445-1314-1-ND'
+PRP Supplier_Part_Number_2 '810-C1608X7R1H104K'
+PRP Termination 'SMD/SMT'
+PRP Thickness '0.037inch'
+PRP Tolerance '10%'
+PRP Voltage '50V'
+PRP Voltage_Rating '50V'
+PRP Voltage_Rating_(DC) '50V'
+PRP Weight '7.1E-05oz'
+PRP Width '0.8mm'
+TOP 0 9.56004 8.257686 180 N 106 18 C21-1
+TOP 1 9.56004 8.327686 180 N 103 41 C21-2
+#
+# CMP 22
+CMP 5 9.5631424 7.6332367 90 N C22 0.1_uF,_0603_(1608_metric) ;0=1,1=0.0335
+PRP Capacitance '100nF'
+PRP Case/Package '0603'
+PRP Case_Code_(Imperial) '0603'
+PRP Case_Code_(Metric) '1608'
+PRP ComponentLink1Description 'https://product.tdk.com/info/en/catalog/spec/mlccspec_commercial_general_midvoltage_en.pdf?src-supplier=Digi-Key'
+PRP ComponentLink1URL 'https://product.tdk.com/info/en/catalog/spec/mlccspec_commercial_general_midvoltage_en.pdf?src-supplier=Digi-Key'
+PRP ComponentLink2Description 'http://uk.rs-online.com/webdocs/13d1/0900766b813d1103.pdf?src-supplier=RSComponents'
+PRP ComponentLink2URL 'http://uk.rs-online.com/webdocs/13d1/0900766b813d1103.pdf?src-supplier=RSComponents'
+PRP ComponentLink3Description 'http://www.tdk.co.jp/tefe02/e412_c.pdf?src-supplier=Avnet+Europe'
+PRP ComponentLink3URL 'http://www.tdk.co.jp/tefe02/e412_c.pdf?src-supplier=Avnet+Europe'
+PRP ComponentLink4Description 'http://www.farnell.com/datasheets/2792994.pdf?src-supplier=Farnell'
+PRP ComponentLink4URL 'http://www.farnell.com/datasheets/2792994.pdf?src-supplier=Farnell'
+PRP ComponentLink5Description 'http://www.farnell.com/datasheets/1744655.pdf?src-supplier=Element14'
+PRP ComponentLink5URL 'http://www.farnell.com/datasheets/1744655.pdf?src-supplier=Element14'
+PRP Composition 'Ceramic'
+PRP Depth '0.8mm'
+PRP Dielectric 'X7R'
+PRP Dielectric_Material 'Ceramic'
+PRP Height '0.8mm'
+PRP Lead_Free 'Lead Free'
+PRP Length '1.6mm'
+PRP Manufacturer 'TDK'
+PRP Manufacturer_Part_Number 'C1608X7R1H104K080AA'
+PRP Max_Operating_Temperature '125°C'
+PRP Min_Operating_Temperature '-55°C'
+PRP Mount 'Surface Mount'
+PRP Number_of_Pins '2'
+PRP Package_Quantity '1'
+PRP Packaging 'Tape and Reel'
+PRP Pricing_1 '1=0.12, 10=0.088, 100=0.0413, 500=0.02896, 1000=0.02397 (USD)'
+PRP Pricing_2 '1=0.12, 10=0.088, 100=0.041, 500=0.029, 1000=0.024, 4000=0.017, 8000=0.016, 24000=0.013, 48000=0.011 (USD)'
+PRP Radiation_Hardening 'No'
+PRP REACH_SVHC 'No SVHC'
+PRP Stock_1 '513759'
+PRP Stock_2 '34512'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_2 'Mouser'
+PRP Supplier_Part_Number_1 '445-1314-1-ND'
+PRP Supplier_Part_Number_2 '810-C1608X7R1H104K'
+PRP Termination 'SMD/SMT'
+PRP Thickness '0.037inch'
+PRP Tolerance '10%'
+PRP Voltage '50V'
+PRP Voltage_Rating '50V'
+PRP Voltage_Rating_(DC) '50V'
+PRP Weight '7.1E-05oz'
+PRP Width '0.8mm'
+TOP 0 9.563142 7.668236 0 N 106 20 C22-1
+TOP 1 9.563142 7.598236 0 N 103 46 C22-2
+#
+# CMP 23
+CMP 5 9.9069296 8.1873706 0 N C23 0.1_uF,_0603_(1608_metric) ;0=1,1=0.0335
+PRP Capacitance '100nF'
+PRP Case/Package '0603'
+PRP Case_Code_(Imperial) '0603'
+PRP Case_Code_(Metric) '1608'
+PRP ComponentLink1Description 'https://product.tdk.com/info/en/catalog/spec/mlccspec_commercial_general_midvoltage_en.pdf?src-supplier=Digi-Key'
+PRP ComponentLink1URL 'https://product.tdk.com/info/en/catalog/spec/mlccspec_commercial_general_midvoltage_en.pdf?src-supplier=Digi-Key'
+PRP ComponentLink2Description 'http://uk.rs-online.com/webdocs/13d1/0900766b813d1103.pdf?src-supplier=RSComponents'
+PRP ComponentLink2URL 'http://uk.rs-online.com/webdocs/13d1/0900766b813d1103.pdf?src-supplier=RSComponents'
+PRP ComponentLink3Description 'http://www.tdk.co.jp/tefe02/e412_c.pdf?src-supplier=Avnet+Europe'
+PRP ComponentLink3URL 'http://www.tdk.co.jp/tefe02/e412_c.pdf?src-supplier=Avnet+Europe'
+PRP ComponentLink4Description 'http://www.farnell.com/datasheets/2792994.pdf?src-supplier=Farnell'
+PRP ComponentLink4URL 'http://www.farnell.com/datasheets/2792994.pdf?src-supplier=Farnell'
+PRP ComponentLink5Description 'http://www.farnell.com/datasheets/1744655.pdf?src-supplier=Element14'
+PRP ComponentLink5URL 'http://www.farnell.com/datasheets/1744655.pdf?src-supplier=Element14'
+PRP Composition 'Ceramic'
+PRP Depth '0.8mm'
+PRP Dielectric 'X7R'
+PRP Dielectric_Material 'Ceramic'
+PRP Height '0.8mm'
+PRP Lead_Free 'Lead Free'
+PRP Length '1.6mm'
+PRP Manufacturer 'TDK'
+PRP Manufacturer_Part_Number 'C1608X7R1H104K080AA'
+PRP Max_Operating_Temperature '125°C'
+PRP Min_Operating_Temperature '-55°C'
+PRP Mount 'Surface Mount'
+PRP Number_of_Pins '2'
+PRP Package_Quantity '1'
+PRP Packaging 'Tape and Reel'
+PRP Pricing_1 '1=0.12, 10=0.088, 100=0.0413, 500=0.02896, 1000=0.02397 (USD)'
+PRP Pricing_2 '1=0.12, 10=0.088, 100=0.041, 500=0.029, 1000=0.024, 4000=0.017, 8000=0.016, 24000=0.013, 48000=0.011 (USD)'
+PRP Radiation_Hardening 'No'
+PRP REACH_SVHC 'No SVHC'
+PRP Stock_1 '513759'
+PRP Stock_2 '34512'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_2 'Mouser'
+PRP Supplier_Part_Number_1 '445-1314-1-ND'
+PRP Supplier_Part_Number_2 '810-C1608X7R1H104K'
+PRP Termination 'SMD/SMT'
+PRP Thickness '0.037inch'
+PRP Tolerance '10%'
+PRP Voltage '50V'
+PRP Voltage_Rating '50V'
+PRP Voltage_Rating_(DC) '50V'
+PRP Weight '7.1E-05oz'
+PRP Width '0.8mm'
+TOP 0 9.87193 8.18737 270 N 106 21 C23-1
+TOP 1 9.94193 8.18737 270 N 103 50 C23-2
+#
+# CMP 24
+CMP 16 9.0832088 8.3989646 270 N FB3 Ferrite_Bead_47_Ohms_500mA_100MHz ;0=1,1=0.1850
+PRP Case/Package 'SMD/SMT'
+PRP Case_Code_(Imperial) '0603'
+PRP Case_Code_(Metric) '1608'
+PRP ComponentLink1Description 'http://katalog.we-online.de/pbs/datasheet/742792608.pdf?src-supplier=Digi-Key'
+PRP ComponentLink1URL 'http://katalog.we-online.de/pbs/datasheet/742792608.pdf?src-supplier=Digi-Key'
+PRP ComponentLink2Description 'http://www.farnell.com/datasheets/2290671.pdf?src-supplier=Farnell'
+PRP ComponentLink2URL 'http://www.farnell.com/datasheets/2290671.pdf?src-supplier=Farnell'
+PRP ComponentLink3Description 'http://documents.rs-components.com/techlib://itc_doclist_GB.htm?stockno=6693986&src-supplier=RSComponents'
+PRP ComponentLink3URL 'http://documents.rs-components.com/techlib://itc_doclist_GB.htm?stockno=6693986&src-supplier=RSComponents'
+PRP ComponentLink4Description 'http://www.farnell.com/datasheets/1696033.pdf?src-supplier=Element14'
+PRP ComponentLink4URL 'http://www.farnell.com/datasheets/1696033.pdf?src-supplier=Element14'
+PRP ComponentLink5Description 'http://www.mouser.com/ds/2/445/742792608-538481.pdf?src-supplier=Mouser'
+PRP ComponentLink5URL 'http://www.mouser.com/ds/2/445/742792608-538481.pdf?src-supplier=Mouser'
+PRP ComponentLink6Description 'http://www.farnell.com/datasheets/2290671.pdf?src-supplier=Newark'
+PRP ComponentLink6URL 'http://www.farnell.com/datasheets/2290671.pdf?src-supplier=Newark'
+PRP Core_Material 'Ferrite'
+PRP Current_Rating '500mA'
+PRP DC_Resistance_(DCR) '100mR'
+PRP Depth '0.8mm'
+PRP Height '0.8mm'
+PRP Impedance '47R'
+PRP Inductance '1H'
+PRP Lead_Free 'Lead Free'
+PRP Length '1.6mm'
+PRP Manufacturer 'Wurth Electronics'
+PRP Manufacturer_Part_Number '742792608'
+PRP Material 'Ferrite'
+PRP Max_Current_Rating '500mA'
+PRP Max_DC_Current '500mA'
+PRP Max_Operating_Temperature '125°C'
+PRP Min_Operating_Temperature '-55°C'
+PRP Mount 'Surface Mount'
+PRP Number_of_Lines '1'
+PRP Package_Quantity '1'
+PRP Packaging 'Tape and Reel'
+PRP Pricing_1 '1=0.17, 50=0.168, 100=0.155, 500=0.148, 1000=0.141, 2000=0.134 (USD)'
+PRP Pricing_2 '1=0.18, 10=0.172, 25=0.172, 50=0.168, 100=0.155, 250=0.155 (USD)'
+PRP REACH_SVHC 'Unknown'
+PRP Resistance '100mR'
+PRP Stock_1 '969'
+PRP Stock_2 '6414'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_2 'Mouser'
+PRP Supplier_Part_Number_1 '732-1596-1-ND'
+PRP Supplier_Part_Number_2 '710-742792608'
+PRP Termination 'SMD/SMT'
+PRP Test_Frequency '100MHz'
+PRP Tolerance '25%'
+PRP Weight '0.000141oz'
+PRP Width '0.8mm'
+TOP 0 9.083208 8.363964 180 N 102 4 FB3-1
+TOP 1 9.083208 8.433964 180 N 104 15 FB3-2
+#
+# CMP 25
+CMP 27 9.6820871 8.2994199 90 N R1 RES_10_ohms_(0603) ;0=1,1=0.0335
+PRP Case/Package '0603'
+PRP Case_Code_(Imperial) '0603'
+PRP Case_Code_(Metric) '1608'
+PRP ComponentLink1Description 'http://www.farnell.com/datasheets/1868787.pdf?src-supplier=Element14'
+PRP ComponentLink1URL 'http://www.farnell.com/datasheets/1868787.pdf?src-supplier=Element14'
+PRP ComponentLink2Description 'http://www.yageo.com/documents/recent/PYu-RC0603_51_RoHS_L_4.pdf?src-supplier=Avnet'
+PRP ComponentLink2URL 'http://www.yageo.com/documents/recent/PYu-RC0603_51_RoHS_L_4.pdf?src-supplier=Avnet'
+PRP ComponentLink3Description 'http://documents.rs-components.com/techlib://itc_doclist_GB.htm?stockno=5048984&src-supplier=RSComponents'
+PRP ComponentLink3URL 'http://documents.rs-components.com/techlib://itc_doclist_GB.htm?stockno=5048984&src-supplier=RSComponents'
+PRP ComponentLink4Description 'http://www.yageo.com/documents/recent/PYu-RC0603_51_RoHS_L_4.pdf?src-supplier=Avnet+Europe'
+PRP ComponentLink4URL 'http://www.yageo.com/documents/recent/PYu-RC0603_51_RoHS_L_4.pdf?src-supplier=Avnet+Europe'
+PRP Composition 'Thick Film'
+PRP Contact_Plating 'Tin,Matte'
+PRP Depth '0.8mm'
+PRP Height '0.45mm'
+PRP Lead_Free 'Lead Free'
+PRP Length '1.6mm'
+PRP Manufacturer 'Yageo'
+PRP Manufacturer_Part_Number 'RC0603FR-0710RL'
+PRP Max_Operating_Temperature '155°C'
+PRP Military_Standard 'Not'
+PRP Min_Operating_Temperature '-55°C'
+PRP Number_of_Pins '2'
+PRP Packaging 'Tape and Reel'
+PRP Power_Rating '100mW'
+PRP Pricing_1 '1=0.1, 10=0.046, 100=0.0187, 1000=0.0084, 2500=0.00729 (USD)'
+PRP Pricing_2 '1=0.15, 10=0.036, 100=0.012, 1000=0.009, 5000=0.006, 10000=0.006 (USD)'
+PRP Radiation_Hardening 'No'
+PRP REACH_SVHC 'No SVHC'
+PRP Resistance '10R'
+PRP Stock_1 '9251104'
+PRP Stock_2 '267888'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_2 'Mouser'
+PRP Supplier_Part_Number_1 '311-10.0HRCT-ND'
+PRP Supplier_Part_Number_2 '603-RC0603FR-0710RL'
+PRP Temperature_Coefficient '200ppm/°C'
+PRP Termination 'SMD/SMT'
+PRP Tolerance '1%'
+PRP Voltage_Rating '50V'
+PRP Voltage_Rating_(DC) '50V'
+PRP Width '0.8mm'
+TOP 0 9.682088 8.33442 0 N 81 2 R1-1
+TOP 1 9.682088 8.26442 0 N 83 1 R1-2
+#
+# CMP 26
+CMP 27 9.623032 8.2994199 90 N R2 RES_10_ohms_(0603) ;0=1,1=0.0335
+PRP Case/Package '0603'
+PRP Case_Code_(Imperial) '0603'
+PRP Case_Code_(Metric) '1608'
+PRP ComponentLink1Description 'http://www.farnell.com/datasheets/1868787.pdf?src-supplier=Element14'
+PRP ComponentLink1URL 'http://www.farnell.com/datasheets/1868787.pdf?src-supplier=Element14'
+PRP ComponentLink2Description 'http://www.yageo.com/documents/recent/PYu-RC0603_51_RoHS_L_4.pdf?src-supplier=Avnet'
+PRP ComponentLink2URL 'http://www.yageo.com/documents/recent/PYu-RC0603_51_RoHS_L_4.pdf?src-supplier=Avnet'
+PRP ComponentLink3Description 'http://documents.rs-components.com/techlib://itc_doclist_GB.htm?stockno=5048984&src-supplier=RSComponents'
+PRP ComponentLink3URL 'http://documents.rs-components.com/techlib://itc_doclist_GB.htm?stockno=5048984&src-supplier=RSComponents'
+PRP ComponentLink4Description 'http://www.yageo.com/documents/recent/PYu-RC0603_51_RoHS_L_4.pdf?src-supplier=Avnet+Europe'
+PRP ComponentLink4URL 'http://www.yageo.com/documents/recent/PYu-RC0603_51_RoHS_L_4.pdf?src-supplier=Avnet+Europe'
+PRP Composition 'Thick Film'
+PRP Contact_Plating 'Tin,Matte'
+PRP Depth '0.8mm'
+PRP Height '0.45mm'
+PRP Lead_Free 'Lead Free'
+PRP Length '1.6mm'
+PRP Manufacturer 'Yageo'
+PRP Manufacturer_Part_Number 'RC0603FR-0710RL'
+PRP Max_Operating_Temperature '155°C'
+PRP Military_Standard 'Not'
+PRP Min_Operating_Temperature '-55°C'
+PRP Number_of_Pins '2'
+PRP Packaging 'Tape and Reel'
+PRP Power_Rating '100mW'
+PRP Pricing_1 '1=0.1, 10=0.046, 100=0.0187, 1000=0.0084, 2500=0.00729 (USD)'
+PRP Pricing_2 '1=0.15, 10=0.036, 100=0.012, 1000=0.009, 5000=0.006, 10000=0.006 (USD)'
+PRP Radiation_Hardening 'No'
+PRP REACH_SVHC 'No SVHC'
+PRP Resistance '10R'
+PRP Stock_1 '9251104'
+PRP Stock_2 '267888'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_2 'Mouser'
+PRP Supplier_Part_Number_1 '311-10.0HRCT-ND'
+PRP Supplier_Part_Number_2 '603-RC0603FR-0710RL'
+PRP Temperature_Coefficient '200ppm/°C'
+PRP Termination 'SMD/SMT'
+PRP Tolerance '1%'
+PRP Voltage_Rating '50V'
+PRP Voltage_Rating_(DC) '50V'
+PRP Width '0.8mm'
+TOP 0 9.623032 8.33442 0 N 80 2 R2-1
+TOP 1 9.623032 8.26442 0 N 7 1 R2-2
+#
+# CMP 27
+CMP 28 9.4257921 8.356662 0 N R5 10k_ohms,_0805_(2012_metric) ;0=1,1=0.0433
+PRP Case/Package '0805'
+PRP Case_Code_(Imperial) '0805'
+PRP Case_Code_(Metric) '2012'
+PRP ComponentLink1Description 'http://www.mouser.com/ds/2/427/dcrcwe3-109170.pdf?src-supplier=Mouser'
+PRP ComponentLink1URL 'http://www.mouser.com/ds/2/427/dcrcwe3-109170.pdf?src-supplier=Mouser'
+PRP ComponentLink2Description 'http://uk.rs-online.com/webdocs/0d98/0900766b80d98b26.pdf?src-supplier=RSComponents'
+PRP ComponentLink2URL 'http://uk.rs-online.com/webdocs/0d98/0900766b80d98b26.pdf?src-supplier=RSComponents'
+PRP ComponentLink3Description 'http://www.alliedelec.com/m/d/0c934d6939ccefa68dbe0b96d821c8cf.pdf?src-supplier=Allied+Electronics'
+PRP ComponentLink3URL 'http://www.alliedelec.com/m/d/0c934d6939ccefa68dbe0b96d821c8cf.pdf?src-supplier=Allied+Electronics'
+PRP ComponentLink4Description 'http://www.vishay.com/docs/20035/dcrcwe3.pdf?src-supplier=Avnet+Asia'
+PRP ComponentLink4URL 'http://www.vishay.com/docs/20035/dcrcwe3.pdf?src-supplier=Avnet+Asia'
+PRP ComponentLink5Description 'http://www.vishay.com/docs/20035/dcrcwe3.pdf?src-supplier=Avnet+Europe'
+PRP ComponentLink5URL 'http://www.vishay.com/docs/20035/dcrcwe3.pdf?src-supplier=Avnet+Europe'
+PRP ComponentLink6Description 'http://www.farnell.com/datasheets/2310790.pdf?src-supplier=Element14'
+PRP ComponentLink6URL 'http://www.farnell.com/datasheets/2310790.pdf?src-supplier=Element14'
+PRP ComponentLink7Description 'http://www.vishay.com/docs/20035/dcrcwe3.pdf?src-supplier=Avnet'
+PRP ComponentLink7URL 'http://www.vishay.com/docs/20035/dcrcwe3.pdf?src-supplier=Avnet'
+PRP ComponentLink8Description 'http://www.vishay.com/docs/20035/dcrcwe3.pdf?src-supplier=Future+Electronics'
+PRP ComponentLink8URL 'http://www.vishay.com/docs/20035/dcrcwe3.pdf?src-supplier=Future+Electronics'
+PRP Composition 'Thick Film'
+PRP Contact_Plating 'Tin'
+PRP Depth '1.25mm'
+PRP Height '0.45mm'
+PRP Lead_Free 'Lead Free'
+PRP Length '2mm'
+PRP Manufacturer 'Vishay Dale'
+PRP Manufacturer_Part_Number 'CRCW080510K0FKEA'
+PRP Max_Operating_Temperature '155°C'
+PRP Military_Standard 'Not'
+PRP Min_Operating_Temperature '-55°C'
+PRP Mount_Type 'SMD'
+PRP Package_Quantity '5000'
+PRP Packaging 'Tape and Reel'
+PRP Power '1/8W'
+PRP Power_Rating '125mW'
+PRP Pricing_2 '1=0.1, 10=0.062, 100=0.025, 1000=0.01, 5000=0.007, 10000=0.006, 25000=0.005 (USD)'
+PRP Pricing_6 '1=0.1, 10=0.062, 100=0.0254, 1000=0.01142, 2500=0.00991 (USD)'
+PRP Radiation_Hardening 'No'
+PRP REACH_SVHC 'Unknown'
+PRP Resistance '10kR'
+PRP Stock_2 '101022'
+PRP Stock_6 '1354479'
+PRP Supplier_1 'Newark'
+PRP Supplier_2 'Mouser'
+PRP Supplier_3 'Digi-Key'
+PRP Supplier_4 'Allied'
+PRP Supplier_5 'Farnell'
+PRP Supplier_6 'Digi-Key'
+PRP Supplier_Part_Number_1 '52K9795'
+PRP Supplier_Part_Number_2 '71-CRCW0805-10K-E3'
+PRP Supplier_Part_Number_3 '541-10.0KCCT-ND'
+PRP Supplier_Part_Number_4 '70201192'
+PRP Supplier_Part_Number_5 '1632457'
+PRP Supplier_Part_Number_6 '541-10.0KCDKR-ND'
+PRP Temperature_Coefficient '100ppm/°C'
+PRP Termination 'SMD/SMT'
+PRP Tolerance '1%'
+PRP Value '10k'
+PRP Voltage_Rating '150V'
+PRP Voltage_Rating_(DC) '150V'
+PRP Weight '0.000194oz'
+PRP Width '1.25mm'
+TOP 0 9.3807923 8.356662 270 N 105 43 R5-1
+TOP 1 9.4707923 8.356662 270 N 101 7 R5-2
+#
+# CMP 28
+CMP 28 10.0161815 8.1243785 180 N R6 10k_ohms,_0805_(2012_metric) ;0=1,1=0.0433
+PRP Case/Package '0805'
+PRP Case_Code_(Imperial) '0805'
+PRP Case_Code_(Metric) '2012'
+PRP ComponentLink1Description 'http://www.mouser.com/ds/2/427/dcrcwe3-109170.pdf?src-supplier=Mouser'
+PRP ComponentLink1URL 'http://www.mouser.com/ds/2/427/dcrcwe3-109170.pdf?src-supplier=Mouser'
+PRP ComponentLink2Description 'http://uk.rs-online.com/webdocs/0d98/0900766b80d98b26.pdf?src-supplier=RSComponents'
+PRP ComponentLink2URL 'http://uk.rs-online.com/webdocs/0d98/0900766b80d98b26.pdf?src-supplier=RSComponents'
+PRP ComponentLink3Description 'http://www.alliedelec.com/m/d/0c934d6939ccefa68dbe0b96d821c8cf.pdf?src-supplier=Allied+Electronics'
+PRP ComponentLink3URL 'http://www.alliedelec.com/m/d/0c934d6939ccefa68dbe0b96d821c8cf.pdf?src-supplier=Allied+Electronics'
+PRP ComponentLink4Description 'http://www.vishay.com/docs/20035/dcrcwe3.pdf?src-supplier=Avnet+Asia'
+PRP ComponentLink4URL 'http://www.vishay.com/docs/20035/dcrcwe3.pdf?src-supplier=Avnet+Asia'
+PRP ComponentLink5Description 'http://www.vishay.com/docs/20035/dcrcwe3.pdf?src-supplier=Avnet+Europe'
+PRP ComponentLink5URL 'http://www.vishay.com/docs/20035/dcrcwe3.pdf?src-supplier=Avnet+Europe'
+PRP ComponentLink6Description 'http://www.farnell.com/datasheets/2310790.pdf?src-supplier=Element14'
+PRP ComponentLink6URL 'http://www.farnell.com/datasheets/2310790.pdf?src-supplier=Element14'
+PRP ComponentLink7Description 'http://www.vishay.com/docs/20035/dcrcwe3.pdf?src-supplier=Avnet'
+PRP ComponentLink7URL 'http://www.vishay.com/docs/20035/dcrcwe3.pdf?src-supplier=Avnet'
+PRP ComponentLink8Description 'http://www.vishay.com/docs/20035/dcrcwe3.pdf?src-supplier=Future+Electronics'
+PRP ComponentLink8URL 'http://www.vishay.com/docs/20035/dcrcwe3.pdf?src-supplier=Future+Electronics'
+PRP Composition 'Thick Film'
+PRP Contact_Plating 'Tin'
+PRP Depth '1.25mm'
+PRP Height '0.45mm'
+PRP Lead_Free 'Lead Free'
+PRP Length '2mm'
+PRP Manufacturer 'Vishay Dale'
+PRP Manufacturer_Part_Number 'CRCW080510K0FKEA'
+PRP Max_Operating_Temperature '155°C'
+PRP Military_Standard 'Not'
+PRP Min_Operating_Temperature '-55°C'
+PRP Mount_Type 'SMD'
+PRP Package_Quantity '5000'
+PRP Packaging 'Tape and Reel'
+PRP Power '1/8W'
+PRP Power_Rating '125mW'
+PRP Pricing_2 '1=0.1, 10=0.062, 100=0.025, 1000=0.01, 5000=0.007, 10000=0.006, 25000=0.005 (USD)'
+PRP Pricing_6 '1=0.1, 10=0.062, 100=0.0254, 1000=0.01142, 2500=0.00991 (USD)'
+PRP Radiation_Hardening 'No'
+PRP REACH_SVHC 'Unknown'
+PRP Resistance '10kR'
+PRP Stock_2 '101022'
+PRP Stock_6 '1354479'
+PRP Supplier_1 'Newark'
+PRP Supplier_2 'Mouser'
+PRP Supplier_3 'Digi-Key'
+PRP Supplier_4 'Allied'
+PRP Supplier_5 'Farnell'
+PRP Supplier_6 'Digi-Key'
+PRP Supplier_Part_Number_1 '52K9795'
+PRP Supplier_Part_Number_2 '71-CRCW0805-10K-E3'
+PRP Supplier_Part_Number_3 '541-10.0KCCT-ND'
+PRP Supplier_Part_Number_4 '70201192'
+PRP Supplier_Part_Number_5 '1632457'
+PRP Supplier_Part_Number_6 '541-10.0KCDKR-ND'
+PRP Temperature_Coefficient '100ppm/°C'
+PRP Termination 'SMD/SMT'
+PRP Tolerance '1%'
+PRP Value '10k'
+PRP Voltage_Rating '150V'
+PRP Voltage_Rating_(DC) '150V'
+PRP Weight '0.000194oz'
+PRP Width '1.25mm'
+TOP 0 10.061182 8.124378 90 N 103 39 R6-1
+TOP 1 9.971182 8.124378 90 N 96 3 R6-2
+#
+# CMP 29
+CMP 28 10.030398 8.0092209 0 N R7 10k_ohms,_0805_(2012_metric) ;0=1,1=0.0433
+PRP Case/Package '0805'
+PRP Case_Code_(Imperial) '0805'
+PRP Case_Code_(Metric) '2012'
+PRP ComponentLink1Description 'http://www.mouser.com/ds/2/427/dcrcwe3-109170.pdf?src-supplier=Mouser'
+PRP ComponentLink1URL 'http://www.mouser.com/ds/2/427/dcrcwe3-109170.pdf?src-supplier=Mouser'
+PRP ComponentLink2Description 'http://uk.rs-online.com/webdocs/0d98/0900766b80d98b26.pdf?src-supplier=RSComponents'
+PRP ComponentLink2URL 'http://uk.rs-online.com/webdocs/0d98/0900766b80d98b26.pdf?src-supplier=RSComponents'
+PRP ComponentLink3Description 'http://www.alliedelec.com/m/d/0c934d6939ccefa68dbe0b96d821c8cf.pdf?src-supplier=Allied+Electronics'
+PRP ComponentLink3URL 'http://www.alliedelec.com/m/d/0c934d6939ccefa68dbe0b96d821c8cf.pdf?src-supplier=Allied+Electronics'
+PRP ComponentLink4Description 'http://www.vishay.com/docs/20035/dcrcwe3.pdf?src-supplier=Avnet+Asia'
+PRP ComponentLink4URL 'http://www.vishay.com/docs/20035/dcrcwe3.pdf?src-supplier=Avnet+Asia'
+PRP ComponentLink5Description 'http://www.vishay.com/docs/20035/dcrcwe3.pdf?src-supplier=Avnet+Europe'
+PRP ComponentLink5URL 'http://www.vishay.com/docs/20035/dcrcwe3.pdf?src-supplier=Avnet+Europe'
+PRP ComponentLink6Description 'http://www.farnell.com/datasheets/2310790.pdf?src-supplier=Element14'
+PRP ComponentLink6URL 'http://www.farnell.com/datasheets/2310790.pdf?src-supplier=Element14'
+PRP ComponentLink7Description 'http://www.vishay.com/docs/20035/dcrcwe3.pdf?src-supplier=Avnet'
+PRP ComponentLink7URL 'http://www.vishay.com/docs/20035/dcrcwe3.pdf?src-supplier=Avnet'
+PRP ComponentLink8Description 'http://www.vishay.com/docs/20035/dcrcwe3.pdf?src-supplier=Future+Electronics'
+PRP ComponentLink8URL 'http://www.vishay.com/docs/20035/dcrcwe3.pdf?src-supplier=Future+Electronics'
+PRP Composition 'Thick Film'
+PRP Contact_Plating 'Tin'
+PRP Depth '1.25mm'
+PRP Height '0.45mm'
+PRP Lead_Free 'Lead Free'
+PRP Length '2mm'
+PRP Manufacturer 'Vishay Dale'
+PRP Manufacturer_Part_Number 'CRCW080510K0FKEA'
+PRP Max_Operating_Temperature '155°C'
+PRP Military_Standard 'Not'
+PRP Min_Operating_Temperature '-55°C'
+PRP Mount_Type 'SMD'
+PRP Package_Quantity '5000'
+PRP Packaging 'Tape and Reel'
+PRP Power '1/8W'
+PRP Power_Rating '125mW'
+PRP Pricing_2 '1=0.1, 10=0.062, 100=0.025, 1000=0.01, 5000=0.007, 10000=0.006, 25000=0.005 (USD)'
+PRP Pricing_6 '1=0.1, 10=0.062, 100=0.0254, 1000=0.01142, 2500=0.00991 (USD)'
+PRP Radiation_Hardening 'No'
+PRP REACH_SVHC 'Unknown'
+PRP Resistance '10kR'
+PRP Stock_2 '101022'
+PRP Stock_6 '1354479'
+PRP Supplier_1 'Newark'
+PRP Supplier_2 'Mouser'
+PRP Supplier_3 'Digi-Key'
+PRP Supplier_4 'Allied'
+PRP Supplier_5 'Farnell'
+PRP Supplier_6 'Digi-Key'
+PRP Supplier_Part_Number_1 '52K9795'
+PRP Supplier_Part_Number_2 '71-CRCW0805-10K-E3'
+PRP Supplier_Part_Number_3 '541-10.0KCCT-ND'
+PRP Supplier_Part_Number_4 '70201192'
+PRP Supplier_Part_Number_5 '1632457'
+PRP Supplier_Part_Number_6 '541-10.0KCDKR-ND'
+PRP Temperature_Coefficient '100ppm/°C'
+PRP Termination 'SMD/SMT'
+PRP Tolerance '1%'
+PRP Value '10k'
+PRP Voltage_Rating '150V'
+PRP Voltage_Rating_(DC) '150V'
+PRP Weight '0.000194oz'
+PRP Width '1.25mm'
+TOP 0 9.985398 8.00922 270 N 105 42 R7-1
+TOP 1 10.075398 8.00922 270 N 95 4 R7-2
+#
+# CMP 30
+CMP 17 9.6330244 7.9659139 90 N U1 FT4232HL-REEL ;0=1,1=0.0630
+PRP Case/Package 'LQFP'
+PRP ComponentLink1Description 'http://www.ftdichip.com/Support/Documents/AppNotes/AN_128_User_Guide_For_FT4232H_Factory%20test%20utility.pdf?src-supplier=Digi-Key'
+PRP ComponentLink1URL 'http://www.ftdichip.com/Support/Documents/AppNotes/AN_128_User_Guide_For_FT4232H_Factory%20test%20utility.pdf?src-supplier=Digi-Key'
+PRP ComponentLink2Description 'http://www.alliedelec.com/images/products/datasheets/bm/FTDI/70403916.pdf?src-supplier=Allied+Electronics'
+PRP ComponentLink2URL 'http://www.alliedelec.com/images/products/datasheets/bm/FTDI/70403916.pdf?src-supplier=Allied+Electronics'
+PRP ComponentLink3Description 'http://www.ftdichip.com/Support/Documents/DataSheets/ICs/DS_FT4232H.pdf?src-supplier=Future+Electronics'
+PRP ComponentLink3URL 'http://www.ftdichip.com/Support/Documents/DataSheets/ICs/DS_FT4232H.pdf?src-supplier=Future+Electronics'
+PRP ComponentLink4Description 'https://www.verical.com/server-webapp/html/getDatasheet?partID=643215&src-supplier=Verical'
+PRP ComponentLink4URL 'https://www.verical.com/server-webapp/html/getDatasheet?partID=643215&src-supplier=Verical'
+PRP ComponentLink5Description 'http://datasheet.iiic.cc/ftdi/FT4232HL-REEL.pdf?src-supplier=IIIC'
+PRP ComponentLink5URL 'http://datasheet.iiic.cc/ftdi/FT4232HL-REEL.pdf?src-supplier=IIIC'
+PRP Data_Rate '480Mbps'
+PRP Dual_Supply_Voltage '3.3V'
+PRP ESD_Protection 'Yes'
+PRP Height '1.4mm'
+PRP Interface 'UART'
+PRP Lead_Free 'Lead Free'
+PRP Length '10.1mm'
+PRP Manufacturer 'FTDI'
+PRP Manufacturer_Part_Number 'FT4232HL-REEL'
+PRP Max_Operating_Temperature '85°C'
+PRP Max_Supply_Voltage '3.63V'
+PRP Min_Operating_Temperature '-40°C'
+PRP Min_Supply_Voltage '1.62V'
+PRP Mount 'Surface Mount'
+PRP Number_of_Channels '1'
+PRP Number_of_Pins '64'
+PRP Number_of_Transceivers '4'
+PRP Operating_Supply_Current '70mA'
+PRP Operating_Supply_Voltage '3.3V'
+PRP Package_Quantity '1000'
+PRP Packaging 'Tape and Reel'
+PRP Pricing_1 '1=8.3, 10=8.09, 50=7.46, 100=7.14, 500=6.88006 (USD)'
+PRP Pricing_2 '1=8.3, 25=8.09, 50=7.46, 100=7.14, 500=6.88, 1000=6.08 (USD)'
+PRP Radiation_Hardening 'No'
+PRP Stock_1 '18748'
+PRP Stock_2 '21282'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_2 'Mouser'
+PRP Supplier_Part_Number_1 '768-1026-1-ND'
+PRP Supplier_Part_Number_2 '895-FT4232HL'
+PRP Weight '0.012088oz'
+PRP Width '10.1mm'
+TOP 0 9.780662 8.185402 0 N 103 67 U1-1
+TOP 1 9.760978 8.185402 0 N 99 5 U1-2
+TOP 2 9.741292 8.185402 0 N 98 6 U1-3
+TOP 3 9.721608 8.185402 0 N 79 15 U1-4
+TOP 4 9.701922 8.185402 0 N 103 66 U1-5
+TOP 5 9.682238 8.185402 0 N 97 7 U1-6
+TOP 6 9.662552 8.185402 0 N 83 2 U1-7
+TOP 7 9.642866 8.185402 0 N 7 2 U1-8
+TOP 8 9.623182 8.185402 0 N 78 12 U1-9
+TOP 9 9.603496 8.185402 0 N 103 65 U1-10
+TOP 10 9.583812 8.185402 0 N 103 64 U1-11
+TOP 11 9.564126 8.185402 0 N 106 25 U1-12
+TOP 12 9.544442 8.185402 0 N 103 63 U1-13
+TOP 13 9.524756 8.185402 0 N 101 8 U1-14
+TOP 14 9.505072 8.185402 0 N 103 62 U1-15
+TOP 15 9.485386 8.185402 0 N 91 8 U1-16
+TOP 16 9.413536 8.113552 90 N 87 7 U1-17
+TOP 17 9.413536 8.093866 90 N 0 33 U1-18
+TOP 18 9.413536 8.074182 90 N 0 32 U1-19
+TOP 19 9.413536 8.054496 90 N 105 55 U1-20
+TOP 20 9.413536 8.034812 90 N 0 31 U1-21
+TOP 21 9.413536 8.015126 90 N 0 30 U1-22
+TOP 22 9.413536 7.995442 90 N 0 29 U1-23
+TOP 23 9.413536 7.975756 90 N 0 28 U1-24
+TOP 24 9.413536 7.956072 90 N 103 61 U1-25
+TOP 25 9.413536 7.936386 90 N 90 7 U1-26
+TOP 26 9.413536 7.916702 90 N 86 8 U1-27
+TOP 27 9.413536 7.897016 90 N 0 27 U1-28
+TOP 28 9.413536 7.877332 90 N 0 26 U1-29
+TOP 29 9.413536 7.857646 90 N 0 25 U1-30
+TOP 30 9.413536 7.837962 90 N 105 54 U1-31
+TOP 31 9.413536 7.818276 90 N 0 24 U1-32
+TOP 32 9.485386 7.746426 0 N 0 23 U1-33
+TOP 33 9.505072 7.746426 0 N 0 22 U1-34
+TOP 34 9.524756 7.746426 0 N 103 60 U1-35
+TOP 35 9.544442 7.746426 0 N 92 2 U1-36
+TOP 36 9.564126 7.746426 0 N 106 24 U1-37
+TOP 37 9.583812 7.746426 0 N 89 8 U1-38
+TOP 38 9.603496 7.746426 0 N 85 9 U1-39
+TOP 39 9.623182 7.746426 0 N 0 21 U1-40
+TOP 40 9.642866 7.746426 0 N 0 20 U1-41
+TOP 41 9.662552 7.746426 0 N 105 53 U1-42
+TOP 42 9.682238 7.746426 0 N 0 19 U1-43
+TOP 43 9.701922 7.746426 0 N 0 18 U1-44
+TOP 44 9.721608 7.746426 0 N 0 17 U1-45
+TOP 45 9.741292 7.746426 0 N 0 16 U1-46
+TOP 46 9.760978 7.746426 0 N 103 59 U1-47
+TOP 47 9.780662 7.746426 0 N 88 8 U1-48
+TOP 48 9.852512 7.818276 90 N 106 23 U1-49
+TOP 49 9.852512 7.837962 90 N 105 52 U1-50
+TOP 50 9.852512 7.857646 90 N 103 58 U1-51
+TOP 51 9.852512 7.877332 90 N 84 6 U1-52
+TOP 52 9.852512 7.897016 90 N 0 15 U1-53
+TOP 53 9.852512 7.916702 90 N 0 14 U1-54
+TOP 54 9.852512 7.936386 90 N 0 13 U1-55
+TOP 55 9.852512 7.956072 90 N 105 51 U1-56
+TOP 56 9.852512 7.975756 90 N 0 12 U1-57
+TOP 57 9.852512 7.995442 90 N 0 11 U1-58
+TOP 58 9.852512 8.015126 90 N 0 10 U1-59
+TOP 59 9.852512 8.034812 90 N 93 3 U1-60
+TOP 60 9.852512 8.054496 90 N 95 5 U1-61
+TOP 61 9.852512 8.074182 90 N 94 2 U1-62
+TOP 62 9.852512 8.093866 90 N 96 4 U1-63
+TOP 63 9.852512 8.113552 90 N 106 22 U1-64
+#
+# CMP 31
+CMP 29 8.8717521 8.4486102 90 N U2 TPS79333DBVR ;0=1,1=0.0571
+PRP Accuracy '2%'
+PRP Case/Package 'SOT-23'
+PRP ComponentLink1Description 'http://www.ti.com/general/docs/lit/getliterature.tsp?genericPartNumber=TPS793&amp;&amp;fileType=pdf&src-supplier=Farnell'
+PRP ComponentLink1URL 'http://www.ti.com/general/docs/lit/getliterature.tsp?genericPartNumber=TPS793&amp;&amp;fileType=pdf&src-supplier=Farnell'
+PRP ComponentLink2Description 'http://www.jameco.com/Jameco/Products/ProdDS/1123416.pdf?src-supplier=Jameco'
+PRP ComponentLink2URL 'http://www.jameco.com/Jameco/Products/ProdDS/1123416.pdf?src-supplier=Jameco'
+PRP Current_Rating '200mA'
+PRP Dropout_Voltage '102mV'
+PRP Height '1.15mm'
+PRP Input_Bias_Current '170uA'
+PRP Lead_Free 'Lead Free'
+PRP Length '2.9mm'
+PRP Manufacturer 'Texas Instruments'
+PRP Manufacturer_Part_Number 'TPS79333DBVR'
+PRP Max_Input_Voltage '5.5V'
+PRP Max_Operating_Temperature '125°C'
+PRP Max_Output_Current '200mA'
+PRP Max_Output_Voltage '3.3V'
+PRP Max_Power_Dissipation '560mW'
+PRP Max_Supply_Voltage '5.5V'
+PRP Min_Current_Limit '285mA'
+PRP Min_Input_Voltage '2.7V'
+PRP Min_Operating_Temperature '-40°C'
+PRP Min_Output_Voltage '3.3V'
+PRP Min_Supply_Voltage '2.7V'
+PRP Nominal_Output_Voltage '3.3V'
+PRP Number_of_Outputs '1'
+PRP Number_of_Pins '5'
+PRP Number_of_Regulators '1'
+PRP Output_Current '200mA'
+PRP Output_Type 'Fixed'
+PRP Output_Voltage '3.3V'
+PRP Output_Voltage_Accuracy '2%'
+PRP Package_Quantity '1'
+PRP Packaging 'Tape and Reel'
+PRP Polarity 'Positive'
+PRP Power_Dissipation '560mW'
+PRP Power_Rating '560mW'
+PRP Pricing_1 '1=0.73, 10=0.64, 25=0.6016, 100=0.4559, 250=0.388, 500=0.3686, 1000=0.2813 (USD)'
+PRP Pricing_2 '1=0.72, 10=0.6, 100=0.379, 1000=0.289, 2000=0.282, 3000=0.252, 9000=0.242, 48000=0.233 (USD)'
+PRP Quiescent_Current '200uA'
+PRP Radiation_Hardening 'No'
+PRP REACH_SVHC 'No SVHC'
+PRP Stock_1 '21565'
+PRP Stock_2 '31707'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_2 'Mouser'
+PRP Supplier_Part_Number_1 '296-12961-1-ND'
+PRP Supplier_Part_Number_2 '595-TPS79333DBVR'
+PRP Termination 'SMD/SMT'
+PRP Width '1.6mm'
+TOP 0 8.909154 8.495854 0 N 104 13 U2-1
+TOP 1 8.871752 8.495854 0 N 103 57 U2-2
+TOP 2 8.83435 8.495854 0 N 104 14 U2-3
+TOP 3 8.83435 8.401366 0 N 100 3 U2-4
+TOP 4 8.909154 8.401366 0 N 105 50 U2-5
+#
+# CMP 32
+CMP 32 10.352709 8.4978227 270 N XTAL1 12.000MHz_12pF ;0=1,1=0.0354
+PRP Case/Package 'SMD/SMT'
+PRP ComponentLink1Description 'http://www.txccrystal.com/images/pdf/number-crystal-automotive.pdf?src-supplier=Digi-Key'
+PRP ComponentLink1URL 'http://www.txccrystal.com/images/pdf/number-crystal-automotive.pdf?src-supplier=Digi-Key'
+PRP ComponentLink2Description 'http://www.farnell.com/datasheets/1811860.pdf?src-supplier=Element14'
+PRP ComponentLink2URL 'http://www.farnell.com/datasheets/1811860.pdf?src-supplier=Element14'
+PRP ESR_(Equivalent_Series_Resistance) '100R'
+PRP Frequency '12MHz'
+PRP Frequency_Stability '50ppm'
+PRP Frequency_Tolerance '30ppm'
+PRP Height '0.053inch'
+PRP Length '0.197inch'
+PRP Manufacturer 'TXC'
+PRP Manufacturer_Part_Number 'AA-12.000MAGE-T'
+PRP Max_Operating_Temperature '85°C'
+PRP Min_Operating_Temperature '-40°C'
+PRP Mount 'Surface Mount'
+PRP Number_of_Pins '2'
+PRP Package_Quantity '1000'
+PRP Packaging 'Tape and Reel'
+PRP Pricing_1 '1=0.83, 10=0.734, 50=0.6858, 100=0.6061, 500=0.5742 (USD)'
+PRP Pricing_2 '1=0.83, 10=0.734, 50=0.685, 100=0.606, 500=0.574, 1000=0.435 (USD)'
+PRP Ratings 'AEC-Q200'
+PRP REACH_SVHC 'No SVHC'
+PRP Stock_1 '2398'
+PRP Stock_2 '4856'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_2 'Mouser'
+PRP Supplier_Part_Number_1 '887-1656-1-ND'
+PRP Supplier_Part_Number_2 '717-AA-12.000MAGE-T'
+PRP Termination 'SMD/SMT'
+PRP Tolerance '30ppm'
+PRP Width '3.2mm'
+TOP 0 10.35271 8.424988 180 N 99 4 XTAL1-1
+TOP 1 10.35271 8.570658 180 N 98 4 XTAL1-2
+#
+# CMP 33
+CMP 30 10.5511817 7.7025275 90 N TP6 DNP ;0=2,1=0.1850
+TOP 0 10.5511823 7.702528 90 N 96 5 TP6-1
+#
+# CMP 34
+CMP 30 9.8963732 7.5658953 270 N TP2 DNP ;0=2,1=0.1850
+TOP 0 9.8963732 7.5658952 270 N 106 26 TP2-1
+#
+# CMP 35
+CMP 30 10.0669291 8.4675197 270 N TP4 DNP ;0=2,1=0.1850
+TOP 0 10.0669282 8.46752 270 N 97 8 TP4-1
+#
+# CMP 36
+CMP 30 9.3388274 7.543512 270 N TP5 DNP ;0=2,1=0.1850
+TOP 0 9.338828 7.5435113 270 N 101 9 TP5-1
+#
+# CMP 37
+CMP 30 9.2854328 8.3307085 270 N TP7 DNP ;0=2,1=0.1850
+TOP 0 9.2854318 8.330708 270 N 105 56 TP7-1
+#
+# CMP 38
+CMP 30 10.2857481 7.7023029 270 N TP8 DNP ;0=2,1=0.1850
+TOP 0 10.2857487 7.7023022 270 N 95 6 TP8-1
+#
+# CMP 39
+CMP 30 10.4243175 7.7023017 270 N TP9 DNP ;0=2,1=0.1850
+TOP 0 10.4243171 7.7023022 270 N 94 3 TP9-1
+#
+# CMP 40
+CMP 30 10.0265747 8.2795274 180 N TP10 DNP ;0=2,1=0.1850
+TOP 0 10.0265754 8.279528 180 N 93 4 TP10-1
+#
+# CMP 41
+CMP 30 9.4691267 7.543512 180 N TP11 DNP ;0=2,1=0.1850
+TOP 0 9.4691263 7.5435125 180 N 92 3 TP11-1
+#
+# CMP 42
+CMP 4 2.2 7.704724 180 N CN12 BCS-106-L-D-TE ;0=2,1=0.0000
+PRP Category 'Connectors'
+PRP Color 'Black'
+PRP ComponentLink1Description 'https://datasheet.ciiva.com/16706/bcs-16706444.pdf?src-supplier=Avnet+Europe'
+PRP ComponentLink1URL 'https://datasheet.ciiva.com/16706/bcs-16706444.pdf?src-supplier=Avnet+Europe'
+PRP ComponentLink2Description 'https://datasheet.ciiva.com/413/bcs-1xx-xxx-x-xx-xxx-mkt-413758.pdf?src-supplier=Digi-Key'
+PRP ComponentLink2URL 'https://datasheet.ciiva.com/413/bcs-1xx-xxx-x-xx-xxx-mkt-413758.pdf?src-supplier=Digi-Key'
+PRP Connector_Type 'Receptacle'
+PRP Contact_Material 'Bronze'
+PRP Contact_Plating 'Gold'
+PRP Contact_Resistance '10mR'
+PRP Depth '5.08mm'
+PRP Gender 'Receptacle'
+PRP Housing_Color 'Black'
+PRP Housing_Material 'Polymer'
+PRP Lead_Free 'Lead Free'
+PRP Length '15.24mm'
+PRP Manufacturer 'Samtec'
+PRP Manufacturer_Part_Number 'BCS-106-L-D-TE'
+PRP Max_Current_Rating '5.9A'
+PRP Max_Operating_Temperature '125°C'
+PRP Max_Voltage_Rating_(AC) '475V'
+PRP Min_Operating_Temperature '-55°C'
+PRP Mount 'Through Hole'
+PRP Number_of_Contacts '12'
+PRP Number_of_Positions '12'
+PRP Number_of_Rows '2'
+PRP Orientation 'Vertical'
+PRP Packaging 'Rail/Tube'
+PRP Pitch '2.54mm'
+PRP Pricing_1 '1=1.77000, 10=1.60200, 25=1.50360, 50=1.43820, 100=1.37290, 250=1.24216, 500=1.14408 (USD)'
+PRP Radiation_Hardening 'No'
+PRP REACH_SVHC 'No SVHC'
+PRP RoHS 'Yes'
+PRP Row_Spacing '0.1inch'
+PRP Stock_1 '7411'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_Part_Number_1 'SAM1008-06-ND'
+PRP Termination 'Solder'
+PRP Width '5.08mm'
+TOP 0 2.2 7.704724 180 N 68 2 CN12-1
+TOP 1 2.1 7.704724 180 N 68 1 CN12-2
+TOP 2 2 7.704724 180 N 68 3 CN12-3
+TOP 3 1.9 7.704724 180 N 68 4 CN12-4
+TOP 4 1.8 7.704724 180 N 68 5 CN12-5
+TOP 5 1.7 7.704724 180 N 68 6 CN12-6
+TOP 6 2.2 7.804724 180 N 103 81 CN12-7
+TOP 7 2.1 7.804724 180 N 103 82 CN12-8
+TOP 8 2 7.804724 180 N 103 83 CN12-9
+TOP 9 1.9 7.804724 180 N 103 84 CN12-10
+TOP 10 1.8 7.804724 180 N 103 85 CN12-11
+TOP 11 1.7 7.804724 180 N 103 86 CN12-12
+#
+# CMP 43
+CMP 2 1.9498031 8.2283465 180 N CN10 4243-0 ;0=2,1=0.0000
+PRP Body_Material 'Brass'
+PRP Category 'Connectors'
+PRP Color 'Black,Red'
+PRP ComponentLink1Description 'https://datasheet.ciiva.com/1453/d4243-1-01-1453890.pdf?src-supplier=Element14'
+PRP ComponentLink1URL 'https://datasheet.ciiva.com/1453/d4243-1-01-1453890.pdf?src-supplier=Element14'
+PRP ComponentLink2Description 'https://datasheet.ciiva.com/16883/70198115-16883751.pdf?src-supplier=Allied+Electronics'
+PRP ComponentLink2URL 'https://datasheet.ciiva.com/16883/70198115-16883751.pdf?src-supplier=Allied+Electronics'
+PRP ComponentLink3Description 'https://datasheet.ciiva.com/30105/d4243-1-02-30105753.pdf?src-supplier=Onlinecomponents.com'
+PRP ComponentLink3URL 'https://datasheet.ciiva.com/30105/d4243-1-02-30105753.pdf?src-supplier=Onlinecomponents.com'
+PRP Contact_Material 'Brass'
+PRP Contact_Plating 'Tin,Bright'
+PRP Current_Rating '15A'
+PRP Depth '11.18mm'
+PRP Hole_Diameter '0.1inch'
+PRP Housing_Color 'Black'
+PRP Housing_Material 'Polycarbonate'
+PRP Insulation 'Insulated'
+PRP Insulation_Material 'Polycarbonate'
+PRP Lead_Free 'Lead Free'
+PRP Length '30.23mm'
+PRP Manufacturer 'Pomona Electronics'
+PRP Manufacturer_Part_Number '4243-0'
+PRP Max_Current_Rating '15A'
+PRP Mount 'Panel'
+PRP Number_of_Pins '1'
+PRP Number_of_Ports '2'
+PRP Orientation 'Straight'
+PRP Package_Quantity '5'
+PRP Packaging 'Bulk'
+PRP Panel_Thickness '6.35mm'
+PRP Pricing_1 '1=8.99000, 25=8.54040, 50=8.09100, 100=7.73150 (USD)'
+PRP REACH_SVHC 'No SVHC'
+PRP RoHS 'Yes'
+PRP Stock_1 '327'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_Part_Number_1 '501-1126-ND'
+PRP Termination 'Turret'
+PRP Voltage_Rating '2.5kV'
+PRP Voltage_Rating_(AC) '30V'
+PRP Voltage_Rating_(DC) '60V'
+TOP 0 2.3248031 8.2283465 90 N 103 88 CN10-0
+TOP 1 1.5748031 8.2283465 90 N 68 7 CN10-1
+#
+# CMP 44
+CMP 4 3.548032 7.716536 180 N CN6 BCS-106-L-D-TE ;0=2,1=0.0000
+PRP Category 'Connectors'
+PRP Color 'Black'
+PRP ComponentLink1Description 'https://datasheet.ciiva.com/16706/bcs-16706444.pdf?src-supplier=Avnet+Europe'
+PRP ComponentLink1URL 'https://datasheet.ciiva.com/16706/bcs-16706444.pdf?src-supplier=Avnet+Europe'
+PRP ComponentLink2Description 'https://datasheet.ciiva.com/413/bcs-1xx-xxx-x-xx-xxx-mkt-413758.pdf?src-supplier=Digi-Key'
+PRP ComponentLink2URL 'https://datasheet.ciiva.com/413/bcs-1xx-xxx-x-xx-xxx-mkt-413758.pdf?src-supplier=Digi-Key'
+PRP Connector_Type 'Receptacle'
+PRP Contact_Material 'Bronze'
+PRP Contact_Plating 'Gold'
+PRP Contact_Resistance '10mR'
+PRP Depth '5.08mm'
+PRP Gender 'Receptacle'
+PRP Housing_Color 'Black'
+PRP Housing_Material 'Polymer'
+PRP Lead_Free 'Lead Free'
+PRP Length '15.24mm'
+PRP Manufacturer 'Samtec'
+PRP Manufacturer_Part_Number 'BCS-106-L-D-TE'
+PRP Max_Current_Rating '5.9A'
+PRP Max_Operating_Temperature '125°C'
+PRP Max_Voltage_Rating_(AC) '475V'
+PRP Min_Operating_Temperature '-55°C'
+PRP Mount 'Through Hole'
+PRP Number_of_Contacts '12'
+PRP Number_of_Positions '12'
+PRP Number_of_Rows '2'
+PRP Orientation 'Vertical'
+PRP Packaging 'Rail/Tube'
+PRP Pitch '2.54mm'
+PRP Pricing_1 '1=1.77000, 10=1.60200, 25=1.50360, 50=1.43820, 100=1.37290, 250=1.24216, 500=1.14408 (USD)'
+PRP Radiation_Hardening 'No'
+PRP REACH_SVHC 'No SVHC'
+PRP RoHS 'Yes'
+PRP Row_Spacing '0.1inch'
+PRP Stock_1 '7411'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_Part_Number_1 'SAM1008-06-ND'
+PRP Termination 'Solder'
+PRP Width '5.08mm'
+TOP 0 3.548032 7.716536 180 N 3 2 CN6-1
+TOP 1 3.448032 7.716536 180 N 3 1 CN6-2
+TOP 2 3.348032 7.716536 180 N 3 3 CN6-3
+TOP 3 3.248032 7.716536 180 N 3 4 CN6-4
+TOP 4 3.148032 7.716536 180 N 3 5 CN6-5
+TOP 5 3.048032 7.716536 180 N 3 6 CN6-6
+TOP 6 3.548032 7.816536 180 N 103 75 CN6-7
+TOP 7 3.448032 7.816536 180 N 103 76 CN6-8
+TOP 8 3.348032 7.816536 180 N 103 77 CN6-9
+TOP 9 3.248032 7.816536 180 N 103 78 CN6-10
+TOP 10 3.148032 7.816536 180 N 103 79 CN6-11
+TOP 11 3.048032 7.816536 180 N 103 80 CN6-12
+#
+# CMP 45
+CMP 2 3.3070866 8.2283465 180 N CN4 4243-0 ;0=2,1=0.0000
+PRP Body_Material 'Brass'
+PRP Category 'Connectors'
+PRP Color 'Black,Red'
+PRP ComponentLink1Description 'https://datasheet.ciiva.com/1453/d4243-1-01-1453890.pdf?src-supplier=Element14'
+PRP ComponentLink1URL 'https://datasheet.ciiva.com/1453/d4243-1-01-1453890.pdf?src-supplier=Element14'
+PRP ComponentLink2Description 'https://datasheet.ciiva.com/16883/70198115-16883751.pdf?src-supplier=Allied+Electronics'
+PRP ComponentLink2URL 'https://datasheet.ciiva.com/16883/70198115-16883751.pdf?src-supplier=Allied+Electronics'
+PRP ComponentLink3Description 'https://datasheet.ciiva.com/30105/d4243-1-02-30105753.pdf?src-supplier=Onlinecomponents.com'
+PRP ComponentLink3URL 'https://datasheet.ciiva.com/30105/d4243-1-02-30105753.pdf?src-supplier=Onlinecomponents.com'
+PRP Contact_Material 'Brass'
+PRP Contact_Plating 'Tin,Bright'
+PRP Current_Rating '15A'
+PRP Depth '11.18mm'
+PRP Hole_Diameter '0.1inch'
+PRP Housing_Color 'Black'
+PRP Housing_Material 'Polycarbonate'
+PRP Insulation 'Insulated'
+PRP Insulation_Material 'Polycarbonate'
+PRP Lead_Free 'Lead Free'
+PRP Length '30.23mm'
+PRP Manufacturer 'Pomona Electronics'
+PRP Manufacturer_Part_Number '4243-0'
+PRP Max_Current_Rating '15A'
+PRP Mount 'Panel'
+PRP Number_of_Pins '1'
+PRP Number_of_Ports '2'
+PRP Orientation 'Straight'
+PRP Package_Quantity '5'
+PRP Packaging 'Bulk'
+PRP Panel_Thickness '6.35mm'
+PRP Pricing_1 '1=8.99000, 25=8.54040, 50=8.09100, 100=7.73150 (USD)'
+PRP REACH_SVHC 'No SVHC'
+PRP RoHS 'Yes'
+PRP Stock_1 '327'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_Part_Number_1 '501-1126-ND'
+PRP Termination 'Turret'
+PRP Voltage_Rating '2.5kV'
+PRP Voltage_Rating_(AC) '30V'
+PRP Voltage_Rating_(DC) '60V'
+TOP 0 3.6820866 8.2283465 90 N 103 89 CN4-0
+TOP 1 2.9320866 8.2283465 90 N 3 7 CN4-1
+#
+# CMP 46
+CMP 23 10.8858268 7.746063 0 N CN25 0533980371 ;0=1,1=0.1850
+PRP Manufacturer 'Molex'
+PRP Mount_Type 'SMD'
+PRP N_of_Positions '3'
+PRP Pitch '1.25mm'
+PRP Value '0533980371'
+TOP 0 10.7362206 7.6919292 0 N 0 42 CN25-0
+TOP 1 11.0354332 7.6919292 0 N 0 43 CN25-0
+TOP 2 10.8366143 7.8001969 0 N 103 70 CN25-1
+TOP 3 10.8858269 7.8001969 0 N 91 9 CN25-2
+TOP 4 10.9350395 7.8001969 0 N 87 8 CN25-3
+#
+# CMP 47
+CMP 24 7.9153543 7.746063 0 N CN29 0533980371 ;0=1,1=0.1850
+PRP Manufacturer 'Molex'
+PRP Mount_Type 'SMD'
+PRP N_of_Positions '3'
+PRP Pitch '1.25mm'
+PRP Value '0533980371'
+TOP 0 8.0649607 7.6919292 0 N 0 44 CN29-0
+TOP 1 7.7657481 7.6919292 0 N 0 45 CN29-0
+TOP 2 7.8661418 7.8001969 0 N 103 71 CN29-1
+TOP 3 7.9153544 7.8001969 0 N 88 9 CN29-2
+TOP 4 7.964567 7.8001969 0 N 84 7 CN29-3
+#
+# CMP 48
+CMP 0 11.5629921 1.2204719 0 N ANT8 132134-15 ;0=2,1=0.0000
+PRP Body_Material 'Brass'
+PRP Body_Plating 'Gold'
+PRP Case/Package 'SMA'
+PRP Category 'RF / Coaxial Connectors'
+PRP ComponentLink1Description 'https://datasheet.ciiva.com/646/132134-15-646945.pdf?src-supplier=Digi-Key'
+PRP ComponentLink1URL 'https://datasheet.ciiva.com/646/132134-15-646945.pdf?src-supplier=Digi-Key'
+PRP ComponentLink2Description 'https://datasheet.ciiva.com/24241/132134-15-customer-drawing-24241080.pdf?src-supplier=Mouser'
+PRP ComponentLink2URL 'https://datasheet.ciiva.com/24241/132134-15-customer-drawing-24241080.pdf?src-supplier=Mouser'
+PRP Connector_Type 'SMA,Socket'
+PRP Contact_Material 'Copper'
+PRP Contact_Plating 'Gold'
+PRP Dielectric_Material 'PTFE'
+PRP Fastening_Type 'Threaded'
+PRP Housing_Color 'Gold'
+PRP Impedance '50R'
+PRP Manufacturer ''
+PRP Manufacturer_Part_Number '132134-15'
+PRP Mating_Cycles '500'
+PRP Max_Frequency '12.4GHz'
+PRP Max_Operating_Temperature '165°C'
+PRP Min_Operating_Temperature '-65°C'
+PRP Mount 'Surface Mount,Through Hole'
+PRP Mount_Type ''
+PRP Orientation 'Straight'
+PRP Package_Quantity '1'
+PRP Packaging 'Bulk'
+PRP Polarity 'Standard'
+PRP Pricing_1 '1=9.73000, 10=9.30600, 25=8.46000, 50=8.03700, 100=7.82550, 250=6.97952, 500=6.55650, 1000=5.79510, 2500=5.49900 (USD)'
+PRP RoHS 'Yes'
+PRP Stock_1 '25238'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_Part_Number_1 'ACX1962-ND'
+PRP Termination 'Solder'
+PRP Value ''
+TOP 0 11.462993 1.120472 0 N 0 84 ANT8-0
+TOP 1 11.662993 1.120472 0 N 0 85 ANT8-0
+TOP 2 11.662993 1.320472 0 N 0 86 ANT8-0
+TOP 3 11.462993 1.320472 0 N 0 87 ANT8-0
+TOP 4 11.562993 1.220472 0 N 6 1 ANT8-1
+#
+# CMP 49
+CMP 0 11.5629921 1.6929134 0 N ANT7 132134-15 ;0=2,1=0.0000
+PRP Body_Material 'Brass'
+PRP Body_Plating 'Gold'
+PRP Case/Package 'SMA'
+PRP Category 'RF / Coaxial Connectors'
+PRP ComponentLink1Description 'https://datasheet.ciiva.com/646/132134-15-646945.pdf?src-supplier=Digi-Key'
+PRP ComponentLink1URL 'https://datasheet.ciiva.com/646/132134-15-646945.pdf?src-supplier=Digi-Key'
+PRP ComponentLink2Description 'https://datasheet.ciiva.com/24241/132134-15-customer-drawing-24241080.pdf?src-supplier=Mouser'
+PRP ComponentLink2URL 'https://datasheet.ciiva.com/24241/132134-15-customer-drawing-24241080.pdf?src-supplier=Mouser'
+PRP Connector_Type 'SMA,Socket'
+PRP Contact_Material 'Copper'
+PRP Contact_Plating 'Gold'
+PRP Dielectric_Material 'PTFE'
+PRP Fastening_Type 'Threaded'
+PRP Housing_Color 'Gold'
+PRP Impedance '50R'
+PRP Manufacturer ''
+PRP Manufacturer_Part_Number '132134-15'
+PRP Mating_Cycles '500'
+PRP Max_Frequency '12.4GHz'
+PRP Max_Operating_Temperature '165°C'
+PRP Min_Operating_Temperature '-65°C'
+PRP Mount 'Surface Mount,Through Hole'
+PRP Mount_Type ''
+PRP Orientation 'Straight'
+PRP Package_Quantity '1'
+PRP Packaging 'Bulk'
+PRP Polarity 'Standard'
+PRP Pricing_1 '1=9.73000, 10=9.30600, 25=8.46000, 50=8.03700, 100=7.82550, 250=6.97952, 500=6.55650, 1000=5.79510, 2500=5.49900 (USD)'
+PRP RoHS 'Yes'
+PRP Stock_1 '25238'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_Part_Number_1 'ACX1962-ND'
+PRP Termination 'Solder'
+PRP Value ''
+TOP 0 11.4629921 1.592914 0 N 0 80 ANT7-0
+TOP 1 11.6629921 1.592914 0 N 0 81 ANT7-0
+TOP 2 11.6629921 1.792914 0 N 0 82 ANT7-0
+TOP 3 11.4629921 1.792914 0 N 0 83 ANT7-0
+TOP 4 11.5629921 1.692914 0 N 6 0 ANT7-1
+#
+# CMP 50
+CMP 0 11.5629921 2.6377947 0 N ANT6 132134-15 ;0=2,1=0.0000
+PRP Body_Material 'Brass'
+PRP Body_Plating 'Gold'
+PRP Case/Package 'SMA'
+PRP Category 'RF / Coaxial Connectors'
+PRP ComponentLink1Description 'https://datasheet.ciiva.com/646/132134-15-646945.pdf?src-supplier=Digi-Key'
+PRP ComponentLink1URL 'https://datasheet.ciiva.com/646/132134-15-646945.pdf?src-supplier=Digi-Key'
+PRP ComponentLink2Description 'https://datasheet.ciiva.com/24241/132134-15-customer-drawing-24241080.pdf?src-supplier=Mouser'
+PRP ComponentLink2URL 'https://datasheet.ciiva.com/24241/132134-15-customer-drawing-24241080.pdf?src-supplier=Mouser'
+PRP Connector_Type 'SMA,Socket'
+PRP Contact_Material 'Copper'
+PRP Contact_Plating 'Gold'
+PRP Dielectric_Material 'PTFE'
+PRP Fastening_Type 'Threaded'
+PRP Housing_Color 'Gold'
+PRP Impedance '50R'
+PRP Manufacturer ''
+PRP Manufacturer_Part_Number '132134-15'
+PRP Mating_Cycles '500'
+PRP Max_Frequency '12.4GHz'
+PRP Max_Operating_Temperature '165°C'
+PRP Min_Operating_Temperature '-65°C'
+PRP Mount 'Surface Mount,Through Hole'
+PRP Mount_Type ''
+PRP Orientation 'Straight'
+PRP Package_Quantity '1'
+PRP Packaging 'Bulk'
+PRP Polarity 'Standard'
+PRP Pricing_1 '1=9.73000, 10=9.30600, 25=8.46000, 50=8.03700, 100=7.82550, 250=6.97952, 500=6.55650, 1000=5.79510, 2500=5.49900 (USD)'
+PRP RoHS 'Yes'
+PRP Stock_1 '25238'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_Part_Number_1 'ACX1962-ND'
+PRP Termination 'Solder'
+PRP Value ''
+TOP 0 11.4629921 2.537796 0 N 0 76 ANT6-0
+TOP 1 11.6629921 2.537796 0 N 0 77 ANT6-0
+TOP 2 11.6629921 2.737796 0 N 0 78 ANT6-0
+TOP 3 11.4629921 2.737796 0 N 0 79 ANT6-0
+TOP 4 11.5629921 2.637796 0 N 1 1 ANT6-1
+#
+# CMP 51
+CMP 0 11.5629921 3.1102362 0 N ANT5 132134-15 ;0=2,1=0.0000
+PRP Body_Material 'Brass'
+PRP Body_Plating 'Gold'
+PRP Case/Package 'SMA'
+PRP Category 'RF / Coaxial Connectors'
+PRP ComponentLink1Description 'https://datasheet.ciiva.com/646/132134-15-646945.pdf?src-supplier=Digi-Key'
+PRP ComponentLink1URL 'https://datasheet.ciiva.com/646/132134-15-646945.pdf?src-supplier=Digi-Key'
+PRP ComponentLink2Description 'https://datasheet.ciiva.com/24241/132134-15-customer-drawing-24241080.pdf?src-supplier=Mouser'
+PRP ComponentLink2URL 'https://datasheet.ciiva.com/24241/132134-15-customer-drawing-24241080.pdf?src-supplier=Mouser'
+PRP Connector_Type 'SMA,Socket'
+PRP Contact_Material 'Copper'
+PRP Contact_Plating 'Gold'
+PRP Dielectric_Material 'PTFE'
+PRP Fastening_Type 'Threaded'
+PRP Housing_Color 'Gold'
+PRP Impedance '50R'
+PRP Manufacturer ''
+PRP Manufacturer_Part_Number '132134-15'
+PRP Mating_Cycles '500'
+PRP Max_Frequency '12.4GHz'
+PRP Max_Operating_Temperature '165°C'
+PRP Min_Operating_Temperature '-65°C'
+PRP Mount 'Surface Mount,Through Hole'
+PRP Mount_Type ''
+PRP Orientation 'Straight'
+PRP Package_Quantity '1'
+PRP Packaging 'Bulk'
+PRP Polarity 'Standard'
+PRP Pricing_1 '1=9.73000, 10=9.30600, 25=8.46000, 50=8.03700, 100=7.82550, 250=6.97952, 500=6.55650, 1000=5.79510, 2500=5.49900 (USD)'
+PRP RoHS 'Yes'
+PRP Stock_1 '25238'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_Part_Number_1 'ACX1962-ND'
+PRP Termination 'Solder'
+PRP Value ''
+TOP 0 11.4629921 3.010238 0 N 0 72 ANT5-0
+TOP 1 11.6629921 3.010238 0 N 0 73 ANT5-0
+TOP 2 11.6629921 3.210238 0 N 0 74 ANT5-0
+TOP 3 11.4629921 3.210238 0 N 0 75 ANT5-0
+TOP 4 11.5629921 3.110238 0 N 1 0 ANT5-1
+#
+# CMP 52
+CMP 23 8.5059064 7.746063 0 N CN28 0533980371 ;0=1,1=0.1850
+PRP Manufacturer 'Molex'
+PRP Mount_Type 'SMD'
+PRP N_of_Positions '3'
+PRP Pitch '1.25mm'
+PRP Value '0533980371'
+TOP 0 8.3563002 7.6919292 0 N 0 46 CN28-0
+TOP 1 8.6555128 7.6919292 0 N 0 47 CN28-0
+TOP 2 8.4566939 7.8001969 0 N 103 72 CN28-1
+TOP 3 8.5059065 7.8001969 0 N 89 9 CN28-2
+TOP 4 8.5551191 7.8001969 0 N 85 10 CN28-3
+#
+# CMP 53
+CMP 24 11.3779528 7.746063 0 N CN27 0533980371 ;0=1,1=0.1850
+PRP Manufacturer 'Molex'
+PRP Mount_Type 'SMD'
+PRP N_of_Positions '3'
+PRP Pitch '1.25mm'
+PRP Value '0533980371'
+TOP 0 11.5275592 7.6919292 0 N 0 48 CN27-0
+TOP 1 11.2283466 7.6919292 0 N 0 49 CN27-0
+TOP 2 11.3287403 7.8001969 0 N 103 73 CN27-1
+TOP 3 11.3779529 7.8001969 0 N 90 8 CN27-2
+TOP 4 11.4271655 7.8001969 0 N 86 9 CN27-3
+#
+# CMP 54
+CMP 0 11.5629921 5.0393701 270 N ANT4 132134-15 ;0=2,1=0.0000
+PRP Body_Material 'Brass'
+PRP Body_Plating 'Gold'
+PRP Case/Package 'SMA'
+PRP Category 'RF / Coaxial Connectors'
+PRP ComponentLink1Description 'https://datasheet.ciiva.com/646/132134-15-646945.pdf?src-supplier=Digi-Key'
+PRP ComponentLink1URL 'https://datasheet.ciiva.com/646/132134-15-646945.pdf?src-supplier=Digi-Key'
+PRP ComponentLink2Description 'https://datasheet.ciiva.com/24241/132134-15-customer-drawing-24241080.pdf?src-supplier=Mouser'
+PRP ComponentLink2URL 'https://datasheet.ciiva.com/24241/132134-15-customer-drawing-24241080.pdf?src-supplier=Mouser'
+PRP Connector_Type 'SMA,Socket'
+PRP Contact_Material 'Copper'
+PRP Contact_Plating 'Gold'
+PRP Dielectric_Material 'PTFE'
+PRP Fastening_Type 'Threaded'
+PRP Housing_Color 'Gold'
+PRP Impedance '50R'
+PRP Manufacturer ''
+PRP Manufacturer_Part_Number '132134-15'
+PRP Mating_Cycles '500'
+PRP Max_Frequency '12.4GHz'
+PRP Max_Operating_Temperature '165°C'
+PRP Min_Operating_Temperature '-65°C'
+PRP Mount 'Surface Mount,Through Hole'
+PRP Mount_Type ''
+PRP Orientation 'Straight'
+PRP Package_Quantity '1'
+PRP Packaging 'Bulk'
+PRP Polarity 'Standard'
+PRP Pricing_1 '1=9.73000, 10=9.30600, 25=8.46000, 50=8.03700, 100=7.82550, 250=6.97952, 500=6.55650, 1000=5.79510, 2500=5.49900 (USD)'
+PRP RoHS 'Yes'
+PRP Stock_1 '25238'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_Part_Number_1 'ACX1962-ND'
+PRP Termination 'Solder'
+PRP Value ''
+TOP 0 11.6629941 4.93937 270 N 0 68 ANT4-0
+TOP 1 11.6629941 5.13937 270 N 0 69 ANT4-0
+TOP 2 11.4629941 5.13937 270 N 0 70 ANT4-0
+TOP 3 11.4629941 4.93937 270 N 0 71 ANT4-0
+TOP 4 11.5629941 5.03937 270 N 5 0 ANT4-1
+#
+# CMP 55
+CMP 1 11.5629921 5.5118095 270 N ANT3 132134-15 ;0=2,1=0.0000
+PRP Body_Material 'Brass'
+PRP Body_Plating 'Gold'
+PRP Case/Package 'SMA'
+PRP Category 'RF / Coaxial Connectors'
+PRP ComponentLink1Description 'https://datasheet.ciiva.com/646/132134-15-646945.pdf?src-supplier=Digi-Key'
+PRP ComponentLink1URL 'https://datasheet.ciiva.com/646/132134-15-646945.pdf?src-supplier=Digi-Key'
+PRP ComponentLink2Description 'https://datasheet.ciiva.com/24241/132134-15-customer-drawing-24241080.pdf?src-supplier=Mouser'
+PRP ComponentLink2URL 'https://datasheet.ciiva.com/24241/132134-15-customer-drawing-24241080.pdf?src-supplier=Mouser'
+PRP Connector_Type 'SMA,Socket'
+PRP Contact_Material 'Copper'
+PRP Contact_Plating 'Gold'
+PRP Dielectric_Material 'PTFE'
+PRP Fastening_Type 'Threaded'
+PRP Housing_Color 'Gold'
+PRP Impedance '50R'
+PRP Manufacturer ''
+PRP Manufacturer_Part_Number '132134-15'
+PRP Mating_Cycles '500'
+PRP Max_Frequency '12.4GHz'
+PRP Max_Operating_Temperature '165°C'
+PRP Min_Operating_Temperature '-65°C'
+PRP Mount 'Surface Mount,Through Hole'
+PRP Mount_Type ''
+PRP Orientation 'Straight'
+PRP Package_Quantity '1'
+PRP Packaging 'Bulk'
+PRP Polarity 'Standard'
+PRP Pricing_1 '1=9.73000, 10=9.30600, 25=8.46000, 50=8.03700, 100=7.82550, 250=6.97952, 500=6.55650, 1000=5.79510, 2500=5.49900 (USD)'
+PRP RoHS 'Yes'
+PRP Stock_1 '25238'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_Part_Number_1 'ACX1962-ND'
+PRP Termination 'Solder'
+PRP Value ''
+TOP 0 11.4629929 5.411812 270 N 0 90 ANT3-0
+TOP 1 11.4629929 5.611812 270 N 0 91 ANT3-0
+TOP 2 11.6629929 5.611812 270 N 0 92 ANT3-0
+TOP 3 11.6629929 5.411812 270 N 0 93 ANT3-0
+TOP 4 11.5629929 5.511812 270 N 5 1 ANT3-1
+#
+# CMP 56
+CMP 0 11.5629921 6.3717783 270 N ANT2 132134-15 ;0=2,1=0.0000
+PRP Body_Material 'Brass'
+PRP Body_Plating 'Gold'
+PRP Case/Package 'SMA'
+PRP Category 'RF / Coaxial Connectors'
+PRP ComponentLink1Description 'https://datasheet.ciiva.com/646/132134-15-646945.pdf?src-supplier=Digi-Key'
+PRP ComponentLink1URL 'https://datasheet.ciiva.com/646/132134-15-646945.pdf?src-supplier=Digi-Key'
+PRP ComponentLink2Description 'https://datasheet.ciiva.com/24241/132134-15-customer-drawing-24241080.pdf?src-supplier=Mouser'
+PRP ComponentLink2URL 'https://datasheet.ciiva.com/24241/132134-15-customer-drawing-24241080.pdf?src-supplier=Mouser'
+PRP Connector_Type 'SMA,Socket'
+PRP Contact_Material 'Copper'
+PRP Contact_Plating 'Gold'
+PRP Dielectric_Material 'PTFE'
+PRP Fastening_Type 'Threaded'
+PRP Housing_Color 'Gold'
+PRP Impedance '50R'
+PRP Manufacturer ''
+PRP Manufacturer_Part_Number '132134-15'
+PRP Mating_Cycles '500'
+PRP Max_Frequency '12.4GHz'
+PRP Max_Operating_Temperature '165°C'
+PRP Min_Operating_Temperature '-65°C'
+PRP Mount 'Surface Mount,Through Hole'
+PRP Mount_Type ''
+PRP Orientation 'Straight'
+PRP Package_Quantity '1'
+PRP Packaging 'Bulk'
+PRP Polarity 'Standard'
+PRP Pricing_1 '1=9.73000, 10=9.30600, 25=8.46000, 50=8.03700, 100=7.82550, 250=6.97952, 500=6.55650, 1000=5.79510, 2500=5.49900 (USD)'
+PRP RoHS 'Yes'
+PRP Stock_1 '25238'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_Part_Number_1 'ACX1962-ND'
+PRP Termination 'Solder'
+PRP Value ''
+TOP 0 11.6629911 6.2717775 270 N 0 60 ANT2-0
+TOP 1 11.6629911 6.4717775 270 N 0 61 ANT2-0
+TOP 2 11.4629911 6.4717775 270 N 0 62 ANT2-0
+TOP 3 11.4629911 6.2717775 270 N 0 63 ANT2-0
+TOP 4 11.5629911 6.3717775 270 N 4 0 ANT2-1
+#
+# CMP 57
+CMP 0 11.5629921 6.8442192 0 N ANT1 132134-15 ;0=2,1=0.0000
+PRP Body_Material 'Brass'
+PRP Body_Plating 'Gold'
+PRP Case/Package 'SMA'
+PRP Category 'RF / Coaxial Connectors'
+PRP ComponentLink1Description 'https://datasheet.ciiva.com/646/132134-15-646945.pdf?src-supplier=Digi-Key'
+PRP ComponentLink1URL 'https://datasheet.ciiva.com/646/132134-15-646945.pdf?src-supplier=Digi-Key'
+PRP ComponentLink2Description 'https://datasheet.ciiva.com/24241/132134-15-customer-drawing-24241080.pdf?src-supplier=Mouser'
+PRP ComponentLink2URL 'https://datasheet.ciiva.com/24241/132134-15-customer-drawing-24241080.pdf?src-supplier=Mouser'
+PRP Connector_Type 'SMA,Socket'
+PRP Contact_Material 'Copper'
+PRP Contact_Plating 'Gold'
+PRP Dielectric_Material 'PTFE'
+PRP Fastening_Type 'Threaded'
+PRP Housing_Color 'Gold'
+PRP Impedance '50R'
+PRP Manufacturer ''
+PRP Manufacturer_Part_Number '132134-15'
+PRP Mating_Cycles '500'
+PRP Max_Frequency '12.4GHz'
+PRP Max_Operating_Temperature '165°C'
+PRP Min_Operating_Temperature '-65°C'
+PRP Mount 'Surface Mount,Through Hole'
+PRP Mount_Type ''
+PRP Orientation 'Straight'
+PRP Package_Quantity '1'
+PRP Packaging 'Bulk'
+PRP Polarity 'Standard'
+PRP Pricing_1 '1=9.73000, 10=9.30600, 25=8.46000, 50=8.03700, 100=7.82550, 250=6.97952, 500=6.55650, 1000=5.79510, 2500=5.49900 (USD)'
+PRP RoHS 'Yes'
+PRP Stock_1 '25238'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_Part_Number_1 'ACX1962-ND'
+PRP Termination 'Solder'
+PRP Value ''
+TOP 0 11.4629911 6.7442195 0 N 0 64 ANT1-0
+TOP 1 11.6629911 6.7442195 0 N 0 65 ANT1-0
+TOP 2 11.6629911 6.9442195 0 N 0 66 ANT1-0
+TOP 3 11.4629911 6.9442195 0 N 0 67 ANT1-0
+TOP 4 11.5629911 6.8442195 0 N 4 1 ANT1-1
+#
+# CMP 58
+CMP 3 0.1525591 5.9557086 90 N CN7 JST_2_position_header_2.5mm ;0=2,1=0.0000
+PRP Color 'Natural'
+PRP ComponentLink1Description 'http://www.jst-mfg.com/product/pdf/eng/eXH.pdf'
+PRP ComponentLink1URL 'http://www.jst-mfg.com/product/pdf/eng/eXH.pdf'
+PRP Connector_Type 'Male Pin'
+PRP Contact_Plating 'Tin'
+PRP Fastening_Type 'Detent'
+PRP Manufacturer 'JST'
+PRP Manufacturer_Part_Number 'B2B-XH-A-M(LF)(SN)'
+PRP Mount 'Through Hole'
+PRP Number_of_Positions '2'
+PRP Number_of_Rows '1'
+PRP Package_Quantity '1000'
+PRP Packaging 'Bulk'
+PRP Pitch '0.098inch'
+PRP Pricing_1 '1=0.17, 10=0.157, 100=0.0966, 500=0.07998, 1000=0.06999, 5000=0.05999, 10000=0.05832 (USD)'
+PRP Stock_1 '5564'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_Part_Number_1 '455-2879-ND'
+PRP Termination 'Press-Fit'
+TOP 0 0.15256 6.004922 90 N 69 6 CN7-1
+TOP 1 0.15256 5.906496 90 N 103 74 CN7-2
+#
+# CMP 59
+CMP 25 0.1525591 5.3877953 270 N CN11 4_pin_Picoblade ;0=1,1=0.1850
+PRP Body_Plating 'Tin'
+PRP Color 'Natural'
+PRP ComponentLink1Description 'http://www.mouser.com/ds/2/276/0533980471_PCB_HEADERS-171069.pdf?src-supplier=Mouser'
+PRP ComponentLink1URL 'http://www.mouser.com/ds/2/276/0533980471_PCB_HEADERS-171069.pdf?src-supplier=Mouser'
+PRP ComponentLink2Description 'http://www.jameco.com/Jameco/Products/ProdDS/1932627.pdf?src-supplier=Jameco'
+PRP ComponentLink2URL 'http://www.jameco.com/Jameco/Products/ProdDS/1932627.pdf?src-supplier=Jameco'
+PRP ComponentLink3Description 'https://www.distrelec.biz/Web/Downloads/46/_e/gf116833-116846_e.pdf?mime=application%2Fpdf&src-supplier=Distrelec'
+PRP ComponentLink3URL 'https://www.distrelec.biz/Web/Downloads/46/_e/gf116833-116846_e.pdf?mime=application%2Fpdf&src-supplier=Distrelec'
+PRP ComponentLink4Description 'http://www.molex.com/webdocs/datasheets/pdf/en-us/0533980471_PCB_HEADERS.pdf?src-supplier=Element14'
+PRP ComponentLink4URL 'http://www.molex.com/webdocs/datasheets/pdf/en-us/0533980471_PCB_HEADERS.pdf?src-supplier=Element14'
+PRP ComponentLink5Description 'http://www.farnell.com/datasheets/1867381.pdf?src-supplier=Element14'
+PRP ComponentLink5URL 'http://www.farnell.com/datasheets/1867381.pdf?src-supplier=Element14'
+PRP ComponentLink6Description 'http://uk.rs-online.com/webdocs/13c4/0900766b813c4500.pdf?src-supplier=RSComponents'
+PRP ComponentLink6URL 'http://uk.rs-online.com/webdocs/13c4/0900766b813c4500.pdf?src-supplier=RSComponents'
+PRP ComponentLink7Description 'http://www.molex.com/webdocs/datasheets/pdf/en-us/0533980471_PCB_HEADERS.pdf?src-supplier=Farnell'
+PRP ComponentLink7URL 'http://www.molex.com/webdocs/datasheets/pdf/en-us/0533980471_PCB_HEADERS.pdf?src-supplier=Farnell'
+PRP ComponentLink8Description 'http://www.farnell.com/datasheets/2697809.pdf?src-supplier=Element14'
+PRP ComponentLink8URL 'http://www.farnell.com/datasheets/2697809.pdf?src-supplier=Element14'
+PRP ComponentLink9Description 'http://www.molex.com/webdocs/datasheets/pdf/en-us/0533980471_PCB_HEADERS.pdf?src-supplier=Avnet'
+PRP ComponentLink9URL 'http://www.molex.com/webdocs/datasheets/pdf/en-us/0533980471_PCB_HEADERS.pdf?src-supplier=Avnet'
+PRP ComponentLink10Description 'http://www.molex.com/webdocs/datasheets/pdf/en-us/0533980471_PCB_HEADERS.pdf?src-supplier=Avnet+Europe'
+PRP ComponentLink10URL 'http://www.molex.com/webdocs/datasheets/pdf/en-us/0533980471_PCB_HEADERS.pdf?src-supplier=Avnet+Europe'
+PRP Contact_Material 'Bronze,Tin,Brass'
+PRP Contact_Plating 'Tin'
+PRP Contact_Resistance '20mR'
+PRP Current_Rating '1A'
+PRP Flammability_Rating 'UL94 V-0'
+PRP Gender 'Male'
+PRP Glow_Wire_Compliant 'Non-compliant'
+PRP Housing_Color 'Natural'
+PRP Housing_Material 'Nylon'
+PRP Insulation_Resistance '100MR'
+PRP Lead_Free 'Lead Free'
+PRP Lead_Pitch '1.25mm'
+PRP Manufacturer 'Molex'
+PRP Manufacturer_Part_Number '53398-0471'
+PRP Max_Operating_Temperature '85°C'
+PRP Min_Operating_Temperature '-40°C'
+PRP Mount 'Surface Mount'
+PRP Mount_Type 'SMD'
+PRP N_of_Positions '4'
+PRP Number_of_Circuits '4'
+PRP Number_of_Contacts '4'
+PRP Number_of_Positions '4'
+PRP Number_of_Rows '1'
+PRP Orientation 'Vertical'
+PRP Package_Quantity '1000'
+PRP Packaging 'Tape and Reel'
+PRP Pitch '1.25mm'
+PRP Pricing_1 '1=1.19, 10=1.044, 100=0.901, 500=0.73716 (USD)'
+PRP Pricing_2 '1=0.98, 10=0.832, 100=0.716, 500=0.6, 1000=0.391, 2000=0.342 (USD)'
+PRP Radiation_Hardening 'No'
+PRP REACH_SVHC 'Unknown'
+PRP Stock_1 '21236'
+PRP Stock_2 '43680'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_2 'Mouser'
+PRP Supplier_Part_Number_1 'WM7608CT-ND'
+PRP Supplier_Part_Number_2 '538-53398-0471'
+PRP Termination 'Solder'
+PRP Value '0533980471'
+PRP Voltage_Rating '125V'
+PRP Voltage_Rating_(AC) '125V'
+PRP Voltage_Rating_(DC) '125V'
+PRP Working_Voltage '125V'
+TOP 0 0.206692 5.213582 270 N 0 5 CN11-0
+TOP 1 0.206692 5.562008 270 N 0 6 CN11-0
+TOP 2 0.098426 5.313976 270 N 103 36 CN11-1
+TOP 3 0.098426 5.363188 270 N 103 37 CN11-2
+TOP 4 0.098426 5.412402 270 N 69 4 CN11-3
+TOP 5 0.098426 5.461614 270 N 69 5 CN11-4
+#
+# CMP 60
+CMP 7 0.1692913 7.1072835 0 N CN5 2_POS_Pin_Header ;0=2,1=0.0000
+PRP Case/Package 'SIL'
+PRP Color 'Black'
+PRP ComponentLink1Description 'http://www.farnell.com/datasheets/2368211.pdf?src-supplier=Element14'
+PRP ComponentLink1URL 'http://www.farnell.com/datasheets/2368211.pdf?src-supplier=Element14'
+PRP ComponentLink2Description 'http://uk.rs-online.com/webdocs/1388/0900766b81388728.pdf?src-supplier=RSComponents'
+PRP ComponentLink2URL 'http://uk.rs-online.com/webdocs/1388/0900766b81388728.pdf?src-supplier=RSComponents'
+PRP ComponentLink3Description 'https://cdn.harwin.com/pdfs/Harwin_PC_Connectors_M20.pdf?src-supplier=Digi-Key'
+PRP ComponentLink3URL 'https://cdn.harwin.com/pdfs/Harwin_PC_Connectors_M20.pdf?src-supplier=Digi-Key'
+PRP ComponentLink4Description 'http://www.mouser.com/ds/2/181/Harwin_Product_Catalog_page_206-1134556.pdf?src-supplier=Mouser'
+PRP ComponentLink4URL 'http://www.mouser.com/ds/2/181/Harwin_Product_Catalog_page_206-1134556.pdf?src-supplier=Mouser'
+PRP Connector_Type 'Male Pin'
+PRP Contact_Material 'Brass,Bronze'
+PRP Contact_Mating_Length '0.24inch'
+PRP Contact_Plating 'Gold'
+PRP Contact_Resistance '25mR'
+PRP Current '3A'
+PRP Current_Rating '3A'
+PRP Depth '2.54mm'
+PRP Gender 'Male'
+PRP Height '0.12inch'
+PRP Housing_Color 'Black'
+PRP Housing_Material 'Nylon'
+PRP Insulation_Resistance '10GR'
+PRP Lead_Pitch '2.54mm'
+PRP Length '5.08mm'
+PRP Manufacturer 'Harwin'
+PRP Manufacturer_Part_Number 'M20-9990245'
+PRP Mating_Cycles '300'
+PRP Max_Current_Rating '3A'
+PRP Max_Operating_Temperature '105°C'
+PRP Min_Operating_Temperature '-40°C'
+PRP Mount 'Through Hole'
+PRP Number_of_Contacts '2'
+PRP Number_of_Poles '2'
+PRP Number_of_Positions '2'
+PRP Number_of_Rows '1'
+PRP Orientation 'Straight'
+PRP Package_Quantity '1000'
+PRP Packaging 'Bag'
+PRP Pitch '2.54mm'
+PRP Pricing_1 '1=0.15, 10=0.136, 100=0.0841, 500=0.0696, 1000=0.0609, 5000=0.0522, 10000=0.05075 (USD)'
+PRP Pricing_2 '1=0.14, 10=0.083, 100=0.069, 1000=0.06, 2000=0.052, 10000=0.05 (USD)'
+PRP Radiation_Hardening 'No'
+PRP REACH_SVHC 'No SVHC'
+PRP Stock_1 '27298'
+PRP Stock_2 '26881'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_2 'Mouser'
+PRP Supplier_Part_Number_1 '952-2261-ND'
+PRP Supplier_Part_Number_2 '855-M20-9990245'
+PRP Termination 'Solder'
+PRP Voltage '50V'
+PRP Voltage_Rating_(AC) '750V'
+PRP Weight '0.25lb'
+PRP Width '0.25inch'
+PRP Working_Voltage '750V'
+TOP 0 0.11929 7.107284 0 N 77 5 CN5-1
+TOP 1 0.21929 7.107284 0 N 76 6 CN5-2
+#
+# CMP 61
+CMP 31 0.5472441 8.2086615 90 N SW1 100SP1T1B4M2QE ;0=2,1=0.0000
+PRP Action ''
+PRP Actuator_Length '12.19mm'
+PRP Actuator_Material 'Brass,Chrome'
+PRP Actuator_Type 'Standard Round'
+PRP Category 'Toggle Switches'
+PRP Circuit ''
+PRP ComponentLink1Description 'https://datasheet.ciiva.com/24455/t111597-24455739.pdf?src-supplier=Onlinecomponents.com'
+PRP ComponentLink1URL 'https://datasheet.ciiva.com/24455/t111597-24455739.pdf?src-supplier=Onlinecomponents.com'
+PRP ComponentLink2Description 'https://datasheet.ciiva.com/2905/t111597-2905494.pdf?src-supplier=Digi-Key'
+PRP ComponentLink2URL 'https://datasheet.ciiva.com/2905/t111597-2905494.pdf?src-supplier=Digi-Key'
+PRP Contact_Material 'Silver'
+PRP Contact_Plating 'Silver'
+PRP Current_Rating '5A'
+PRP Electrical_Life '40000Cycles'
+PRP Illumination_Type 'Non-Illuminated,Illuminated'
+PRP Lead_Free 'Lead Free'
+PRP Manufacturer ''
+PRP Manufacturer_Part_Number '100SP1T1B4M2QE'
+PRP Max_Operating_Temperature '85°C'
+PRP Min_Operating_Temperature '-30°C'
+PRP Mount 'Through Hole'
+PRP Mount_Type ''
+PRP Orientation 'Vertical'
+PRP Package_Quantity '1'
+PRP Packaging 'Bulk'
+PRP Pricing_1 '1=1.99000, 10=1.77900, 25=1.68240, 50=1.60200, 100=1.52950, 250=1.46512, 500=1.36850, 1000=1.30410 (USD)'
+PRP RoHS 'Yes'
+PRP Stock_1 '8901'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_Part_Number_1 'EG2355-ND'
+PRP Switch_Function 'On-On'
+PRP Termination 'PC Pin'
+PRP Throw_Configuration 'SPDT'
+PRP Value ''
+PRP Voltage_Rating_(AC) '120V'
+PRP Voltage_Rating_(DC) '28V'
+TOP 0 0.547244 8.393702 90 N 71 6 SW1-1
+TOP 1 0.547244 8.208662 90 N 75 6 SW1-2
+TOP 2 0.547244 8.023622 90 N 73 6 SW1-3
+#
+# CMP 62
+CMP 31 1.0678339 8.2086615 90 N SW2 100SP1T1B4M2QE ;0=2,1=0.0000
+PRP Action ''
+PRP Actuator_Length '12.19mm'
+PRP Actuator_Material 'Brass,Chrome'
+PRP Actuator_Type 'Standard Round'
+PRP Category 'Toggle Switches'
+PRP Circuit ''
+PRP ComponentLink1Description 'https://datasheet.ciiva.com/24455/t111597-24455739.pdf?src-supplier=Onlinecomponents.com'
+PRP ComponentLink1URL 'https://datasheet.ciiva.com/24455/t111597-24455739.pdf?src-supplier=Onlinecomponents.com'
+PRP ComponentLink2Description 'https://datasheet.ciiva.com/2905/t111597-2905494.pdf?src-supplier=Digi-Key'
+PRP ComponentLink2URL 'https://datasheet.ciiva.com/2905/t111597-2905494.pdf?src-supplier=Digi-Key'
+PRP Contact_Material 'Silver'
+PRP Contact_Plating 'Silver'
+PRP Current_Rating '5A'
+PRP Electrical_Life '40000Cycles'
+PRP Illumination_Type 'Non-Illuminated,Illuminated'
+PRP Lead_Free 'Lead Free'
+PRP Manufacturer ''
+PRP Manufacturer_Part_Number '100SP1T1B4M2QE'
+PRP Max_Operating_Temperature '85°C'
+PRP Min_Operating_Temperature '-30°C'
+PRP Mount 'Through Hole'
+PRP Mount_Type ''
+PRP Orientation 'Vertical'
+PRP Package_Quantity '1'
+PRP Packaging 'Bulk'
+PRP Pricing_1 '1=1.99000, 10=1.77900, 25=1.68240, 50=1.60200, 100=1.52950, 250=1.46512, 500=1.36850, 1000=1.30410 (USD)'
+PRP RoHS 'Yes'
+PRP Stock_1 '8901'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_Part_Number_1 'EG2355-ND'
+PRP Switch_Function 'On-On'
+PRP Termination 'PC Pin'
+PRP Throw_Configuration 'SPDT'
+PRP Value ''
+PRP Voltage_Rating_(AC) '120V'
+PRP Voltage_Rating_(DC) '28V'
+TOP 0 1.067834 8.393702 90 N 70 6 SW2-1
+TOP 1 1.067834 8.208662 90 N 74 6 SW2-2
+TOP 2 1.067834 8.023622 90 N 72 6 SW2-3
+#
+# CMP 63
+CMP 26 1.1122047 7.75 0 N CN8 6_pin_Picoblade ;0=1,1=0.1850
+PRP Body_Plating 'Tin'
+PRP Color 'Natural'
+PRP ComponentLink1Description 'https://www.molex.com/pdm_docs/sd/533980671_sd.pdf?src-supplier=Digi-Key'
+PRP ComponentLink1URL 'https://www.molex.com/pdm_docs/sd/533980671_sd.pdf?src-supplier=Digi-Key'
+PRP Contact_Material 'Bronze,Tin'
+PRP Contact_Plating 'Tin'
+PRP Contact_Resistance '20mR'
+PRP Current_Rating '1A'
+PRP Flammability_Rating 'UL94 V-0'
+PRP Gender 'Male'
+PRP Glow_Wire_Compliant 'Non-compliant'
+PRP Housing_Color 'Natural'
+PRP Housing_Material 'Nylon'
+PRP Insulation_Resistance '100MR'
+PRP Lead_Free 'Lead Free'
+PRP Lead_Pitch '1.25mm'
+PRP Manufacturer 'Molex'
+PRP Manufacturer_Part_Number '53398-0671'
+PRP Max_Operating_Temperature '85°C'
+PRP Min_Operating_Temperature '-40°C'
+PRP Mount 'Surface Mount'
+PRP Number_of_Circuits '6'
+PRP Number_of_Contacts '6'
+PRP Number_of_Positions '6'
+PRP Number_of_Rows '1'
+PRP Orientation 'Vertical'
+PRP Package_Quantity '1000'
+PRP Packaging 'Tape and Reel'
+PRP Pitch '1.25mm'
+PRP Pricing_1 '1=1.39, 10=1.26, 100=1.0802, 500=0.90014 (USD)'
+PRP Pricing_2 '1=1.15, 10=1.01, 100=0.864, 500=0.727, 1000=0.427, 2000=0.374 (USD)'
+PRP Radiation_Hardening 'No'
+PRP REACH_SVHC 'Unknown'
+PRP Stock_1 '21086'
+PRP Stock_2 '26'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_2 'Mouser'
+PRP Supplier_Part_Number_1 'WM7610DKR-ND'
+PRP Supplier_Part_Number_2 '538-53398-0671'
+PRP Termination 'Solder'
+PRP Voltage_Rating '125V'
+PRP Voltage_Rating_(AC) '125V'
+PRP Voltage_Rating_(DC) '125V'
+PRP Working_Voltage '125V'
+TOP 0 0.888778 7.695866 0 N 0 1 CN8-0
+TOP 1 1.33563 7.695866 0 N 0 2 CN8-0
+TOP 2 0.989172 7.804134 0 N 72 4 CN8-1
+TOP 3 1.038386 7.804134 0 N 72 5 CN8-2
+TOP 4 1.087598 7.804134 0 N 70 4 CN8-3
+TOP 5 1.13681 7.804134 0 N 70 5 CN8-4
+TOP 6 1.186022 7.804134 0 N 74 4 CN8-5
+TOP 7 1.235236 7.804134 0 N 74 5 CN8-6
+#
+# CMP 64
+CMP 25 0.1476379 6.6003937 270 N CN9 4_pin_Picoblade ;0=1,1=0.1850
+PRP Body_Plating 'Tin'
+PRP Color 'Natural'
+PRP ComponentLink1Description 'http://www.mouser.com/ds/2/276/0533980471_PCB_HEADERS-171069.pdf?src-supplier=Mouser'
+PRP ComponentLink1URL 'http://www.mouser.com/ds/2/276/0533980471_PCB_HEADERS-171069.pdf?src-supplier=Mouser'
+PRP ComponentLink2Description 'http://www.jameco.com/Jameco/Products/ProdDS/1932627.pdf?src-supplier=Jameco'
+PRP ComponentLink2URL 'http://www.jameco.com/Jameco/Products/ProdDS/1932627.pdf?src-supplier=Jameco'
+PRP ComponentLink3Description 'https://www.distrelec.biz/Web/Downloads/46/_e/gf116833-116846_e.pdf?mime=application%2Fpdf&src-supplier=Distrelec'
+PRP ComponentLink3URL 'https://www.distrelec.biz/Web/Downloads/46/_e/gf116833-116846_e.pdf?mime=application%2Fpdf&src-supplier=Distrelec'
+PRP ComponentLink4Description 'http://www.molex.com/webdocs/datasheets/pdf/en-us/0533980471_PCB_HEADERS.pdf?src-supplier=Element14'
+PRP ComponentLink4URL 'http://www.molex.com/webdocs/datasheets/pdf/en-us/0533980471_PCB_HEADERS.pdf?src-supplier=Element14'
+PRP ComponentLink5Description 'http://www.farnell.com/datasheets/1867381.pdf?src-supplier=Element14'
+PRP ComponentLink5URL 'http://www.farnell.com/datasheets/1867381.pdf?src-supplier=Element14'
+PRP ComponentLink6Description 'http://uk.rs-online.com/webdocs/13c4/0900766b813c4500.pdf?src-supplier=RSComponents'
+PRP ComponentLink6URL 'http://uk.rs-online.com/webdocs/13c4/0900766b813c4500.pdf?src-supplier=RSComponents'
+PRP ComponentLink7Description 'http://www.molex.com/webdocs/datasheets/pdf/en-us/0533980471_PCB_HEADERS.pdf?src-supplier=Farnell'
+PRP ComponentLink7URL 'http://www.molex.com/webdocs/datasheets/pdf/en-us/0533980471_PCB_HEADERS.pdf?src-supplier=Farnell'
+PRP ComponentLink8Description 'http://www.farnell.com/datasheets/2697809.pdf?src-supplier=Element14'
+PRP ComponentLink8URL 'http://www.farnell.com/datasheets/2697809.pdf?src-supplier=Element14'
+PRP ComponentLink9Description 'http://www.molex.com/webdocs/datasheets/pdf/en-us/0533980471_PCB_HEADERS.pdf?src-supplier=Avnet'
+PRP ComponentLink9URL 'http://www.molex.com/webdocs/datasheets/pdf/en-us/0533980471_PCB_HEADERS.pdf?src-supplier=Avnet'
+PRP ComponentLink10Description 'http://www.molex.com/webdocs/datasheets/pdf/en-us/0533980471_PCB_HEADERS.pdf?src-supplier=Avnet+Europe'
+PRP ComponentLink10URL 'http://www.molex.com/webdocs/datasheets/pdf/en-us/0533980471_PCB_HEADERS.pdf?src-supplier=Avnet+Europe'
+PRP Contact_Material 'Bronze,Tin,Brass'
+PRP Contact_Plating 'Tin'
+PRP Contact_Resistance '20mR'
+PRP Current_Rating '1A'
+PRP Flammability_Rating 'UL94 V-0'
+PRP Gender 'Male'
+PRP Glow_Wire_Compliant 'Non-compliant'
+PRP Housing_Color 'Natural'
+PRP Housing_Material 'Nylon'
+PRP Insulation_Resistance '100MR'
+PRP Lead_Free 'Lead Free'
+PRP Lead_Pitch '1.25mm'
+PRP Manufacturer 'Molex'
+PRP Manufacturer_Part_Number '53398-0471'
+PRP Max_Operating_Temperature '85°C'
+PRP Min_Operating_Temperature '-40°C'
+PRP Mount 'Surface Mount'
+PRP Mount_Type 'SMD'
+PRP N_of_Positions '4'
+PRP Number_of_Circuits '4'
+PRP Number_of_Contacts '4'
+PRP Number_of_Positions '4'
+PRP Number_of_Rows '1'
+PRP Orientation 'Vertical'
+PRP Package_Quantity '1000'
+PRP Packaging 'Tape and Reel'
+PRP Pitch '1.25mm'
+PRP Pricing_1 '1=1.19, 10=1.044, 100=0.901, 500=0.73716 (USD)'
+PRP Pricing_2 '1=0.98, 10=0.832, 100=0.716, 500=0.6, 1000=0.391, 2000=0.342 (USD)'
+PRP Radiation_Hardening 'No'
+PRP REACH_SVHC 'Unknown'
+PRP Stock_1 '21236'
+PRP Stock_2 '43680'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_2 'Mouser'
+PRP Supplier_Part_Number_1 'WM7608CT-ND'
+PRP Supplier_Part_Number_2 '538-53398-0471'
+PRP Termination 'Solder'
+PRP Value '0533980471'
+PRP Voltage_Rating '125V'
+PRP Voltage_Rating_(AC) '125V'
+PRP Voltage_Rating_(DC) '125V'
+PRP Working_Voltage '125V'
+TOP 0 0.20177 6.426182 270 N 0 7 CN9-0
+TOP 1 0.20177 6.774608 270 N 0 8 CN9-0
+TOP 2 0.093504 6.526576 270 N 76 4 CN9-1
+TOP 3 0.093504 6.575788 270 N 77 3 CN9-2
+TOP 4 0.093504 6.625 270 N 76 5 CN9-3
+TOP 5 0.093504 6.674214 270 N 77 4 CN9-4
+#
+# CMP 65
+CMP 26 0.5511811 7.7499999 0 N CN1 6_pin_Picoblade ;0=1,1=0.1850
+PRP Body_Plating 'Tin'
+PRP Color 'Natural'
+PRP ComponentLink1Description 'https://www.molex.com/pdm_docs/sd/533980671_sd.pdf?src-supplier=Digi-Key'
+PRP ComponentLink1URL 'https://www.molex.com/pdm_docs/sd/533980671_sd.pdf?src-supplier=Digi-Key'
+PRP Contact_Material 'Bronze,Tin'
+PRP Contact_Plating 'Tin'
+PRP Contact_Resistance '20mR'
+PRP Current_Rating '1A'
+PRP Flammability_Rating 'UL94 V-0'
+PRP Gender 'Male'
+PRP Glow_Wire_Compliant 'Non-compliant'
+PRP Housing_Color 'Natural'
+PRP Housing_Material 'Nylon'
+PRP Insulation_Resistance '100MR'
+PRP Lead_Free 'Lead Free'
+PRP Lead_Pitch '1.25mm'
+PRP Manufacturer 'Molex'
+PRP Manufacturer_Part_Number '53398-0671'
+PRP Max_Operating_Temperature '85°C'
+PRP Min_Operating_Temperature '-40°C'
+PRP Mount 'Surface Mount'
+PRP Number_of_Circuits '6'
+PRP Number_of_Contacts '6'
+PRP Number_of_Positions '6'
+PRP Number_of_Rows '1'
+PRP Orientation 'Vertical'
+PRP Package_Quantity '1000'
+PRP Packaging 'Tape and Reel'
+PRP Pitch '1.25mm'
+PRP Pricing_1 '1=1.39, 10=1.26, 100=1.0802, 500=0.90014 (USD)'
+PRP Pricing_2 '1=1.15, 10=1.01, 100=0.864, 500=0.727, 1000=0.427, 2000=0.374 (USD)'
+PRP Radiation_Hardening 'No'
+PRP REACH_SVHC 'Unknown'
+PRP Stock_1 '21086'
+PRP Stock_2 '26'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_2 'Mouser'
+PRP Supplier_Part_Number_1 'WM7610DKR-ND'
+PRP Supplier_Part_Number_2 '538-53398-0671'
+PRP Termination 'Solder'
+PRP Voltage_Rating '125V'
+PRP Voltage_Rating_(AC) '125V'
+PRP Voltage_Rating_(DC) '125V'
+PRP Working_Voltage '125V'
+TOP 0 0.327756 7.695866 0 N 0 3 CN1-0
+TOP 1 0.774606 7.695866 0 N 0 4 CN1-0
+TOP 2 0.428148 7.804134 0 N 73 4 CN1-1
+TOP 3 0.477362 7.804134 0 N 73 5 CN1-2
+TOP 4 0.526574 7.804134 0 N 71 4 CN1-3
+TOP 5 0.575786 7.804134 0 N 71 5 CN1-4
+TOP 6 0.625 7.804134 0 N 75 4 CN1-5
+TOP 7 0.674212 7.804134 0 N 75 5 CN1-6
+#
+# CMP 66
+CMP 9 7.1158661 8.2011811 0 N CN3 External_SSW-126-01-G-D ;0=2,1=0.1220
+PRP Category 'Headers and Wire Housings'
+PRP Color 'Black'
+PRP ComponentLink1Description 'https://datasheet.ciiva.com/749/ssw-1xx-xx-xxx-x-xx-xxx-xx-mkt-749805.pdf?src-supplier=Digi-Key'
+PRP ComponentLink1URL 'https://datasheet.ciiva.com/749/ssw-1xx-xx-xxx-x-xx-xxx-xx-mkt-749805.pdf?src-supplier=Digi-Key'
+PRP Connector_Type 'Receptacle,Socket'
+PRP Contact_Material 'Bronze'
+PRP Contact_Plating 'Gold'
+PRP Contact_Resistance '10mR'
+PRP Depth '4.95mm'
+PRP Gender 'Receptacle'
+PRP Housing_Color 'Black'
+PRP Housing_Material 'Polymer'
+PRP Lead_Free 'Lead Free'
+PRP Length '66.55mm'
+PRP Manufacturer 'Samtec'
+PRP Manufacturer_Part_Number 'SSW-126-01-G-D'
+PRP Mating_Cycles '100'
+PRP Max_Current_Rating '5.5A'
+PRP Max_Operating_Temperature '125°C'
+PRP Max_Voltage_Rating_(AC) '550V'
+PRP Min_Operating_Temperature '-55°C'
+PRP Mount 'Through Hole'
+PRP Number_of_Contacts '52'
+PRP Number_of_Positions '52'
+PRP Number_of_Rows '2'
+PRP Orientation 'Straight'
+PRP Packaging 'Bulk'
+PRP Pitch '2.54mm'
+PRP Pricing_1 '1=6.95000, 10=6.17000, 25=5.80000, 100=5.30000, 250=4.64000, 500=4.22000 (USD)'
+PRP REACH_SVHC 'No SVHC'
+PRP RoHS 'Yes'
+PRP Row_Spacing '0.1inch'
+PRP Stock_1 '72'
+PRP Supplier_1 'Mouser'
+PRP Supplier_Part_Number_1 '200-SSW12601GD'
+PRP Termination 'Solder'
+PRP Width '4.95mm'
+TOP 0 4.4169292 8.1011811 270 N 103 97 CN3-0
+TOP 1 7.3178583 8.1017323 270 N 103 98 CN3-0
+TOP 2 7.1158661 8.2011811 180 N 38 22 CN3-H2-1
+TOP 3 7.1158661 8.1011811 180 N 37 24 CN3-H2-2
+TOP 4 7.0158661 8.2011811 180 N 117 27 CN3-H2-3
+TOP 5 7.0158661 8.1011811 180 N 116 31 CN3-H2-4
+TOP 6 6.9158661 8.2011811 180 N 107 27 CN3-H2-5
+TOP 7 6.9158661 8.1011811 180 N 36 32 CN3-H2-6
+TOP 8 6.8158661 8.2011811 180 N 108 27 CN3-H2-7
+TOP 9 6.8158661 8.1011811 180 N 115 38 CN3-H2-8
+TOP 10 6.7158661 8.2011811 180 N 35 25 CN3-H2-9
+TOP 11 6.7158661 8.1011811 180 N 34 29 CN3-H2-10
+TOP 12 6.6158661 8.2011811 180 N 112 16 CN3-H2-11
+TOP 13 6.6158661 8.1011811 180 N 111 30 CN3-H2-12
+TOP 14 6.5158661 8.2011811 180 N 2 27 CN3-H2-13
+TOP 15 6.5158661 8.1011811 180 N 33 30 CN3-H2-14
+TOP 16 6.4158661 8.2011811 180 N 32 29 CN3-H2-15
+TOP 17 6.4158661 8.1011811 180 N 31 30 CN3-H2-16
+TOP 18 6.3148821 8.2011811 180 N 30 27 CN3-H2-17
+TOP 19 6.3158661 8.1011811 180 N 143 31 CN3-H2-18
+TOP 20 6.2158661 8.2011811 180 N 29 27 CN3-H2-19
+TOP 21 6.2158661 8.1011811 180 N 142 31 CN3-H2-20
+TOP 22 6.1158661 8.2011811 180 N 28 24 CN3-H2-21
+TOP 23 6.1158661 8.1011811 180 N 141 31 CN3-H2-22
+TOP 24 6.0158661 8.2011811 180 N 27 25 CN3-H2-23
+TOP 25 6.0158661 8.1011811 180 N 26 36 CN3-H2-24
+TOP 26 5.9158661 8.2011811 180 N 25 24 CN3-H2-25
+TOP 27 5.9158661 8.1011811 180 N 146 30 CN3-H2-26
+TOP 28 5.8158661 8.2011811 180 N 148 24 CN3-H2-27
+TOP 29 5.8158661 8.1011811 180 N 24 31 CN3-H2-28
+TOP 30 5.7158661 8.2011811 180 N 23 21 CN3-H2-29
+TOP 31 5.7158661 8.1011811 180 N 22 30 CN3-H2-30
+TOP 32 5.6158661 8.2011811 180 N 21 24 CN3-H2-31
+TOP 33 5.6158661 8.1011811 180 N 20 29 CN3-H2-32
+TOP 34 5.5158661 8.2011811 180 N 19 22 CN3-H2-33
+TOP 35 5.5158661 8.1011811 180 N 18 30 CN3-H2-34
+TOP 36 5.4158661 8.2011811 180 N 17 19 CN3-H2-35
+TOP 37 5.4158661 8.1011811 180 N 149 31 CN3-H2-36
+TOP 38 5.3158661 8.2011811 180 N 16 20 CN3-H2-37
+TOP 39 5.3158661 8.1011811 180 N 15 31 CN3-H2-38
+TOP 40 5.2158661 8.2011811 180 N 134 24 CN3-H2-39
+TOP 41 5.2158661 8.1011811 180 N 135 31 CN3-H2-40
+TOP 42 5.1158661 8.2011811 180 N 133 24 CN3-H2-41
+TOP 43 5.1158661 8.1011811 180 N 140 28 CN3-H2-42
+TOP 44 5.0158661 8.2011811 180 N 14 19 CN3-H2-43
+TOP 45 5.0158661 8.1011811 180 N 13 24 CN3-H2-44
+TOP 46 4.9158661 8.2011811 180 N 132 20 CN3-H2-45
+TOP 47 4.9158661 8.1011811 180 N 12 31 CN3-H2-46
+TOP 48 4.8158661 8.2011811 180 N 11 21 CN3-H2-47
+TOP 49 4.8158661 8.1011811 180 N 10 31 CN3-H2-48
+TOP 50 4.7158661 8.2011811 180 N 125 22 CN3-H2-49
+TOP 51 4.7158661 8.1011811 180 N 9 30 CN3-H2-50
+TOP 52 4.6158661 8.2011811 180 N 126 17 CN3-H2-51
+TOP 53 4.6158661 8.1011811 180 N 8 29 CN3-H2-52
+#
+# CMP 67
+CMP 14 7.1158661 8.4011811 0 N CN2 Inner_SSW-126-01-G-D ;0=2,1=0.1220
+PRP Category 'Headers and Wire Housings'
+PRP Color 'Black'
+PRP ComponentLink1Description 'https://datasheet.ciiva.com/749/ssw-1xx-xx-xxx-x-xx-xxx-xx-mkt-749805.pdf?src-supplier=Digi-Key'
+PRP ComponentLink1URL 'https://datasheet.ciiva.com/749/ssw-1xx-xx-xxx-x-xx-xxx-xx-mkt-749805.pdf?src-supplier=Digi-Key'
+PRP Connector_Type 'Receptacle,Socket'
+PRP Contact_Material 'Bronze'
+PRP Contact_Plating 'Gold'
+PRP Contact_Resistance '10mR'
+PRP Depth '4.95mm'
+PRP Gender 'Receptacle'
+PRP Housing_Color 'Black'
+PRP Housing_Material 'Polymer'
+PRP Lead_Free 'Lead Free'
+PRP Length '66.55mm'
+PRP Manufacturer 'Samtec'
+PRP Manufacturer_Part_Number 'SSW-126-01-G-D'
+PRP Mating_Cycles '100'
+PRP Max_Current_Rating '5.5A'
+PRP Max_Operating_Temperature '125°C'
+PRP Max_Voltage_Rating_(AC) '550V'
+PRP Min_Operating_Temperature '-55°C'
+PRP Mount 'Through Hole'
+PRP Number_of_Contacts '52'
+PRP Number_of_Positions '52'
+PRP Number_of_Rows '2'
+PRP Orientation 'Straight'
+PRP Packaging 'Bulk'
+PRP Pitch '2.54mm'
+PRP Pricing_1 '1=6.95000, 10=6.17000, 25=5.80000, 100=5.30000, 250=4.64000, 500=4.22000 (USD)'
+PRP REACH_SVHC 'No SVHC'
+PRP RoHS 'Yes'
+PRP Row_Spacing '0.1inch'
+PRP Stock_1 '72'
+PRP Supplier_1 'Mouser'
+PRP Supplier_Part_Number_1 '200-SSW12601GD'
+PRP Termination 'Solder'
+PRP Width '4.95mm'
+TOP 0 7.1158661 8.4011811 180 N 138 26 CN2-H1-1
+TOP 1 7.1158661 8.3011811 180 N 67 11 CN2-H1-2
+TOP 2 7.0158661 8.4011811 180 N 139 24 CN2-H1-3
+TOP 3 7.0158661 8.3011811 180 N 66 20 CN2-H1-4
+TOP 4 6.9158661 8.4011811 180 N 65 26 CN2-H1-5
+TOP 5 6.9158661 8.3011811 180 N 64 21 CN2-H1-6
+TOP 6 6.8158661 8.4011811 180 N 124 26 CN2-H1-7
+TOP 7 6.8158661 8.3011811 180 N 123 20 CN2-H1-8
+TOP 8 6.7158661 8.4011811 180 N 122 27 CN2-H1-9
+TOP 9 6.7158661 8.3011811 180 N 129 21 CN2-H1-10
+TOP 10 6.6158661 8.4011811 180 N 121 27 CN2-H1-11
+TOP 11 6.6158661 8.3011811 180 N 130 21 CN2-H1-12
+TOP 12 6.5158661 8.4011811 180 N 63 27 CN2-H1-13
+TOP 13 6.5158661 8.3011811 180 N 62 21 CN2-H1-14
+TOP 14 6.4158661 8.4011811 180 N 61 27 CN2-H1-15
+TOP 15 6.4158661 8.3011811 180 N 60 21 CN2-H1-16
+TOP 16 6.3148821 8.4011811 180 N 110 27 CN2-H1-17
+TOP 17 6.3158661 8.3011811 180 N 119 21 CN2-H1-18
+TOP 18 6.2158661 8.4011811 180 N 109 27 CN2-H1-19
+TOP 19 6.2158661 8.3011811 180 N 118 21 CN2-H1-20
+TOP 20 6.1158661 8.4011811 180 N 137 27 CN2-H1-21
+TOP 21 6.1158661 8.3011811 180 N 59 21 CN2-H1-22
+TOP 22 6.0158661 8.4011811 180 N 136 26 CN2-H1-23
+TOP 23 6.0158661 8.3011811 180 N 58 20 CN2-H1-24
+TOP 24 5.9158661 8.4011811 180 N 57 28 CN2-H1-25
+TOP 25 5.9158661 8.3011811 180 N 56 20 CN2-H1-26
+TOP 26 5.8158661 8.4011811 180 N 55 24 CN2-H1-27
+TOP 27 5.8158661 8.3011811 180 N 54 19 CN2-H1-28
+TOP 28 5.7158661 8.4011811 180 N 131 24 CN2-H1-29
+TOP 29 5.7158661 8.3011811 180 N 53 19 CN2-H1-30
+TOP 30 5.6158661 8.4011811 180 N 52 24 CN2-H1-31
+TOP 31 5.6158661 8.3011811 180 N 51 19 CN2-H1-32
+TOP 32 5.5158661 8.4011811 180 N 50 24 CN2-H1-33
+TOP 33 5.5158661 8.3011811 180 N 49 19 CN2-H1-34
+TOP 34 5.4158661 8.4011811 180 N 114 24 CN2-H1-35
+TOP 35 5.4158661 8.3011811 180 N 48 19 CN2-H1-36
+TOP 36 5.3158661 8.4011811 180 N 113 23 CN2-H1-37
+TOP 37 5.3158661 8.3011811 180 N 47 19 CN2-H1-38
+TOP 38 5.2158661 8.4011811 180 N 46 24 CN2-H1-39
+TOP 39 5.2158661 8.3011811 180 N 120 19 CN2-H1-40
+TOP 40 5.1158661 8.4011811 180 N 127 24 CN2-H1-41
+TOP 41 5.1158661 8.3011811 180 N 45 19 CN2-H1-42
+TOP 42 5.0158661 8.4011811 180 N 128 23 CN2-H1-43
+TOP 43 5.0158661 8.3011811 180 N 44 19 CN2-H1-44
+TOP 44 4.9158661 8.4011811 180 N 43 24 CN2-H1-45
+TOP 45 4.9158661 8.3011811 180 N 147 19 CN2-H1-46
+TOP 46 4.8158661 8.4011811 180 N 42 24 CN2-H1-47
+TOP 47 4.8158661 8.3011811 180 N 41 20 CN2-H1-48
+TOP 48 4.7158661 8.4011811 180 N 40 22 CN2-H1-49
+TOP 49 4.7158661 8.3011811 180 N 145 19 CN2-H1-50
+TOP 50 4.6158661 8.4011811 180 N 144 26 CN2-H1-51
+TOP 51 4.6158661 8.3011811 180 N 39 16 CN2-H1-52
+#
+# CMP 68
+CMP 8 10.8456693 0.3165354 0 N CN24 External_SSW-126-01-G-D ;0=2,1=0.1220
+PRP Color 'Black'
+PRP ComponentLink1Description 'http://suddendocs.samtec.com/prints/ssw-1xx-xx-xxx-x-xx-xxx-xx-mkt.pdf?src-supplier=Digi-Key'
+PRP ComponentLink1URL 'http://suddendocs.samtec.com/prints/ssw-1xx-xx-xxx-x-xx-xxx-xx-mkt.pdf?src-supplier=Digi-Key'
+PRP Connector_Type 'Receptacle,Socket'
+PRP Contact_Material 'Bronze'
+PRP Contact_Plating 'Gold'
+PRP Contact_Resistance '10mR'
+PRP Depth '4.95mm'
+PRP Gender 'Receptacle'
+PRP Housing_Color 'Black'
+PRP Housing_Material 'Polymer'
+PRP Lead_Free 'Lead Free'
+PRP Length '66.55mm'
+PRP Manufacturer 'Samtec'
+PRP Manufacturer_Part_Number 'SSW-126-01-G-D'
+PRP Mating_Cycles '100'
+PRP Max_Current_Rating '5.5A'
+PRP Max_Operating_Temperature '125°C'
+PRP Max_Voltage_Rating_(AC) '550V'
+PRP Min_Operating_Temperature '-55°C'
+PRP Mount 'Through Hole'
+PRP Number_of_Contacts '52'
+PRP Number_of_Positions '52'
+PRP Number_of_Rows '2'
+PRP Orientation 'Straight'
+PRP Packaging 'Bulk'
+PRP Partnumber 'SSW-126-01-G-D'
+PRP Pitch '2.54mm'
+PRP Pricing_1 '1=6.95, 10=5.8, 100=4.93, 250=4.4, 500=4.05, 1000=3.8 (USD)'
+PRP Pricing_2 '1=6.69, 10=6.415, 25=5.8576, 50=5.5786, 100=5.2996, 250=4.74176, 500=4.46284 (USD)'
+PRP REACH_SVHC 'No SVHC'
+PRP Row_Spacing '0.1inch'
+PRP Stock_1 '86'
+PRP Stock_2 '0'
+PRP Supplier_1 'Mouser'
+PRP Supplier_2 'Digi-Key'
+PRP Supplier_Part_Number_1 '200-SSW12601GD'
+PRP Supplier_Part_Number_2 'SAM1208-26-ND'
+PRP Termination 'Solder'
+PRP Width '4.95mm'
+TOP 0 8.1467324 0.2165354 270 N 103 99 CN24-0
+TOP 1 8.0483072 3.5895668 270 N 103 100 CN24-0
+TOP 2 11.1988977 3.5895668 270 N 103 101 CN24-0
+TOP 3 11.0476615 0.2170866 270 N 103 102 CN24-0
+TOP 4 10.8456693 0.3165354 180 N 38 23 CN24-H2-1
+TOP 5 10.8456693 0.2165354 180 N 37 25 CN24-H2-2
+TOP 6 10.7456693 0.3165354 180 N 117 28 CN24-H2-3
+TOP 7 10.7456693 0.2165354 180 N 116 32 CN24-H2-4
+TOP 8 10.6456693 0.3165354 180 N 107 28 CN24-H2-5
+TOP 9 10.6456693 0.2165354 180 N 36 33 CN24-H2-6
+TOP 10 10.5456693 0.3165354 180 N 108 28 CN24-H2-7
+TOP 11 10.5456693 0.2165354 180 N 115 39 CN24-H2-8
+TOP 12 10.4456693 0.3165354 180 N 35 26 CN24-H2-9
+TOP 13 10.4456693 0.2165354 180 N 34 30 CN24-H2-10
+TOP 14 10.3456693 0.3165354 180 N 112 17 CN24-H2-11
+TOP 15 10.3456693 0.2165354 180 N 111 31 CN24-H2-12
+TOP 16 10.2456693 0.3165354 180 N 2 28 CN24-H2-13
+TOP 17 10.2456693 0.2165354 180 N 33 31 CN24-H2-14
+TOP 18 10.1456693 0.3165354 180 N 32 30 CN24-H2-15
+TOP 19 10.1456693 0.2165354 180 N 31 31 CN24-H2-16
+TOP 20 10.0446853 0.3165354 180 N 30 28 CN24-H2-17
+TOP 21 10.0456693 0.2165354 180 N 143 32 CN24-H2-18
+TOP 22 9.9456693 0.3165354 180 N 29 28 CN24-H2-19
+TOP 23 9.9456693 0.2165354 180 N 142 32 CN24-H2-20
+TOP 24 9.8456693 0.3165354 180 N 28 25 CN24-H2-21
+TOP 25 9.8456693 0.2165354 180 N 141 32 CN24-H2-22
+TOP 26 9.7456693 0.3165354 180 N 27 26 CN24-H2-23
+TOP 27 9.7456693 0.2165354 180 N 26 37 CN24-H2-24
+TOP 28 9.6456693 0.3165354 180 N 25 25 CN24-H2-25
+TOP 29 9.6456693 0.2165354 180 N 146 31 CN24-H2-26
+TOP 30 9.5456693 0.3165354 180 N 148 25 CN24-H2-27
+TOP 31 9.5456693 0.2165354 180 N 24 32 CN24-H2-28
+TOP 32 9.4456693 0.3165354 180 N 23 22 CN24-H2-29
+TOP 33 9.4456693 0.2165354 180 N 22 31 CN24-H2-30
+TOP 34 9.3456693 0.3165354 180 N 21 25 CN24-H2-31
+TOP 35 9.3456693 0.2165354 180 N 20 30 CN24-H2-32
+TOP 36 9.2456693 0.3165354 180 N 19 23 CN24-H2-33
+TOP 37 9.2456693 0.2165354 180 N 18 31 CN24-H2-34
+TOP 38 9.1456693 0.3165354 180 N 17 20 CN24-H2-35
+TOP 39 9.1456693 0.2165354 180 N 149 32 CN24-H2-36
+TOP 40 9.0456693 0.3165354 180 N 16 21 CN24-H2-37
+TOP 41 9.0456693 0.2165354 180 N 15 32 CN24-H2-38
+TOP 42 8.9456693 0.3165354 180 N 134 25 CN24-H2-39
+TOP 43 8.9456693 0.2165354 180 N 135 32 CN24-H2-40
+TOP 44 8.8456693 0.3165354 180 N 133 25 CN24-H2-41
+TOP 45 8.8456693 0.2165354 180 N 140 29 CN24-H2-42
+TOP 46 8.7456693 0.3165354 180 N 14 20 CN24-H2-43
+TOP 47 8.7456693 0.2165354 180 N 13 25 CN24-H2-44
+TOP 48 8.6456693 0.3165354 180 N 132 21 CN24-H2-45
+TOP 49 8.6456693 0.2165354 180 N 12 32 CN24-H2-46
+TOP 50 8.5456693 0.3165354 180 N 11 22 CN24-H2-47
+TOP 51 8.5456693 0.2165354 180 N 10 32 CN24-H2-48
+TOP 52 8.4456693 0.3165354 180 N 125 23 CN24-H2-49
+TOP 53 8.4456693 0.2165354 180 N 9 31 CN24-H2-50
+TOP 54 8.3456693 0.3165354 180 N 126 18 CN24-H2-51
+TOP 55 8.3456693 0.2165354 180 N 8 30 CN24-H2-52
+#
+# CMP 69
+CMP 13 10.8456693 0.5165354 0 N CN23 Inner_SSW-126-01-G-D ;0=2,1=0.1220
+PRP Color 'Black'
+PRP ComponentLink1Description 'http://suddendocs.samtec.com/prints/ssw-1xx-xx-xxx-x-xx-xxx-xx-mkt.pdf?src-supplier=Digi-Key'
+PRP ComponentLink1URL 'http://suddendocs.samtec.com/prints/ssw-1xx-xx-xxx-x-xx-xxx-xx-mkt.pdf?src-supplier=Digi-Key'
+PRP Connector_Type 'Receptacle,Socket'
+PRP Contact_Material 'Bronze'
+PRP Contact_Plating 'Gold'
+PRP Contact_Resistance '10mR'
+PRP Depth '4.95mm'
+PRP Gender 'Receptacle'
+PRP Housing_Color 'Black'
+PRP Housing_Material 'Polymer'
+PRP Lead_Free 'Lead Free'
+PRP Length '66.55mm'
+PRP Manufacturer 'Samtec'
+PRP Manufacturer_Part_Number 'SSW-126-01-G-D'
+PRP Mating_Cycles '100'
+PRP Max_Current_Rating '5.5A'
+PRP Max_Operating_Temperature '125°C'
+PRP Max_Voltage_Rating_(AC) '550V'
+PRP Min_Operating_Temperature '-55°C'
+PRP Mount 'Through Hole'
+PRP Number_of_Contacts '52'
+PRP Number_of_Positions '52'
+PRP Number_of_Rows '2'
+PRP Orientation 'Straight'
+PRP Packaging 'Bulk'
+PRP Partnumber 'SSW-126-01-G-D'
+PRP Pitch '2.54mm'
+PRP Pricing_1 '1=6.95, 10=5.8, 100=4.93, 250=4.4, 500=4.05, 1000=3.8 (USD)'
+PRP Pricing_2 '1=6.69, 10=6.415, 25=5.8576, 50=5.5786, 100=5.2996, 250=4.74176, 500=4.46284 (USD)'
+PRP REACH_SVHC 'No SVHC'
+PRP Row_Spacing '0.1inch'
+PRP Stock_1 '86'
+PRP Stock_2 '0'
+PRP Supplier_1 'Mouser'
+PRP Supplier_2 'Digi-Key'
+PRP Supplier_Part_Number_1 '200-SSW12601GD'
+PRP Supplier_Part_Number_2 'SAM1208-26-ND'
+PRP Termination 'Solder'
+PRP Width '4.95mm'
+TOP 0 10.8456693 0.5165354 180 N 138 28 CN23-H1-1
+TOP 1 10.8456693 0.4165354 180 N 67 13 CN23-H1-2
+TOP 2 10.7456693 0.5165354 180 N 139 26 CN23-H1-3
+TOP 3 10.7456693 0.4165354 180 N 66 22 CN23-H1-4
+TOP 4 10.6456693 0.5165354 180 N 65 28 CN23-H1-5
+TOP 5 10.6456693 0.4165354 180 N 64 23 CN23-H1-6
+TOP 6 10.5456693 0.5165354 180 N 124 28 CN23-H1-7
+TOP 7 10.5456693 0.4165354 180 N 123 22 CN23-H1-8
+TOP 8 10.4456693 0.5165354 180 N 122 29 CN23-H1-9
+TOP 9 10.4456693 0.4165354 180 N 129 23 CN23-H1-10
+TOP 10 10.3456693 0.5165354 180 N 121 29 CN23-H1-11
+TOP 11 10.3456693 0.4165354 180 N 130 23 CN23-H1-12
+TOP 12 10.2456693 0.5165354 180 N 63 29 CN23-H1-13
+TOP 13 10.2456693 0.4165354 180 N 62 23 CN23-H1-14
+TOP 14 10.1456693 0.5165354 180 N 61 29 CN23-H1-15
+TOP 15 10.1456693 0.4165354 180 N 60 23 CN23-H1-16
+TOP 16 10.0446853 0.5165354 180 N 110 29 CN23-H1-17
+TOP 17 10.0456693 0.4165354 180 N 119 23 CN23-H1-18
+TOP 18 9.9456693 0.5165354 180 N 109 29 CN23-H1-19
+TOP 19 9.9456693 0.4165354 180 N 118 23 CN23-H1-20
+TOP 20 9.8456693 0.5165354 180 N 137 29 CN23-H1-21
+TOP 21 9.8456693 0.4165354 180 N 59 23 CN23-H1-22
+TOP 22 9.7456693 0.5165354 180 N 136 28 CN23-H1-23
+TOP 23 9.7456693 0.4165354 180 N 58 22 CN23-H1-24
+TOP 24 9.6456693 0.5165354 180 N 57 30 CN23-H1-25
+TOP 25 9.6456693 0.4165354 180 N 56 22 CN23-H1-26
+TOP 26 9.5456693 0.5165354 180 N 55 26 CN23-H1-27
+TOP 27 9.5456693 0.4165354 180 N 54 21 CN23-H1-28
+TOP 28 9.4456693 0.5165354 180 N 131 26 CN23-H1-29
+TOP 29 9.4456693 0.4165354 180 N 53 21 CN23-H1-30
+TOP 30 9.3456693 0.5165354 180 N 52 26 CN23-H1-31
+TOP 31 9.3456693 0.4165354 180 N 51 21 CN23-H1-32
+TOP 32 9.2456693 0.5165354 180 N 50 26 CN23-H1-33
+TOP 33 9.2456693 0.4165354 180 N 49 21 CN23-H1-34
+TOP 34 9.1456693 0.5165354 180 N 114 26 CN23-H1-35
+TOP 35 9.1456693 0.4165354 180 N 48 21 CN23-H1-36
+TOP 36 9.0456693 0.5165354 180 N 113 25 CN23-H1-37
+TOP 37 9.0456693 0.4165354 180 N 47 21 CN23-H1-38
+TOP 38 8.9456693 0.5165354 180 N 46 26 CN23-H1-39
+TOP 39 8.9456693 0.4165354 180 N 120 21 CN23-H1-40
+TOP 40 8.8456693 0.5165354 180 N 127 26 CN23-H1-41
+TOP 41 8.8456693 0.4165354 180 N 45 21 CN23-H1-42
+TOP 42 8.7456693 0.5165354 180 N 128 25 CN23-H1-43
+TOP 43 8.7456693 0.4165354 180 N 44 21 CN23-H1-44
+TOP 44 8.6456693 0.5165354 180 N 43 26 CN23-H1-45
+TOP 45 8.6456693 0.4165354 180 N 147 21 CN23-H1-46
+TOP 46 8.5456693 0.5165354 180 N 42 26 CN23-H1-47
+TOP 47 8.5456693 0.4165354 180 N 41 22 CN23-H1-48
+TOP 48 8.4456693 0.5165354 180 N 40 24 CN23-H1-49
+TOP 49 8.4456693 0.4165354 180 N 145 21 CN23-H1-50
+TOP 50 8.3456693 0.5165354 180 N 144 28 CN23-H1-51
+TOP 51 8.3456693 0.4165354 180 N 39 18 CN23-H1-52
+#
+# CMP 70
+CMP 10 10.8406696 4.057796 0 N CN15 External_SSW-126-01-G-D ;0=2,1=0.1220
+PRP Color 'Black'
+PRP ComponentLink1Description 'http://suddendocs.samtec.com/prints/ssw-1xx-xx-xxx-x-xx-xxx-xx-mkt.pdf?src-supplier=Digi-Key'
+PRP ComponentLink1URL 'http://suddendocs.samtec.com/prints/ssw-1xx-xx-xxx-x-xx-xxx-xx-mkt.pdf?src-supplier=Digi-Key'
+PRP Connector_Type 'Receptacle,Socket'
+PRP Contact_Material 'Bronze'
+PRP Contact_Plating 'Gold'
+PRP Contact_Resistance '10mR'
+PRP Depth '4.95mm'
+PRP Gender 'Receptacle'
+PRP Housing_Color 'Black'
+PRP Housing_Material 'Polymer'
+PRP Lead_Free 'Lead Free'
+PRP Length '66.55mm'
+PRP Manufacturer 'Samtec'
+PRP Manufacturer_Part_Number 'SSW-126-01-G-D'
+PRP Mating_Cycles '100'
+PRP Max_Current_Rating '5.5A'
+PRP Max_Operating_Temperature '125°C'
+PRP Max_Voltage_Rating_(AC) '550V'
+PRP Min_Operating_Temperature '-55°C'
+PRP Mount 'Through Hole'
+PRP Number_of_Contacts '52'
+PRP Number_of_Positions '52'
+PRP Number_of_Rows '2'
+PRP Orientation 'Straight'
+PRP Packaging 'Bulk'
+PRP Partnumber 'SSW-126-01-G-D'
+PRP Pitch '2.54mm'
+PRP Pricing_1 '1=6.95, 10=5.8, 100=4.93, 250=4.4, 500=4.05, 1000=3.8 (USD)'
+PRP Pricing_2 '1=6.69, 10=6.415, 25=5.8576, 50=5.5786, 100=5.2996, 250=4.74176, 500=4.46284 (USD)'
+PRP REACH_SVHC 'No SVHC'
+PRP Row_Spacing '0.1inch'
+PRP Stock_1 '86'
+PRP Stock_2 '0'
+PRP Supplier_1 'Mouser'
+PRP Supplier_2 'Digi-Key'
+PRP Supplier_Part_Number_1 '200-SSW12601GD'
+PRP Supplier_Part_Number_2 'SAM1208-26-ND'
+PRP Termination 'Solder'
+PRP Width '4.95mm'
+TOP 0 11.0426618 3.9583472 270 N 103 103 CN15-0
+TOP 1 11.193898 7.3308274 270 N 103 104 CN15-0
+TOP 2 8.0433075 7.3308274 270 N 103 105 CN15-0
+TOP 3 8.1417327 3.957796 270 N 103 106 CN15-0
+TOP 4 10.8406696 4.057796 180 N 38 24 CN15-H2-1
+TOP 5 10.8406696 3.957796 180 N 37 26 CN15-H2-2
+TOP 6 10.7406696 4.057796 180 N 117 29 CN15-H2-3
+TOP 7 10.7406696 3.957796 180 N 116 33 CN15-H2-4
+TOP 8 10.6406696 4.057796 180 N 107 29 CN15-H2-5
+TOP 9 10.6406696 3.957796 180 N 36 34 CN15-H2-6
+TOP 10 10.5406696 4.057796 180 N 108 29 CN15-H2-7
+TOP 11 10.5406696 3.957796 180 N 115 40 CN15-H2-8
+TOP 12 10.4406696 4.057796 180 N 35 27 CN15-H2-9
+TOP 13 10.4406696 3.957796 180 N 34 31 CN15-H2-10
+TOP 14 10.3406696 4.057796 180 N 112 18 CN15-H2-11
+TOP 15 10.3406696 3.957796 180 N 111 32 CN15-H2-12
+TOP 16 10.2406696 4.057796 180 N 2 29 CN15-H2-13
+TOP 17 10.2406696 3.957796 180 N 33 32 CN15-H2-14
+TOP 18 10.1406696 4.057796 180 N 32 31 CN15-H2-15
+TOP 19 10.1406696 3.957796 180 N 31 32 CN15-H2-16
+TOP 20 10.0396856 4.057796 180 N 30 29 CN15-H2-17
+TOP 21 10.0406696 3.957796 180 N 143 33 CN15-H2-18
+TOP 22 9.9406696 4.057796 180 N 29 29 CN15-H2-19
+TOP 23 9.9406696 3.957796 180 N 142 33 CN15-H2-20
+TOP 24 9.8406696 4.057796 180 N 28 26 CN15-H2-21
+TOP 25 9.8406696 3.957796 180 N 141 33 CN15-H2-22
+TOP 26 9.7406696 4.057796 180 N 27 27 CN15-H2-23
+TOP 27 9.7406696 3.957796 180 N 26 38 CN15-H2-24
+TOP 28 9.6406696 4.057796 180 N 25 26 CN15-H2-25
+TOP 29 9.6406696 3.957796 180 N 146 32 CN15-H2-26
+TOP 30 9.5406696 4.057796 180 N 148 26 CN15-H2-27
+TOP 31 9.5406696 3.957796 180 N 24 33 CN15-H2-28
+TOP 32 9.4406696 4.057796 180 N 23 23 CN15-H2-29
+TOP 33 9.4406696 3.957796 180 N 22 32 CN15-H2-30
+TOP 34 9.3406696 4.057796 180 N 21 26 CN15-H2-31
+TOP 35 9.3406696 3.957796 180 N 20 31 CN15-H2-32
+TOP 36 9.2406696 4.057796 180 N 19 24 CN15-H2-33
+TOP 37 9.2406696 3.957796 180 N 18 32 CN15-H2-34
+TOP 38 9.1406696 4.057796 180 N 17 21 CN15-H2-35
+TOP 39 9.1406696 3.957796 180 N 149 33 CN15-H2-36
+TOP 40 9.0406696 4.057796 180 N 16 22 CN15-H2-37
+TOP 41 9.0406696 3.957796 180 N 15 33 CN15-H2-38
+TOP 42 8.9406696 4.057796 180 N 134 26 CN15-H2-39
+TOP 43 8.9406696 3.957796 180 N 135 33 CN15-H2-40
+TOP 44 8.8406696 4.057796 180 N 133 26 CN15-H2-41
+TOP 45 8.8406696 3.957796 180 N 140 30 CN15-H2-42
+TOP 46 8.7406696 4.057796 180 N 14 21 CN15-H2-43
+TOP 47 8.7406696 3.957796 180 N 13 26 CN15-H2-44
+TOP 48 8.6406696 4.057796 180 N 132 22 CN15-H2-45
+TOP 49 8.6406696 3.957796 180 N 12 33 CN15-H2-46
+TOP 50 8.5406696 4.057796 180 N 11 23 CN15-H2-47
+TOP 51 8.5406696 3.957796 180 N 10 33 CN15-H2-48
+TOP 52 8.4406696 4.057796 180 N 125 24 CN15-H2-49
+TOP 53 8.4406696 3.957796 180 N 9 32 CN15-H2-50
+TOP 54 8.3406696 4.057796 180 N 126 19 CN15-H2-51
+TOP 55 8.3406696 3.957796 180 N 8 31 CN15-H2-52
+#
+# CMP 71
+CMP 13 7.1063 0.517086 0 N CN21 Inner_SSW-126-01-G-D ;0=2,1=0.1220
+PRP Color 'Black'
+PRP ComponentLink1Description 'http://suddendocs.samtec.com/prints/ssw-1xx-xx-xxx-x-xx-xxx-xx-mkt.pdf?src-supplier=Digi-Key'
+PRP ComponentLink1URL 'http://suddendocs.samtec.com/prints/ssw-1xx-xx-xxx-x-xx-xxx-xx-mkt.pdf?src-supplier=Digi-Key'
+PRP Connector_Type 'Receptacle,Socket'
+PRP Contact_Material 'Bronze'
+PRP Contact_Plating 'Gold'
+PRP Contact_Resistance '10mR'
+PRP Depth '4.95mm'
+PRP Gender 'Receptacle'
+PRP Housing_Color 'Black'
+PRP Housing_Material 'Polymer'
+PRP Lead_Free 'Lead Free'
+PRP Length '66.55mm'
+PRP Manufacturer 'Samtec'
+PRP Manufacturer_Part_Number 'SSW-126-01-G-D'
+PRP Mating_Cycles '100'
+PRP Max_Current_Rating '5.5A'
+PRP Max_Operating_Temperature '125°C'
+PRP Max_Voltage_Rating_(AC) '550V'
+PRP Min_Operating_Temperature '-55°C'
+PRP Mount 'Through Hole'
+PRP Number_of_Contacts '52'
+PRP Number_of_Positions '52'
+PRP Number_of_Rows '2'
+PRP Orientation 'Straight'
+PRP Packaging 'Bulk'
+PRP Partnumber 'SSW-126-01-G-D'
+PRP Pitch '2.54mm'
+PRP Pricing_1 '1=6.95, 10=5.8, 100=4.93, 250=4.4, 500=4.05, 1000=3.8 (USD)'
+PRP Pricing_2 '1=6.69, 10=6.415, 25=5.8576, 50=5.5786, 100=5.2996, 250=4.74176, 500=4.46284 (USD)'
+PRP REACH_SVHC 'No SVHC'
+PRP Row_Spacing '0.1inch'
+PRP Stock_1 '86'
+PRP Stock_2 '0'
+PRP Supplier_1 'Mouser'
+PRP Supplier_2 'Digi-Key'
+PRP Supplier_Part_Number_1 '200-SSW12601GD'
+PRP Supplier_Part_Number_2 'SAM1208-26-ND'
+PRP Termination 'Solder'
+PRP Width '4.95mm'
+TOP 0 7.1063 0.517086 180 N 138 29 CN21-H1-1
+TOP 1 7.1063 0.417086 180 N 67 14 CN21-H1-2
+TOP 2 7.0063 0.517086 180 N 139 27 CN21-H1-3
+TOP 3 7.0063 0.417086 180 N 66 23 CN21-H1-4
+TOP 4 6.9063 0.517086 180 N 65 29 CN21-H1-5
+TOP 5 6.9063 0.417086 180 N 64 24 CN21-H1-6
+TOP 6 6.8063 0.517086 180 N 124 29 CN21-H1-7
+TOP 7 6.8063 0.417086 180 N 123 23 CN21-H1-8
+TOP 8 6.7063 0.517086 180 N 122 30 CN21-H1-9
+TOP 9 6.7063 0.417086 180 N 129 24 CN21-H1-10
+TOP 10 6.6063 0.517086 180 N 121 30 CN21-H1-11
+TOP 11 6.6063 0.417086 180 N 130 24 CN21-H1-12
+TOP 12 6.5063 0.517086 180 N 63 30 CN21-H1-13
+TOP 13 6.5063 0.417086 180 N 62 24 CN21-H1-14
+TOP 14 6.4063 0.517086 180 N 61 30 CN21-H1-15
+TOP 15 6.4063 0.417086 180 N 60 24 CN21-H1-16
+TOP 16 6.305316 0.517086 180 N 110 30 CN21-H1-17
+TOP 17 6.3063 0.417086 180 N 119 24 CN21-H1-18
+TOP 18 6.2063 0.517086 180 N 109 30 CN21-H1-19
+TOP 19 6.2063 0.417086 180 N 118 24 CN21-H1-20
+TOP 20 6.1063 0.517086 180 N 137 30 CN21-H1-21
+TOP 21 6.1063 0.417086 180 N 59 24 CN21-H1-22
+TOP 22 6.0063 0.517086 180 N 136 29 CN21-H1-23
+TOP 23 6.0063 0.417086 180 N 58 23 CN21-H1-24
+TOP 24 5.9063 0.517086 180 N 57 31 CN21-H1-25
+TOP 25 5.9063 0.417086 180 N 56 23 CN21-H1-26
+TOP 26 5.8063 0.517086 180 N 55 27 CN21-H1-27
+TOP 27 5.8063 0.417086 180 N 54 22 CN21-H1-28
+TOP 28 5.7063 0.517086 180 N 131 27 CN21-H1-29
+TOP 29 5.7063 0.417086 180 N 53 22 CN21-H1-30
+TOP 30 5.6063 0.517086 180 N 52 27 CN21-H1-31
+TOP 31 5.6063 0.417086 180 N 51 22 CN21-H1-32
+TOP 32 5.5063 0.517086 180 N 50 27 CN21-H1-33
+TOP 33 5.5063 0.417086 180 N 49 22 CN21-H1-34
+TOP 34 5.4063 0.517086 180 N 114 27 CN21-H1-35
+TOP 35 5.4063 0.417086 180 N 48 22 CN21-H1-36
+TOP 36 5.3063 0.517086 180 N 113 26 CN21-H1-37
+TOP 37 5.3063 0.417086 180 N 47 22 CN21-H1-38
+TOP 38 5.2063 0.517086 180 N 46 27 CN21-H1-39
+TOP 39 5.2063 0.417086 180 N 120 22 CN21-H1-40
+TOP 40 5.1063 0.517086 180 N 127 27 CN21-H1-41
+TOP 41 5.1063 0.417086 180 N 45 22 CN21-H1-42
+TOP 42 5.0063 0.517086 180 N 128 26 CN21-H1-43
+TOP 43 5.0063 0.417086 180 N 44 22 CN21-H1-44
+TOP 44 4.9063 0.517086 180 N 43 27 CN21-H1-45
+TOP 45 4.9063 0.417086 180 N 147 22 CN21-H1-46
+TOP 46 4.8063 0.517086 180 N 42 27 CN21-H1-47
+TOP 47 4.8063 0.417086 180 N 41 23 CN21-H1-48
+TOP 48 4.7063 0.517086 180 N 40 25 CN21-H1-49
+TOP 49 4.7063 0.417086 180 N 145 22 CN21-H1-50
+TOP 50 4.6063 0.517086 180 N 144 29 CN21-H1-51
+TOP 51 4.6063 0.417086 180 N 39 19 CN21-H1-52
+#
+# CMP 72
+CMP 8 7.1062992 0.3170868 0 N CN22 External_SSW-126-01-G-D ;0=2,1=0.1220
+PRP Color 'Black'
+PRP ComponentLink1Description 'http://suddendocs.samtec.com/prints/ssw-1xx-xx-xxx-x-xx-xxx-xx-mkt.pdf?src-supplier=Digi-Key'
+PRP ComponentLink1URL 'http://suddendocs.samtec.com/prints/ssw-1xx-xx-xxx-x-xx-xxx-xx-mkt.pdf?src-supplier=Digi-Key'
+PRP Connector_Type 'Receptacle,Socket'
+PRP Contact_Material 'Bronze'
+PRP Contact_Plating 'Gold'
+PRP Contact_Resistance '10mR'
+PRP Depth '4.95mm'
+PRP Gender 'Receptacle'
+PRP Housing_Color 'Black'
+PRP Housing_Material 'Polymer'
+PRP Lead_Free 'Lead Free'
+PRP Length '66.55mm'
+PRP Manufacturer 'Samtec'
+PRP Manufacturer_Part_Number 'SSW-126-01-G-D'
+PRP Mating_Cycles '100'
+PRP Max_Current_Rating '5.5A'
+PRP Max_Operating_Temperature '125°C'
+PRP Max_Voltage_Rating_(AC) '550V'
+PRP Min_Operating_Temperature '-55°C'
+PRP Mount 'Through Hole'
+PRP Number_of_Contacts '52'
+PRP Number_of_Positions '52'
+PRP Number_of_Rows '2'
+PRP Orientation 'Straight'
+PRP Packaging 'Bulk'
+PRP Partnumber 'SSW-126-01-G-D'
+PRP Pitch '2.54mm'
+PRP Pricing_1 '1=6.95, 10=5.8, 100=4.93, 250=4.4, 500=4.05, 1000=3.8 (USD)'
+PRP Pricing_2 '1=6.69, 10=6.415, 25=5.8576, 50=5.5786, 100=5.2996, 250=4.74176, 500=4.46284 (USD)'
+PRP REACH_SVHC 'No SVHC'
+PRP Row_Spacing '0.1inch'
+PRP Stock_1 '86'
+PRP Stock_2 '0'
+PRP Supplier_1 'Mouser'
+PRP Supplier_2 'Digi-Key'
+PRP Supplier_Part_Number_1 '200-SSW12601GD'
+PRP Supplier_Part_Number_2 'SAM1208-26-ND'
+PRP Termination 'Solder'
+PRP Width '4.95mm'
+TOP 0 4.4073623 0.2170868 270 N 103 107 CN22-0
+TOP 1 4.3089371 3.5901182 270 N 103 108 CN22-0
+TOP 2 7.4595276 3.5901182 270 N 103 109 CN22-0
+TOP 3 7.3082914 0.217638 270 N 103 110 CN22-0
+TOP 4 7.1062992 0.3170868 180 N 38 25 CN22-H2-1
+TOP 5 7.1062992 0.2170868 180 N 37 27 CN22-H2-2
+TOP 6 7.0062992 0.3170868 180 N 117 30 CN22-H2-3
+TOP 7 7.0062992 0.2170868 180 N 116 34 CN22-H2-4
+TOP 8 6.9062992 0.3170868 180 N 107 30 CN22-H2-5
+TOP 9 6.9062992 0.2170868 180 N 36 35 CN22-H2-6
+TOP 10 6.8062992 0.3170868 180 N 108 30 CN22-H2-7
+TOP 11 6.8062992 0.2170868 180 N 115 41 CN22-H2-8
+TOP 12 6.7062992 0.3170868 180 N 35 28 CN22-H2-9
+TOP 13 6.7062992 0.2170868 180 N 34 32 CN22-H2-10
+TOP 14 6.6062992 0.3170868 180 N 112 19 CN22-H2-11
+TOP 15 6.6062992 0.2170868 180 N 111 33 CN22-H2-12
+TOP 16 6.5062992 0.3170868 180 N 2 30 CN22-H2-13
+TOP 17 6.5062992 0.2170868 180 N 33 33 CN22-H2-14
+TOP 18 6.4062992 0.3170868 180 N 32 32 CN22-H2-15
+TOP 19 6.4062992 0.2170868 180 N 31 33 CN22-H2-16
+TOP 20 6.3053152 0.3170868 180 N 30 30 CN22-H2-17
+TOP 21 6.3062992 0.2170868 180 N 143 34 CN22-H2-18
+TOP 22 6.2062992 0.3170868 180 N 29 30 CN22-H2-19
+TOP 23 6.2062992 0.2170868 180 N 142 34 CN22-H2-20
+TOP 24 6.1062992 0.3170868 180 N 28 27 CN22-H2-21
+TOP 25 6.1062992 0.2170868 180 N 141 34 CN22-H2-22
+TOP 26 6.0062992 0.3170868 180 N 27 28 CN22-H2-23
+TOP 27 6.0062992 0.2170868 180 N 26 39 CN22-H2-24
+TOP 28 5.9062992 0.3170868 180 N 25 27 CN22-H2-25
+TOP 29 5.9062992 0.2170868 180 N 146 33 CN22-H2-26
+TOP 30 5.8062992 0.3170868 180 N 148 27 CN22-H2-27
+TOP 31 5.8062992 0.2170868 180 N 24 34 CN22-H2-28
+TOP 32 5.7062992 0.3170868 180 N 23 24 CN22-H2-29
+TOP 33 5.7062992 0.2170868 180 N 22 33 CN22-H2-30
+TOP 34 5.6062992 0.3170868 180 N 21 27 CN22-H2-31
+TOP 35 5.6062992 0.2170868 180 N 20 32 CN22-H2-32
+TOP 36 5.5062992 0.3170868 180 N 19 25 CN22-H2-33
+TOP 37 5.5062992 0.2170868 180 N 18 33 CN22-H2-34
+TOP 38 5.4062992 0.3170868 180 N 17 22 CN22-H2-35
+TOP 39 5.4062992 0.2170868 180 N 149 34 CN22-H2-36
+TOP 40 5.3062992 0.3170868 180 N 16 23 CN22-H2-37
+TOP 41 5.3062992 0.2170868 180 N 15 34 CN22-H2-38
+TOP 42 5.2062992 0.3170868 180 N 134 27 CN22-H2-39
+TOP 43 5.2062992 0.2170868 180 N 135 34 CN22-H2-40
+TOP 44 5.1062992 0.3170868 180 N 133 27 CN22-H2-41
+TOP 45 5.1062992 0.2170868 180 N 140 31 CN22-H2-42
+TOP 46 5.0062992 0.3170868 180 N 14 22 CN22-H2-43
+TOP 47 5.0062992 0.2170868 180 N 13 27 CN22-H2-44
+TOP 48 4.9062992 0.3170868 180 N 132 23 CN22-H2-45
+TOP 49 4.9062992 0.2170868 180 N 12 34 CN22-H2-46
+TOP 50 4.8062992 0.3170868 180 N 11 24 CN22-H2-47
+TOP 51 4.8062992 0.2170868 180 N 10 34 CN22-H2-48
+TOP 52 4.7062992 0.3170868 180 N 125 25 CN22-H2-49
+TOP 53 4.7062992 0.2170868 180 N 9 33 CN22-H2-50
+TOP 54 4.6062992 0.3170868 180 N 126 20 CN22-H2-51
+TOP 55 4.6062992 0.2170868 180 N 8 32 CN22-H2-52
+#
+# CMP 73
+CMP 10 7.1083866 4.057244 0 N CN17 External_SSW-126-01-G-D ;0=2,1=0.1220
+PRP Color 'Black'
+PRP ComponentLink1Description 'http://suddendocs.samtec.com/prints/ssw-1xx-xx-xxx-x-xx-xxx-xx-mkt.pdf?src-supplier=Digi-Key'
+PRP ComponentLink1URL 'http://suddendocs.samtec.com/prints/ssw-1xx-xx-xxx-x-xx-xxx-xx-mkt.pdf?src-supplier=Digi-Key'
+PRP Connector_Type 'Receptacle,Socket'
+PRP Contact_Material 'Bronze'
+PRP Contact_Plating 'Gold'
+PRP Contact_Resistance '10mR'
+PRP Depth '4.95mm'
+PRP Gender 'Receptacle'
+PRP Housing_Color 'Black'
+PRP Housing_Material 'Polymer'
+PRP Lead_Free 'Lead Free'
+PRP Length '66.55mm'
+PRP Manufacturer 'Samtec'
+PRP Manufacturer_Part_Number 'SSW-126-01-G-D'
+PRP Mating_Cycles '100'
+PRP Max_Current_Rating '5.5A'
+PRP Max_Operating_Temperature '125°C'
+PRP Max_Voltage_Rating_(AC) '550V'
+PRP Min_Operating_Temperature '-55°C'
+PRP Mount 'Through Hole'
+PRP Number_of_Contacts '52'
+PRP Number_of_Positions '52'
+PRP Number_of_Rows '2'
+PRP Orientation 'Straight'
+PRP Packaging 'Bulk'
+PRP Partnumber 'SSW-126-01-G-D'
+PRP Pitch '2.54mm'
+PRP Pricing_1 '1=6.95, 10=5.8, 100=4.93, 250=4.4, 500=4.05, 1000=3.8 (USD)'
+PRP Pricing_2 '1=6.69, 10=6.415, 25=5.8576, 50=5.5786, 100=5.2996, 250=4.74176, 500=4.46284 (USD)'
+PRP REACH_SVHC 'No SVHC'
+PRP Row_Spacing '0.1inch'
+PRP Stock_1 '86'
+PRP Stock_2 '0'
+PRP Supplier_1 'Mouser'
+PRP Supplier_2 'Digi-Key'
+PRP Supplier_Part_Number_1 '200-SSW12601GD'
+PRP Supplier_Part_Number_2 'SAM1208-26-ND'
+PRP Termination 'Solder'
+PRP Width '4.95mm'
+TOP 0 7.3103788 3.9577952 270 N 103 111 CN17-0
+TOP 1 7.461615 7.3302754 270 N 103 112 CN17-0
+TOP 2 4.3110245 7.3302754 270 N 103 113 CN17-0
+TOP 3 4.4094497 3.957244 270 N 103 114 CN17-0
+TOP 4 7.1083866 4.057244 180 N 38 26 CN17-H2-1
+TOP 5 7.1083866 3.957244 180 N 37 28 CN17-H2-2
+TOP 6 7.0083866 4.057244 180 N 117 31 CN17-H2-3
+TOP 7 7.0083866 3.957244 180 N 116 35 CN17-H2-4
+TOP 8 6.9083866 4.057244 180 N 107 31 CN17-H2-5
+TOP 9 6.9083866 3.957244 180 N 36 36 CN17-H2-6
+TOP 10 6.8083866 4.057244 180 N 108 31 CN17-H2-7
+TOP 11 6.8083866 3.957244 180 N 115 42 CN17-H2-8
+TOP 12 6.7083866 4.057244 180 N 35 29 CN17-H2-9
+TOP 13 6.7083866 3.957244 180 N 34 33 CN17-H2-10
+TOP 14 6.6083866 4.057244 180 N 112 20 CN17-H2-11
+TOP 15 6.6083866 3.957244 180 N 111 34 CN17-H2-12
+TOP 16 6.5083866 4.057244 180 N 2 31 CN17-H2-13
+TOP 17 6.5083866 3.957244 180 N 33 34 CN17-H2-14
+TOP 18 6.4083866 4.057244 180 N 32 33 CN17-H2-15
+TOP 19 6.4083866 3.957244 180 N 31 34 CN17-H2-16
+TOP 20 6.3074026 4.057244 180 N 30 31 CN17-H2-17
+TOP 21 6.3083866 3.957244 180 N 143 35 CN17-H2-18
+TOP 22 6.2083866 4.057244 180 N 29 31 CN17-H2-19
+TOP 23 6.2083866 3.957244 180 N 142 35 CN17-H2-20
+TOP 24 6.1083866 4.057244 180 N 28 28 CN17-H2-21
+TOP 25 6.1083866 3.957244 180 N 141 35 CN17-H2-22
+TOP 26 6.0083866 4.057244 180 N 27 29 CN17-H2-23
+TOP 27 6.0083866 3.957244 180 N 26 40 CN17-H2-24
+TOP 28 5.9083866 4.057244 180 N 25 28 CN17-H2-25
+TOP 29 5.9083866 3.957244 180 N 146 34 CN17-H2-26
+TOP 30 5.8083866 4.057244 180 N 148 28 CN17-H2-27
+TOP 31 5.8083866 3.957244 180 N 24 35 CN17-H2-28
+TOP 32 5.7083866 4.057244 180 N 23 25 CN17-H2-29
+TOP 33 5.7083866 3.957244 180 N 22 34 CN17-H2-30
+TOP 34 5.6083866 4.057244 180 N 21 28 CN17-H2-31
+TOP 35 5.6083866 3.957244 180 N 20 33 CN17-H2-32
+TOP 36 5.5083866 4.057244 180 N 19 26 CN17-H2-33
+TOP 37 5.5083866 3.957244 180 N 18 34 CN17-H2-34
+TOP 38 5.4083866 4.057244 180 N 17 23 CN17-H2-35
+TOP 39 5.4083866 3.957244 180 N 149 35 CN17-H2-36
+TOP 40 5.3083866 4.057244 180 N 16 24 CN17-H2-37
+TOP 41 5.3083866 3.957244 180 N 15 35 CN17-H2-38
+TOP 42 5.2083866 4.057244 180 N 134 28 CN17-H2-39
+TOP 43 5.2083866 3.957244 180 N 135 35 CN17-H2-40
+TOP 44 5.1083866 4.057244 180 N 133 28 CN17-H2-41
+TOP 45 5.1083866 3.957244 180 N 140 32 CN17-H2-42
+TOP 46 5.0083866 4.057244 180 N 14 23 CN17-H2-43
+TOP 47 5.0083866 3.957244 180 N 13 28 CN17-H2-44
+TOP 48 4.9083866 4.057244 180 N 132 24 CN17-H2-45
+TOP 49 4.9083866 3.957244 180 N 12 35 CN17-H2-46
+TOP 50 4.8083866 4.057244 180 N 11 25 CN17-H2-47
+TOP 51 4.8083866 3.957244 180 N 10 35 CN17-H2-48
+TOP 52 4.7083866 4.057244 180 N 125 26 CN17-H2-49
+TOP 53 4.7083866 3.957244 180 N 9 34 CN17-H2-50
+TOP 54 4.6083866 4.057244 180 N 126 21 CN17-H2-51
+TOP 55 4.6083866 3.957244 180 N 8 33 CN17-H2-52
+#
+# CMP 74
+CMP 13 3.3259843 0.5170866 0 N CN20 Inner_SSW-126-01-G-D ;0=2,1=0.1220
+PRP Color 'Black'
+PRP ComponentLink1Description 'http://suddendocs.samtec.com/prints/ssw-1xx-xx-xxx-x-xx-xxx-xx-mkt.pdf?src-supplier=Digi-Key'
+PRP ComponentLink1URL 'http://suddendocs.samtec.com/prints/ssw-1xx-xx-xxx-x-xx-xxx-xx-mkt.pdf?src-supplier=Digi-Key'
+PRP Connector_Type 'Receptacle,Socket'
+PRP Contact_Material 'Bronze'
+PRP Contact_Plating 'Gold'
+PRP Contact_Resistance '10mR'
+PRP Depth '4.95mm'
+PRP Gender 'Receptacle'
+PRP Housing_Color 'Black'
+PRP Housing_Material 'Polymer'
+PRP Lead_Free 'Lead Free'
+PRP Length '66.55mm'
+PRP Manufacturer 'Samtec'
+PRP Manufacturer_Part_Number 'SSW-126-01-G-D'
+PRP Mating_Cycles '100'
+PRP Max_Current_Rating '5.5A'
+PRP Max_Operating_Temperature '125°C'
+PRP Max_Voltage_Rating_(AC) '550V'
+PRP Min_Operating_Temperature '-55°C'
+PRP Mount 'Through Hole'
+PRP Number_of_Contacts '52'
+PRP Number_of_Positions '52'
+PRP Number_of_Rows '2'
+PRP Orientation 'Straight'
+PRP Packaging 'Bulk'
+PRP Partnumber 'SSW-126-01-G-D'
+PRP Pitch '2.54mm'
+PRP Pricing_1 '1=6.95, 10=5.8, 100=4.93, 250=4.4, 500=4.05, 1000=3.8 (USD)'
+PRP Pricing_2 '1=6.69, 10=6.415, 25=5.8576, 50=5.5786, 100=5.2996, 250=4.74176, 500=4.46284 (USD)'
+PRP REACH_SVHC 'No SVHC'
+PRP Row_Spacing '0.1inch'
+PRP Stock_1 '86'
+PRP Stock_2 '0'
+PRP Supplier_1 'Mouser'
+PRP Supplier_2 'Digi-Key'
+PRP Supplier_Part_Number_1 '200-SSW12601GD'
+PRP Supplier_Part_Number_2 'SAM1208-26-ND'
+PRP Termination 'Solder'
+PRP Width '4.95mm'
+TOP 0 3.3259843 0.5170866 180 N 138 30 CN20-H1-1
+TOP 1 3.3259843 0.4170866 180 N 67 15 CN20-H1-2
+TOP 2 3.2259843 0.5170866 180 N 139 28 CN20-H1-3
+TOP 3 3.2259843 0.4170866 180 N 66 24 CN20-H1-4
+TOP 4 3.1259843 0.5170866 180 N 65 30 CN20-H1-5
+TOP 5 3.1259843 0.4170866 180 N 64 25 CN20-H1-6
+TOP 6 3.0259843 0.5170866 180 N 124 30 CN20-H1-7
+TOP 7 3.0259843 0.4170866 180 N 123 24 CN20-H1-8
+TOP 8 2.9259843 0.5170866 180 N 122 31 CN20-H1-9
+TOP 9 2.9259843 0.4170866 180 N 129 25 CN20-H1-10
+TOP 10 2.8259843 0.5170866 180 N 121 31 CN20-H1-11
+TOP 11 2.8259843 0.4170866 180 N 130 25 CN20-H1-12
+TOP 12 2.7259843 0.5170866 180 N 63 31 CN20-H1-13
+TOP 13 2.7259843 0.4170866 180 N 62 25 CN20-H1-14
+TOP 14 2.6259843 0.5170866 180 N 61 31 CN20-H1-15
+TOP 15 2.6259843 0.4170866 180 N 60 25 CN20-H1-16
+TOP 16 2.5250003 0.5170866 180 N 110 31 CN20-H1-17
+TOP 17 2.5259843 0.4170866 180 N 119 25 CN20-H1-18
+TOP 18 2.4259843 0.5170866 180 N 109 31 CN20-H1-19
+TOP 19 2.4259843 0.4170866 180 N 118 25 CN20-H1-20
+TOP 20 2.3259843 0.5170866 180 N 137 31 CN20-H1-21
+TOP 21 2.3259843 0.4170866 180 N 59 25 CN20-H1-22
+TOP 22 2.2259843 0.5170866 180 N 136 30 CN20-H1-23
+TOP 23 2.2259843 0.4170866 180 N 58 24 CN20-H1-24
+TOP 24 2.1259843 0.5170866 180 N 57 32 CN20-H1-25
+TOP 25 2.1259843 0.4170866 180 N 56 24 CN20-H1-26
+TOP 26 2.0259843 0.5170866 180 N 55 28 CN20-H1-27
+TOP 27 2.0259843 0.4170866 180 N 54 23 CN20-H1-28
+TOP 28 1.9259843 0.5170866 180 N 131 28 CN20-H1-29
+TOP 29 1.9259843 0.4170866 180 N 53 23 CN20-H1-30
+TOP 30 1.8259843 0.5170866 180 N 52 28 CN20-H1-31
+TOP 31 1.8259843 0.4170866 180 N 51 23 CN20-H1-32
+TOP 32 1.7259843 0.5170866 180 N 50 28 CN20-H1-33
+TOP 33 1.7259843 0.4170866 180 N 49 23 CN20-H1-34
+TOP 34 1.6259843 0.5170866 180 N 114 28 CN20-H1-35
+TOP 35 1.6259843 0.4170866 180 N 48 23 CN20-H1-36
+TOP 36 1.5259843 0.5170866 180 N 113 27 CN20-H1-37
+TOP 37 1.5259843 0.4170866 180 N 47 23 CN20-H1-38
+TOP 38 1.4259843 0.5170866 180 N 46 28 CN20-H1-39
+TOP 39 1.4259843 0.4170866 180 N 120 23 CN20-H1-40
+TOP 40 1.3259843 0.5170866 180 N 127 28 CN20-H1-41
+TOP 41 1.3259843 0.4170866 180 N 45 23 CN20-H1-42
+TOP 42 1.2259843 0.5170866 180 N 128 27 CN20-H1-43
+TOP 43 1.2259843 0.4170866 180 N 44 23 CN20-H1-44
+TOP 44 1.1259843 0.5170866 180 N 43 28 CN20-H1-45
+TOP 45 1.1259843 0.4170866 180 N 147 23 CN20-H1-46
+TOP 46 1.0259843 0.5170866 180 N 42 28 CN20-H1-47
+TOP 47 1.0259843 0.4170866 180 N 41 24 CN20-H1-48
+TOP 48 0.9259843 0.5170866 180 N 40 26 CN20-H1-49
+TOP 49 0.9259843 0.4170866 180 N 145 23 CN20-H1-50
+TOP 50 0.8259843 0.5170866 180 N 144 30 CN20-H1-51
+TOP 51 0.8259843 0.4170866 180 N 39 20 CN20-H1-52
+#
+# CMP 75
+CMP 13 10.8406693 4.2577953 0 N CN18 Inner_SSW-126-01-G-D ;0=2,1=0.1220
+PRP Color 'Black'
+PRP ComponentLink1Description 'http://suddendocs.samtec.com/prints/ssw-1xx-xx-xxx-x-xx-xxx-xx-mkt.pdf?src-supplier=Digi-Key'
+PRP ComponentLink1URL 'http://suddendocs.samtec.com/prints/ssw-1xx-xx-xxx-x-xx-xxx-xx-mkt.pdf?src-supplier=Digi-Key'
+PRP Connector_Type 'Receptacle,Socket'
+PRP Contact_Material 'Bronze'
+PRP Contact_Plating 'Gold'
+PRP Contact_Resistance '10mR'
+PRP Depth '4.95mm'
+PRP Gender 'Receptacle'
+PRP Housing_Color 'Black'
+PRP Housing_Material 'Polymer'
+PRP Lead_Free 'Lead Free'
+PRP Length '66.55mm'
+PRP Manufacturer 'Samtec'
+PRP Manufacturer_Part_Number 'SSW-126-01-G-D'
+PRP Mating_Cycles '100'
+PRP Max_Current_Rating '5.5A'
+PRP Max_Operating_Temperature '125°C'
+PRP Max_Voltage_Rating_(AC) '550V'
+PRP Min_Operating_Temperature '-55°C'
+PRP Mount 'Through Hole'
+PRP Number_of_Contacts '52'
+PRP Number_of_Positions '52'
+PRP Number_of_Rows '2'
+PRP Orientation 'Straight'
+PRP Packaging 'Bulk'
+PRP Partnumber 'SSW-126-01-G-D'
+PRP Pitch '2.54mm'
+PRP Pricing_1 '1=6.95, 10=5.8, 100=4.93, 250=4.4, 500=4.05, 1000=3.8 (USD)'
+PRP Pricing_2 '1=6.69, 10=6.415, 25=5.8576, 50=5.5786, 100=5.2996, 250=4.74176, 500=4.46284 (USD)'
+PRP REACH_SVHC 'No SVHC'
+PRP Row_Spacing '0.1inch'
+PRP Stock_1 '86'
+PRP Stock_2 '0'
+PRP Supplier_1 'Mouser'
+PRP Supplier_2 'Digi-Key'
+PRP Supplier_Part_Number_1 '200-SSW12601GD'
+PRP Supplier_Part_Number_2 'SAM1208-26-ND'
+PRP Termination 'Solder'
+PRP Width '4.95mm'
+TOP 0 10.8406693 4.2577953 180 N 138 31 CN18-H1-1
+TOP 1 10.8406693 4.1577953 180 N 67 16 CN18-H1-2
+TOP 2 10.7406693 4.2577953 180 N 139 29 CN18-H1-3
+TOP 3 10.7406693 4.1577953 180 N 66 25 CN18-H1-4
+TOP 4 10.6406693 4.2577953 180 N 65 31 CN18-H1-5
+TOP 5 10.6406693 4.1577953 180 N 64 26 CN18-H1-6
+TOP 6 10.5406693 4.2577953 180 N 124 31 CN18-H1-7
+TOP 7 10.5406693 4.1577953 180 N 123 25 CN18-H1-8
+TOP 8 10.4406693 4.2577953 180 N 122 32 CN18-H1-9
+TOP 9 10.4406693 4.1577953 180 N 129 26 CN18-H1-10
+TOP 10 10.3406693 4.2577953 180 N 121 32 CN18-H1-11
+TOP 11 10.3406693 4.1577953 180 N 130 26 CN18-H1-12
+TOP 12 10.2406693 4.2577953 180 N 63 32 CN18-H1-13
+TOP 13 10.2406693 4.1577953 180 N 62 26 CN18-H1-14
+TOP 14 10.1406693 4.2577953 180 N 61 32 CN18-H1-15
+TOP 15 10.1406693 4.1577953 180 N 60 26 CN18-H1-16
+TOP 16 10.0396853 4.2577953 180 N 110 32 CN18-H1-17
+TOP 17 10.0406693 4.1577953 180 N 119 26 CN18-H1-18
+TOP 18 9.9406693 4.2577953 180 N 109 32 CN18-H1-19
+TOP 19 9.9406693 4.1577953 180 N 118 26 CN18-H1-20
+TOP 20 9.8406693 4.2577953 180 N 137 32 CN18-H1-21
+TOP 21 9.8406693 4.1577953 180 N 59 26 CN18-H1-22
+TOP 22 9.7406693 4.2577953 180 N 136 31 CN18-H1-23
+TOP 23 9.7406693 4.1577953 180 N 58 25 CN18-H1-24
+TOP 24 9.6406693 4.2577953 180 N 57 33 CN18-H1-25
+TOP 25 9.6406693 4.1577953 180 N 56 25 CN18-H1-26
+TOP 26 9.5406693 4.2577953 180 N 55 29 CN18-H1-27
+TOP 27 9.5406693 4.1577953 180 N 54 24 CN18-H1-28
+TOP 28 9.4406693 4.2577953 180 N 131 29 CN18-H1-29
+TOP 29 9.4406693 4.1577953 180 N 53 24 CN18-H1-30
+TOP 30 9.3406693 4.2577953 180 N 52 29 CN18-H1-31
+TOP 31 9.3406693 4.1577953 180 N 51 24 CN18-H1-32
+TOP 32 9.2406693 4.2577953 180 N 50 29 CN18-H1-33
+TOP 33 9.2406693 4.1577953 180 N 49 24 CN18-H1-34
+TOP 34 9.1406693 4.2577953 180 N 114 29 CN18-H1-35
+TOP 35 9.1406693 4.1577953 180 N 48 24 CN18-H1-36
+TOP 36 9.0406693 4.2577953 180 N 113 28 CN18-H1-37
+TOP 37 9.0406693 4.1577953 180 N 47 24 CN18-H1-38
+TOP 38 8.9406693 4.2577953 180 N 46 29 CN18-H1-39
+TOP 39 8.9406693 4.1577953 180 N 120 24 CN18-H1-40
+TOP 40 8.8406693 4.2577953 180 N 127 29 CN18-H1-41
+TOP 41 8.8406693 4.1577953 180 N 45 24 CN18-H1-42
+TOP 42 8.7406693 4.2577953 180 N 128 28 CN18-H1-43
+TOP 43 8.7406693 4.1577953 180 N 44 24 CN18-H1-44
+TOP 44 8.6406693 4.2577953 180 N 43 29 CN18-H1-45
+TOP 45 8.6406693 4.1577953 180 N 147 24 CN18-H1-46
+TOP 46 8.5406693 4.2577953 180 N 42 29 CN18-H1-47
+TOP 47 8.5406693 4.1577953 180 N 41 25 CN18-H1-48
+TOP 48 8.4406693 4.2577953 180 N 40 27 CN18-H1-49
+TOP 49 8.4406693 4.1577953 180 N 145 24 CN18-H1-50
+TOP 50 8.3406693 4.2577953 180 N 144 31 CN18-H1-51
+TOP 51 8.3406693 4.1577953 180 N 39 21 CN18-H1-52
+#
+# CMP 76
+CMP 8 3.3259843 0.3165355 0 N CN19 External_SSW-126-01-G-D ;0=2,1=0.1220
+PRP Color 'Black'
+PRP ComponentLink1Description 'http://suddendocs.samtec.com/prints/ssw-1xx-xx-xxx-x-xx-xxx-xx-mkt.pdf?src-supplier=Digi-Key'
+PRP ComponentLink1URL 'http://suddendocs.samtec.com/prints/ssw-1xx-xx-xxx-x-xx-xxx-xx-mkt.pdf?src-supplier=Digi-Key'
+PRP Connector_Type 'Receptacle,Socket'
+PRP Contact_Material 'Bronze'
+PRP Contact_Plating 'Gold'
+PRP Contact_Resistance '10mR'
+PRP Depth '4.95mm'
+PRP Gender 'Receptacle'
+PRP Housing_Color 'Black'
+PRP Housing_Material 'Polymer'
+PRP Lead_Free 'Lead Free'
+PRP Length '66.55mm'
+PRP Manufacturer 'Samtec'
+PRP Manufacturer_Part_Number 'SSW-126-01-G-D'
+PRP Mating_Cycles '100'
+PRP Max_Current_Rating '5.5A'
+PRP Max_Operating_Temperature '125°C'
+PRP Max_Voltage_Rating_(AC) '550V'
+PRP Min_Operating_Temperature '-55°C'
+PRP Mount 'Through Hole'
+PRP Number_of_Contacts '52'
+PRP Number_of_Positions '52'
+PRP Number_of_Rows '2'
+PRP Orientation 'Straight'
+PRP Packaging 'Bulk'
+PRP Partnumber 'SSW-126-01-G-D'
+PRP Pitch '2.54mm'
+PRP Pricing_1 '1=6.95, 10=5.8, 100=4.93, 250=4.4, 500=4.05, 1000=3.8 (USD)'
+PRP Pricing_2 '1=6.69, 10=6.415, 25=5.8576, 50=5.5786, 100=5.2996, 250=4.74176, 500=4.46284 (USD)'
+PRP REACH_SVHC 'No SVHC'
+PRP Row_Spacing '0.1inch'
+PRP Stock_1 '86'
+PRP Stock_2 '0'
+PRP Supplier_1 'Mouser'
+PRP Supplier_2 'Digi-Key'
+PRP Supplier_Part_Number_1 '200-SSW12601GD'
+PRP Supplier_Part_Number_2 'SAM1208-26-ND'
+PRP Termination 'Solder'
+PRP Width '4.95mm'
+TOP 0 0.6270474 0.2165355 270 N 103 115 CN19-0
+TOP 1 0.5286222 3.5895669 270 N 103 116 CN19-0
+TOP 2 3.6792127 3.5895669 270 N 103 117 CN19-0
+TOP 3 3.5279765 0.2170867 270 N 103 118 CN19-0
+TOP 4 3.3259843 0.3165355 180 N 38 27 CN19-H2-1
+TOP 5 3.3259843 0.2165355 180 N 37 29 CN19-H2-2
+TOP 6 3.2259843 0.3165355 180 N 117 32 CN19-H2-3
+TOP 7 3.2259843 0.2165355 180 N 116 36 CN19-H2-4
+TOP 8 3.1259843 0.3165355 180 N 107 32 CN19-H2-5
+TOP 9 3.1259843 0.2165355 180 N 36 37 CN19-H2-6
+TOP 10 3.0259843 0.3165355 180 N 108 32 CN19-H2-7
+TOP 11 3.0259843 0.2165355 180 N 115 43 CN19-H2-8
+TOP 12 2.9259843 0.3165355 180 N 35 30 CN19-H2-9
+TOP 13 2.9259843 0.2165355 180 N 34 34 CN19-H2-10
+TOP 14 2.8259843 0.3165355 180 N 112 21 CN19-H2-11
+TOP 15 2.8259843 0.2165355 180 N 111 35 CN19-H2-12
+TOP 16 2.7259843 0.3165355 180 N 2 32 CN19-H2-13
+TOP 17 2.7259843 0.2165355 180 N 33 35 CN19-H2-14
+TOP 18 2.6259843 0.3165355 180 N 32 34 CN19-H2-15
+TOP 19 2.6259843 0.2165355 180 N 31 35 CN19-H2-16
+TOP 20 2.5250003 0.3165355 180 N 30 32 CN19-H2-17
+TOP 21 2.5259843 0.2165355 180 N 143 36 CN19-H2-18
+TOP 22 2.4259843 0.3165355 180 N 29 32 CN19-H2-19
+TOP 23 2.4259843 0.2165355 180 N 142 36 CN19-H2-20
+TOP 24 2.3259843 0.3165355 180 N 28 29 CN19-H2-21
+TOP 25 2.3259843 0.2165355 180 N 141 36 CN19-H2-22
+TOP 26 2.2259843 0.3165355 180 N 27 30 CN19-H2-23
+TOP 27 2.2259843 0.2165355 180 N 26 41 CN19-H2-24
+TOP 28 2.1259843 0.3165355 180 N 25 29 CN19-H2-25
+TOP 29 2.1259843 0.2165355 180 N 146 35 CN19-H2-26
+TOP 30 2.0259843 0.3165355 180 N 148 29 CN19-H2-27
+TOP 31 2.0259843 0.2165355 180 N 24 36 CN19-H2-28
+TOP 32 1.9259843 0.3165355 180 N 23 26 CN19-H2-29
+TOP 33 1.9259843 0.2165355 180 N 22 35 CN19-H2-30
+TOP 34 1.8259843 0.3165355 180 N 21 29 CN19-H2-31
+TOP 35 1.8259843 0.2165355 180 N 20 34 CN19-H2-32
+TOP 36 1.7259843 0.3165355 180 N 19 27 CN19-H2-33
+TOP 37 1.7259843 0.2165355 180 N 18 35 CN19-H2-34
+TOP 38 1.6259843 0.3165355 180 N 17 24 CN19-H2-35
+TOP 39 1.6259843 0.2165355 180 N 149 36 CN19-H2-36
+TOP 40 1.5259843 0.3165355 180 N 16 25 CN19-H2-37
+TOP 41 1.5259843 0.2165355 180 N 15 36 CN19-H2-38
+TOP 42 1.4259843 0.3165355 180 N 134 29 CN19-H2-39
+TOP 43 1.4259843 0.2165355 180 N 135 36 CN19-H2-40
+TOP 44 1.3259843 0.3165355 180 N 133 29 CN19-H2-41
+TOP 45 1.3259843 0.2165355 180 N 140 33 CN19-H2-42
+TOP 46 1.2259843 0.3165355 180 N 14 24 CN19-H2-43
+TOP 47 1.2259843 0.2165355 180 N 13 29 CN19-H2-44
+TOP 48 1.1259843 0.3165355 180 N 132 25 CN19-H2-45
+TOP 49 1.1259843 0.2165355 180 N 12 36 CN19-H2-46
+TOP 50 1.0259843 0.3165355 180 N 11 26 CN19-H2-47
+TOP 51 1.0259843 0.2165355 180 N 10 36 CN19-H2-48
+TOP 52 0.9259843 0.3165355 180 N 125 27 CN19-H2-49
+TOP 53 0.9259843 0.2165355 180 N 9 35 CN19-H2-50
+TOP 54 0.8259843 0.3165355 180 N 126 22 CN19-H2-51
+TOP 55 0.8259843 0.2165355 180 N 8 34 CN19-H2-52
+#
+# CMP 77
+CMP 12 7.7952756 4.56693 0 N FD8 Fiducial_1.3 ;0=1,1=0.0000
+TOP 0 7.795276 4.56693 0 N 0 36 FD8-FD0
+#
+# CMP 78
+CMP 12 4.015748 4.56693 0 N FD7 Fiducial_1.3 ;0=1,1=0.0000
+TOP 0 4.015748 4.56693 0 N 0 35 FD7-FD0
+#
+# CMP 79
+CMP 12 11.6141732 0.590552 0 N FD6 Fiducial_1.3 ;0=1,1=0.0000
+TOP 0 11.6141735 0.5905512 0 N 0 40 FD6-FD0
+#
+# CMP 80
+CMP 12 11.6141732 4.56693 0 N FD5 Fiducial_1.3 ;0=1,1=0.0000
+TOP 0 11.614174 4.56693 0 N 0 37 FD5-FD0
+#
+# CMP 81
+CMP 12 11.6771663 8.0708665 0 N FD4 Fiducial_1.3 ;0=1,1=0.0000
+TOP 0 11.677166 8.070866 0 N 0 41 FD4-FD0
+#
+# CMP 82
+CMP 12 0.1968499 8.0236221 0 N FD3 Fiducial_1.3 ;0=1,1=0.0000
+TOP 0 0.19685 8.023622 0 N 0 9 FD3-FD0
+#
+# CMP 83
+CMP 12 0.1968504 4.5669291 0 N FD2 Fiducial_1.3 ;0=1,1=0.0000
+TOP 0 0.19685 4.56693 0 N 0 38 FD2-FD0
+#
+# CMP 84
+CMP 12 0.196851 0.5905516 0 N FD1 Fiducial_1.3 ;0=1,1=0.0000
+TOP 0 0.196852 0.590552 0 N 0 39 FD1-FD0
+#
+# CMP 85
+CMP 18 7.8149606 4.3307087 0 N MEC8 M3 ;0=2,1=0.0000
+TOP 0 7.81496 4.330708 270 N 0 50 MEC8-0
+#
+# CMP 86
+CMP 18 3.996063 4.3307087 0 N MEC7 M3 ;0=2,1=0.0000
+TOP 0 3.996064 4.330708 270 N 0 51 MEC7-0
+#
+# CMP 87
+CMP 18 3.996063 0.1968504 0 N MEC6 M3 ;0=2,1=0.0000
+TOP 0 3.996064 0.19685 270 N 0 52 MEC6-0
+#
+# CMP 88
+CMP 19 7.8149606 0.2444882 0 N MEC5 M3 ;0=2,1=0.0000
+TOP 0 7.81496 0.1968504 270 N 0 53 MEC5-0
+#
+# CMP 89
+CMP 20 11.6348417 0.1968504 0 N MEC4 M3 ;0=2,1=0.0000
+TOP 0 11.6141732 0.196852 270 N 0 59 MEC4-0
+#
+# CMP 90
+CMP 18 11.6141733 4.3307087 0 N MEC3 M3 ;0=2,1=0.0000
+TOP 0 11.614174 4.330708 270 N 0 88 MEC3-0
+#
+# CMP 91
+CMP 21 11.6771653 8.4645669 0 N MEC2 M3 ;0=2,1=0.0000
+TOP 0 11.6141732 8.464566 270 N 0 54 MEC2-0
+#
+# CMP 92
+CMP 18 7.8149606 8.4645669 0 N MEC1 M3 ;0=2,1=0.0000
+TOP 0 7.81496 8.464566 270 N 0 55 MEC1-0
+#
+# CMP 93
+CMP 18 3.996063 8.4645669 0 N MEC12 M3 ;0=2,1=0.0000
+TOP 0 3.996064 8.464566 270 N 0 56 MEC12-0
+#
+# CMP 94
+CMP 18 0.1968504 8.4645669 0 N MEC11 M3 ;0=2,1=0.0000
+TOP 0 0.19685 8.464566 270 N 0 57 MEC11-0
+#
+# CMP 95
+CMP 18 0.1968504 4.3307087 0 N MEC10 M3 ;0=2,1=0.0000
+TOP 0 0.19685 4.330708 270 N 0 89 MEC10-0
+#
+# CMP 96
+CMP 18 0.1968504 0.1968504 0 N MEC9 M3 ;0=2,1=0.0000
+TOP 0 0.19685 0.19685 270 N 0 58 MEC9-0
+#
