@@ -37,7 +37,7 @@
 </p>
 
 <p align="center">
-    <img src="https://github.com/spacelab-ufsc/flatsat-platform/blob/documentation/doc/figures/flatsat_perspective_image.PNG">
+    <img src="https://github.com/spacelab-ufsc/flatsat-platform/blob/documentation/doc/figures/flatsat_perspective_image.png">
 </p>
 
 ## Overview
