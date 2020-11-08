@@ -1,5 +1,5 @@
 <h1 align="center">
-	SpaceLab FlatSat Hardware
+	SpaceLab FlatSat Platform Hardware
 	<br>
 </h1>
 
@@ -18,31 +18,28 @@
 	<a href="">
 		<img src="https://img.shields.io/badge/license-CERN-red?style=for-the-badge">
 	</a>
+	<!---
 	<a href="https://github.com/spacelab-ufsc/obdh2/tree/dev/doc/build">
 		<img src="https://img.shields.io/badge/for%20more-here-lightgray?style=for-the-badge">
 	</a>
+	--->
 </p>
 
 <p align="center">
-  	<a href="#overview">Overview</a> •
+  	<a href="#overview">Hardwar overview</a> •
   	<a href="#architecture">Architecture</a> •
-  	<a href="#development">Development</a> •
-  	<a href="#version">Version</a> •
   	<a href="#license">License</a> •
   	<a href="#notes">Notes</a>
 </p>
 
-Images TBD
-<!---
 <p align="center">
-	<img width="45%" src="https://github.com/spacelab-ufsc/obdh2/blob/master/doc/figures/obdh2-pcb-top.png">
-	<img width="45%" src="https://github.com/spacelab-ufsc/obdh2/blob/master/doc/figures/obdh2-pcb-bottom.png">
+	<img width="45%" src="https://github.com/spacelab-ufsc/flatsat-platform/blob/documentation/doc/figures/flatsat_top_image.PNG">
+	<img width="45%" src="https://github.com/spacelab-ufsc/flatsat-platform/blob/documentation/doc/figures/flatsat_bottom_image.PNG">
 </p>
---->
 
-## Overview
+## Hardware overview
 
-The SpaceLab FlatSat v0.1 is a 300mmx220mm PCB composed by the following main components:
+Currently in v0.1, the SpaceLab FlatSat Platform is a 300mmx220mm PCB composed by the following main hardware components:
 
 * 7 PC104 connectors, one of them with inverted pinout.
 * RBF pin header for a jumper and Kill-Switches with SPDTs.
@@ -61,10 +58,18 @@ The SpaceLab FlatSat v0.1 is a 300mmx220mm PCB composed by the following main co
 
 TBD
 
-## References
+<!---
+
+## Version
 
 TBD
 
+--->
+
 ## License
 
-This project is licensed under CERN Open Hardware License, version 2.
+The hardware part of this project is licensed under CERN Open Hardware License, version 2.
+
+## Notes
+
+More info about the SpaceLab: [GitHub](https://github.com/spacelab-ufsc/spacelab) and [Website](https://spacelab.ufsc.br/en/home/).
