@@ -17,7 +17,7 @@
 %
 % \institution Universidade Federal de Santa Catarina (UFSC)
 %
-% \version 0.1.2
+% \version 0.1.3
 %
 % \date 2020/10/11
 %
@@ -64,7 +64,7 @@ On SpaceLab's FlatSat Platform the PC104 interfaces are composed by two 52 pins 
 
 \section{Binding Posts and Power Receptacles}
 
-Two sets of binding posts (\textit{4243-0}) can be mouted labeled CN4 and CN10 pads on the PCB to be used for two external power supplies, see figure \ref{fig:binding-posts}. The modules are powered via external jumper wires to the 12 position receptacle connectors (\textit{BCS-106-L-D-TE}) labeled CN6 and CN12. On the silkscreen the plus (+) signs are the positive power pins while the minus (-) signs are the GND pins.
+Two sets of binding posts (\textit{4243-0}) can be mouted on the labeled CN4 and CN10 hole pads to be used for two external power supplies, see figure \ref{fig:binding-posts}. The modules are powered via external jumper wires to the 12 position receptacle connectors (\textit{BCS-106-L-D-TE}) labeled CN6 and CN12. On the silkscreen the plus (+) signs are the positive power pins while the minus (-) signs are the GND pins.
 
 \begin{figure}[!ht]
     \begin{center}
@@ -122,7 +122,7 @@ The kill-switches uses SPDT switches (\textit{100SP1T1B4M2QE}) for powering off 
 
 \subsection{SMA connectors}
 
-On the PCB there are SMA connectors (\textit{132134-15}) labeled "ANT1" to "ANT8" for connecting VHF, UHF and S band antennas, see figure \ref{fig:antennas-smas}. The receiver (Rx) antenna is to be connected to one of the SMA, while the transmitter (Tx) goes to the other connector and to the CubeSat module. The impedance control (see figure \ref{fig:rf-track-width-calc}) and power dissipation (see figure \ref{fig:rf-track-width-power-calc}) where approximately calculated for all 3 bands. As the FlatSat platform is to be used in light testing the aproximations where considered acceptable for the project.
+On the PCB there are SMA connectors (\textit{132134-15}) labeled ANT1 to ANT8 for connecting VHF, UHF and S band antennas, see figure \ref{fig:antennas-smas}. The receiver (Rx) antenna is to be connected to one of the SMA, while the transmitter (Tx) goes to the other connector and to the CubeSat module. The impedance control (see figure \ref{fig:rf-track-width-calc}) and power dissipation (see figure \ref{fig:rf-track-width-power-calc}) where approximately calculated for all 3 bands. As the FlatSat platform is to be used in light testing the aproximations where considered acceptable for the project.
 
 \begin{figure}[!ht]
     \begin{center}
@@ -173,3 +173,31 @@ USB Bridge converter IC is the \textit{FT4232HL-REEL} from FTDI. PicoBlade conne
         \label{fig:uart-picoblades-2}
     \end{center}
 \end{figure}
+
+\section{Test Points}
+
+The FlatSat has test points for the UART to USB converter circuit. The table \ref{tab:testpoints} displays their labels and description.
+
+\begin{table}[!h]
+    \centering
+    \begin{tabular}{cllll}
+        \toprule[1.5pt]
+        \textit{Label} & \textit{Description} \\
+        \midrule
+        TP1                & (VPLL) 3V3 FT4232H power input. \\
+        TP2                & (VREGOUT) 1V8 FT4232H internal power output. \\
+        TP3                & (VPHY) 3V3 FT4232H power input. \\
+        TP4                & (REF) Current reference for FT4232H. \\
+        TP5                & (RESET\#) Reset input for FT4232H. \\
+        TP6                & (EECS) EEPROM chip select - pulled down by 10k resistor. \\
+        TP7                & (VCCIO) I/O interface 3V3 power supply input. \\
+        TP8                & (EEDATA) EEPROM data I/O - pulled up by 10k resistor. \\
+        TP9                & (EECLK) Clock signal to EEPROM - not used. \\
+        TP10               & (PWREN\#) Active low power-enable output. \\
+        TP11               & (SUSPEND\#) Active low when USB is in suspend mode. \\
+        TP12               & (GND) 0V ground input for FT4232H.\\
+        \bottomrule[1.5pt]
+    \end{tabular}
+    \caption{FlatSat test points.}
+    \label{tab:testpoints}
+\end{table}
