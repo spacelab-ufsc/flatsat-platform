@@ -17,7 +17,7 @@
 %
 % \institution Universidade Federal de Santa Catarina (UFSC)
 %
-% \version 0.1.3
+% \version 0.1.4
 %
 % \date 2020/10/11
 %
@@ -44,7 +44,7 @@ This chapter describes all the FlatSat's hardware interfaces in detail. On figur
 
 \section{PC104 Interfaces}
 
-On SpaceLab's FlatSat Platform the PC104 interfaces are composed by two 52 pins with 2.54mm (0.1 inch) pitch connectors. Slots Nº2 to Nº7 has two \textit{SSW-126-01-G-D} and the slot Nº1 uses two \textit{TSW-126-07-G-D} connectors with inverted pinout, see figures \ref{fig:n2-n7-slots} and \ref{fig:n1-slot}. All pins are interconected to flexiblesize the positioning of the modules on the platform. All slots have grounded mouting holes for the modules, the MEC1 to MEC12 holes are for the FlatSat's stability feet.
+On SpaceLab's FlatSat Platform the PC104 interfaces are composed by two 52 pins with 2.54mm (0.1 inch) pitch connectors. Slots Nº2 to Nº7 has two \textit{SSW-126-01-G-D} and the slot Nº1 uses two \textit{TSW-126-07-G-D} connectors with inverted pinout, see figures \ref{fig:n2-n7-slots} and \ref{fig:n1-slot}. All pins are interconected to flexiblesize the positioning of the modules on the platform. All slots have grounded unlabeled mounting holes for the modules, the labeled MEC1 to MEC12 holes are for the FlatStats stability feet.
 
 \begin{figure}[!ht]
     \begin{center}
@@ -158,7 +158,7 @@ USB Bridge converter IC is the \textit{FT4232HL-REEL} from FTDI. PicoBlade conne
 \begin{figure}[!ht]
     \begin{center}
         \includegraphics[width=0.75\textwidth]{figures/ft4232h_circuit.png}
-        \caption{UART to USB converter circuit.}
+        \caption{Top view of the UART to USB converter circuit.}
         \label{fig:ft4232h-circuit}
     \end{center}
 \end{figure}
