@@ -1,0 +1,37 @@
+%
+% intructions.tex
+%
+% Copyright (C) 2021 by SpaceLab.
+%
+% Flatsat Platform Documentation
+%
+% This work is licensed under the Creative Commons Attribution-ShareAlike 4.0
+% International License. To view a copy of this license,
+% visit http://creativecommons.org/licenses/by-sa/4.0/.
+%
+
+%
+% \brief Usage Instructions chapter.
+%
+% \authors: Yan Castro de Azeredo <yan.azeredo@spacelab.ufsc.br>
+%
+% \institution Universidade Federal de Santa Catarina (UFSC)
+%
+% \version 0.1.0
+%
+% \date 2020/04/01
+%
+
+\chapter{Usage Instructions} \label{ch:instructions}
+
+\section{Charging Batteries Through Connector}
+
+To charge the batteries it will be needed a cable compatible with the JST XH header. The compatible housing is a XHP-2 receptacle, the jumper lead socket to socket to be used can be \textit{ASXHSXH22K305}, or any other with AWG \#30 to \#22. The only constraint is that the current cannot excel 2000mA, because the PicoBlades connectors used to interconnect the JST header to the EPS only supports 1000mA per pin. For safe usage it is recommended to use the header with a maximum of 1500mA charge current.
+
+\section{Debugging Though USB}
+
+Connecting a type A to micro type B USB cable to a PC and the USB port present on the FlatSat, the four USB to UART channels should be ready to be used. Note that the computer will recognize the port as four different devices. The FT4232H IC present on the platform  doesn't have an EEPROM, so it will be already configured to operate as default serial ports. The FT4232H will have the built-in default VID (0403) and PID (6011).
+
+\section{Debugging Though PC104}
+
+Since all PC104 interfaces are interconnected any slot can be used for probing and debbuging. Intentionally the slot Nº7 or also labeled "external interface" on the PCB was meant to be used for testing all pins. A new board or another FlatSat platform can be connected to this interface if the pinout of the specific project is compatible. The GOLDS-UFSC pinout is avalaible at its github repository \cite{golds-ufsc}.
