@@ -534,7 +534,7 @@ Configuration16_Item1=Record=ExportSTEPView|ExportComponentOptions=0|ExportModel
 OutputType17=PCBDrawing
 OutputName17=board_draftsman
 OutputCategory17=Documentation
-OutputDocumentPath17=board_layout.PCBDwf
+OutputDocumentPath17=
 OutputVariantName17=
 OutputEnabled17=1
 OutputEnabled17_OutputMedium1=0
