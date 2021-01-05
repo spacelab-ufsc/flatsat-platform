@@ -50,21 +50,9 @@ Currently in v0.1, the SpaceLab FlatSat Platform is a 300mmx220mm PCB composed b
 
 ## Hardware architecture diagram
 
-<!---
 <p align="center">
-	<img width="70%" src="https://github.com/spacelab-ufsc/obdh2/blob/master/doc/figures/block_diagram.pdf">
+	<img width="70%" src="https://github.com/spacelab-ufsc/flatsat-platform/blob/documentation/doc/figures/flatsat_block_diagram.png">
 </p>
---->
-
-TBD
-
-<!---
-
-## Version
-
-TBD
-
---->
 
 ## License
 
