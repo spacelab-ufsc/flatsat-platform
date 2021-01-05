@@ -1,5 +1,5 @@
 SRC=main
-TARGET=slb-flatsat-doc-v0.1
+TARGET=slb-flatsat-doc-v0.2
 
 ifndef BUILD_DIR
 	BUILD_DIR=build
