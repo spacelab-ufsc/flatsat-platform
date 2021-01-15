@@ -1,9 +1,9 @@
 %
 % spacelab_book.sty
 %
-% Copyright (C) 2020 by SpaceLab.
+% Copyright (C) 2020 by Universidade Federal de Santa Catarina.
 %
-% Flatsat Platform Documentation
+% Documentation of Interstage Interface Panels
 %
 % This work is licensed under the Creative Commons Attribution-ShareAlike 4.0
 % International License. To view a copy of this license,
@@ -13,13 +13,13 @@
 %
 % \brief Document style customization and packages.
 %
-% \author Gabriel Mariano Marcelino <gabriel.mm8@gmail.com>
+% \author Gabriel Mariano Marcelino <gabriel.marcelino@spacelab.ufsc.br>
 %
 % \institution Universidade Federal de Santa Catarina (UFSC)
 %
-% \version 0.1.0
+% \version 1.0.0
 %
-% \date 2020/07/16
+% \date 2019/07/18
 %
 
 \ProvidesPackage{spacelab_book}
@@ -30,6 +30,7 @@
 \usepackage[english]{babel}
 \usepackage{ae}
 \usepackage{graphicx}
+\usepackage{url}
 \usepackage[hidelinks]{hyperref}
 \usepackage{fancyhdr}
 \usepackage{subfigure}
@@ -50,13 +51,15 @@
 \usepackage[toc,page]{appendix}     % Appendix
 \usepackage{lscape}
 \usepackage[bottom]{footmisc}
+\usepackage{pifont}
 \usepackage{multicol}
 \usepackage{caption}                % \caption*
+\usepackage{indentfirst}            % Indent the first paragraph after \chapter or \section
 \usepackage{listings}               % Codes
+\usepackage{scrbase}                % \newcaptionname
+\usepackage{xcolor}
 \usepackage[outdir=figures/]{epstopdf}
-\usepackage{longtable}              % Multiple pages table
 \usepackage[math]{iwona}
-\usepackage{xcolor, colortbl}
 
 % URLs font style
 \urlstyle{same}
@@ -89,6 +92,3 @@
 \newcolumntype{L}[1]{>{\raggedright\arraybackslash}p{#1}}
 \newcolumntype{C}[1]{>{\centering\arraybackslash}p{#1}}
 \newcolumntype{R}[1]{>{\raggedleft\arraybackslash}p{#1}}
-
-% Fill a cell of a table
-\newcommand{\fc}{\cellcolor{gray}}
