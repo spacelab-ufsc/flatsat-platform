@@ -6,28 +6,38 @@
 <h4 align="center">FlatSat platform hardware project (sources, outputs, and documentation).</h4>
 
 <p align="center">
+    <a href="https://github.com/spacelab-ufsc/spacelab#versioning">
+        <img src="https://img.shields.io/badge/status-in%20development-red?style=for-the-badge">
+    </a>
+    <a href="https://github.com/spacelab-ufsc/flatsat-platform/releases">
+        <img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/spacelab-ufsc/flatsat-platform?style=for-the-badge">
+    </a>
+    <a href="https://github.com/spacelab-ufsc/flatsat-platform/releases">
+        <img alt="GitHub commits since latest release (by date) for a branch" src="https://img.shields.io/github/commits-since/spacelab-ufsc/flatsat-platform/latest/dev?style=for-the-badge">
+    </a>
+    <a href="https://github.com/spacelab-ufsc/flatsat-platform/commits/master">
+        <img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/spacelab-ufsc/flatsat-platform/dev?style=for-the-badge">
+    </a>
+    <a href="https://github.com/spacelab-ufsc/flatsat-platform/issues">
+        <img alt="GitHub issues (label)" src="https://img.shields.io/github/issues/spacelab-ufsc/flatsat-platform/hardware?style=for-the-badge">
+    </a>
     <a href="">
-		<img src="https://img.shields.io/badge/status-development-green?style=for-the-badge">
+		<img src="https://img.shields.io/badge/CAD%20tool-altium%20v20.2-yellow?style=for-the-badge">
 	</a>
-    <a href="">
-		<img src="https://img.shields.io/badge/version-0.1-blue?style=for-the-badge">
-	</a>
-	<a href="">
-		<img src="https://img.shields.io/badge/CAD%20tool-altium%20v20.2-9cf?style=for-the-badge">
-	</a>
-	<a href="">
-		<img src="https://img.shields.io/badge/license-CERN-red?style=for-the-badge">
-	</a>
-	<!---
-	<a href="https://github.com/spacelab-ufsc/obdh2/tree/dev/doc/build">
-		<img src="https://img.shields.io/badge/for%20more-here-lightgray?style=for-the-badge">
-	</a>
-	--->
+    <a href="#license">
+        <img src="https://img.shields.io/badge/license-cern%20ohl%202-yellow?style=for-the-badge">
+    </a>
+    <a href="https://github.com/spacelab-ufsc/obdh">
+        <img src="https://img.shields.io/badge/flight-heritage-lightgray?style=for-the-badge">
+    </a>
+    <a href="https://github.com/spacelab-ufsc/flatsat-platform/tree/master/doc">
+        <img src="https://img.shields.io/badge/for%20more-here-lightgray?style=for-the-badge">
+    </a>
 </p>
 
 <p align="center">
-  	<a href="#overview">Hardwar overview</a> •
-  	<a href="#architecture">Architecture</a> •
+  	<a href="#hardware-overview">Hardware overview</a> •
+  	<a href="#hardware-architecture-diagram">Architecture</a> •
   	<a href="#license">License</a> •
   	<a href="#notes">Notes</a>
 </p>
@@ -61,3 +71,4 @@ The hardware part of this project is licensed under CERN Open Hardware License, 
 ## Notes
 
 More info about the SpaceLab: [GitHub](https://github.com/spacelab-ufsc/spacelab) and [Website](https://spacelab.ufsc.br/en/home/).
+
