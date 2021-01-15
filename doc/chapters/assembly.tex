@@ -25,7 +25,7 @@
 
 \chapter{Board Assembly}
 
-The hardware project has the Bill of Material (BOM) avalaible at its GitHub repository in excel spreeadsheets format. The PCB can be assembled by a Pick-and-place machine using the .txt file found on the hardware/fabrication folder if desired, fiducials labeled FD\# are placed to make this possible.
+The hardware project has the Bill of Material (BOM\nomenclature{\textbf{BOM}}{\textit{Bill Of Materials.}}) avalaible at its GitHub repository in excel spreeadsheets format. The PCB can be assembled by a Pick-and-place machine using the .txt file found on the hardware/fabrication folder if desired, fiducials labeled FD\# are placed to make this possible.
 
 \section{FlatSat Stabillity Feet}
 
@@ -33,7 +33,7 @@ On the PCB there are labeled MEC1 to MEC12 mouting holes on the edges and in the
 
 \section{DNP Components}
 
-There is only one Do Not Place (DNP) component present in the USB to UART circuit, it is the labeled R4 pad with 0805 size (2012 metric) available for soldering the micro USB type B chassi to GND for Electromagnetic compatibility (EMC) see \autoref{fig:R4-pad}. This can be done soldering a zero-Ohm resistor for a DC path or capacitor for a high-frequency path between shield and signal ground, see section 2.2.2 of the document \cite{ftdi-usb-hardware-guidelines} for more details.
+There is only one Do Not Place (DNP\nomenclature{\textbf{DNP}}{\textit{Do Not Place.}}) component present in the USB to UART circuit, it is the labeled R4 pad with 0805 size (2012 metric) available for soldering the micro USB type B chassi to GND for Electromagnetic compatibility (EMC\nomenclature{\textbf{EMC}}{\textit{Electromagnetic Compatibility.}}) see \autoref{fig:R4-pad}. This can be done soldering a zero-Ohm resistor for a DC\nomenclature{\textbf{DC}}{\textit{Direct Current.}} path or capacitor for a high-frequency path between shield and signal ground, see Section 2.2.2 of the document \cite{ftdi-usb-hardware-guidelines} for more details.
 
 \begin{figure}[!ht]
     \begin{center}
@@ -45,7 +45,7 @@ There is only one Do Not Place (DNP) component present in the USB to UART circui
 
 \section{Modules Mounting}
 
-The PC-104 slots N$^{\circ}$2 to N$^{\circ}$7 are compatible for CubeSat PCB modules that are stacked in middle or the first on top. The slot N$^{\circ}$1 can only be used for the last module on this stack because of the inverted pinout. For the case of the SpaceLab's CubeSat stackup of the core modules, the last module of the stack is the EPS. For this case the EPS needs to be mounted up-side-down on slot N$^{\circ}$1 as can be seen on \autoref{fig:eps2-mouting}. For other modules any other PC-104 slots can be used, the OBDH is showed mouted on \autoref{fig:obdh2-mouting}.
+The PC-104 slots N$^{\circ}$2 to N$^{\circ}$7 are compatible for CubeSat PCB modules that are stacked in middle or the first on top. The slot N$^{\circ}$1 can only be used for the last module on this stack because of the inverted pinout. For the case of the SpaceLab's CubeSat stackup of the core modules, the last module of the stack is the EPS. For this case the EPS needs to be mounted up-side-down on slot N$^{\circ}$1 as can be seen on \autoref{fig:eps2-mouting}. For other modules any other PC-104 slots can be used, the OBDH\nomenclature{\textbf{OBDH}}{\textit{On-Board Data Handling.}} is showed mouted on \autoref{fig:obdh2-mouting}.
 
 \begin{figure}[!ht]
     \begin{center}
