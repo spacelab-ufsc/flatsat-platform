@@ -1,7 +1,7 @@
 %
 % assembly.tex
 %
-% Copyright (C) 2020 by SpaceLab.
+% Copyright (C) 2021 by SpaceLab.
 %
 % Flatsat Platform Documentation
 %
@@ -13,11 +13,12 @@
 %
 % \brief Board Assembly chapter.
 %
-% \authors: Gabriel Mariano Marcelino <gabriel.marcelino@spacelab.ufsc.br> and Yan Castro de Azeredo <yan.azeredo@spacelab.ufsc.br>
+% \author Gabriel Mariano Marcelino <gabriel.marcelino@spacelab.ufsc.br>
+% \author Yan Castro de Azeredo <yan.azeredo@spacelab.ufsc.br>
 %
 % \institution Universidade Federal de Santa Catarina (UFSC)
 %
-% \version 0.1.1
+% \version 0.1.0
 %
 % \date 2020/24/12
 %
@@ -32,7 +33,7 @@ On the PCB there are labeled MEC1 to MEC12 mouting holes on the edges and in the
 
 \section{DNP Components}
 
-There is only one Do Not Place (DNP) component present in the USB to UART circuit, it is the labeled R4 pad with 0805 size (2012 metric) available for soldering the micro USB type B chassi to GND for Electromagnetic compatibility (EMC) see \ref{fig:R4-pad}. This can be done soldering a zero-ohm resistor for a DC path or capacitor for a high-frequency path between shield and signal ground, see section 2.2.2 of the document \cite{ftdi-usb-hardware-guidelines} for more details.
+There is only one Do Not Place (DNP) component present in the USB to UART circuit, it is the labeled R4 pad with 0805 size (2012 metric) available for soldering the micro USB type B chassi to GND for Electromagnetic compatibility (EMC) see \autoref{fig:R4-pad}. This can be done soldering a zero-Ohm resistor for a DC path or capacitor for a high-frequency path between shield and signal ground, see section 2.2.2 of the document \cite{ftdi-usb-hardware-guidelines} for more details.
 
 \begin{figure}[!ht]
     \begin{center}
@@ -44,12 +45,12 @@ There is only one Do Not Place (DNP) component present in the USB to UART circui
 
 \section{Modules Mounting}
 
-The PC104 slots Nº2 to Nº7 are compatible for CubeSat PCB modules that are stacked in middle or the first on top. The slot Nº1 can only be used for the last module on this stack because of the inverted pinout. For the case of the SpaceLab's CubeSat stackup of the core modules, the last module of the stack is the EPS. For this case the EPS needs to be mounted up-side-down on slot Nº1 as can be seen on figure \ref{fig:eps2-mouting}. For other modules any other PC104 slots can be used, the OBDH is showed mouted on figure \ref{fig:obdh2-mouting}. 
+The PC-104 slots N$^{\circ}$2 to N$^{\circ}$7 are compatible for CubeSat PCB modules that are stacked in middle or the first on top. The slot N$^{\circ}$1 can only be used for the last module on this stack because of the inverted pinout. For the case of the SpaceLab's CubeSat stackup of the core modules, the last module of the stack is the EPS. For this case the EPS needs to be mounted up-side-down on slot N$^{\circ}$1 as can be seen on \autoref{fig:eps2-mouting}. For other modules any other PC-104 slots can be used, the OBDH is showed mouted on \autoref{fig:obdh2-mouting}.
 
 \begin{figure}[!ht]
     \begin{center}
         \includegraphics[width=0.8\textwidth]{figures/eps2_mouting.png}
-        \caption{EPS mounted on Nº1 slot on a EDA tool.}
+        \caption{EPS mounted on N$^{\circ}$1 slot on a EDA tool.}
         \label{fig:eps2-mouting}
     \end{center}
 \end{figure}
@@ -57,11 +58,11 @@ The PC104 slots Nº2 to Nº7 are compatible for CubeSat PCB modules that are sta
 \begin{figure}[!ht]
     \begin{center}
         \includegraphics[width=0.8\textwidth]{figures/obdh2_mouting.png}
-        \caption{OBDH mounted on Nº2 slot on a EDA tool.}
+        \caption{OBDH mounted on N$^{\circ}$2 slot on a EDA tool.}
         \label{fig:obdh2-mouting}
     \end{center}
 \end{figure}
 
 \section{Antennas Connection}
 
-Since the SMA connectors present on the board are on the right far side, modules placed in the opposite side may not be in reach for the connection. Because of this reason is recommended to use slots Nº1 and Nº4 for non antenna dependents PCBs.
+Since the SMA connectors present on the board are on the right far side, modules placed in the opposite side may not be in reach for the connection. Because of this reason is recommended to use slots N$^{\circ}$1 and N$^{\circ}$4 for non antenna dependents PCBs.
